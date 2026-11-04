@@ -1,0 +1,236 @@
+{
+ "date": "2026-11-04",
+ "window_hours": 24,
+ "fetched_at": "2026-11-04T19:12:54.369415+00:00",
+ "failed_feeds": [
+  "36氪: xml error: not well-formed (invalid token): line 10, column 168",
+  "机器之心: xml error: mismatched tag: line 36, column 66"
+ ],
+ "candidates": [
+  {
+   "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/507647.html",
+   "published": "2026-11-04T16:13:23+00:00",
+   "age_hours": 3.0,
+   "score": 7.5,
+   "summary": "连路人都有自己的想法"
+  },
+  {
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "published": "2026-11-04T07:00:00+00:00",
+   "age_hours": 12.2,
+   "score": 7.5,
+   "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+  },
+  {
+   "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+   "published": "2026-11-04T18:21:40+00:00",
+   "age_hours": 0.9,
+   "score": 7.0,
+   "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring pos"
+  },
+  {
+   "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
+   "published": "2026-11-04T16:51:35+00:00",
+   "age_hours": 2.4,
+   "score": 7.0,
+   "summary": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement."
+  },
+  {
+   "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
+   "published": "2026-11-04T16:17:22+00:00",
+   "age_hours": 2.9,
+   "score": 7.0,
+   "summary": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly."
+  },
+  {
+   "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+   "published": "2026-11-04T15:00:00+00:00",
+   "age_hours": 4.2,
+   "score": 7.0,
+   "summary": "Titan OS has raised $110 million in funding to date."
+  },
+  {
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/index/openai-to-acquire-pierre",
+   "published": "2026-11-04T14:30:00+00:00",
+   "age_hours": 4.7,
+   "score": 7.0,
+   "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+  },
+  {
+   "title": "The Download: blended meat, restored sight, and the agentic web",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
+   "published": "2026-11-04T13:10:00+00:00",
+   "age_hours": 6.0,
+   "score": 7.0,
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat In the fall of 2025, Jeff Dodge served hungry students steaming marinara sauce and meatballs"
+  },
+  {
+   "title": "不靠堆砌数据，让机器人看懂真实物理世界 | 招商局狮子山实验室发布「驭物™ Lion-ER-35B-A3B」具身推理模型",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/507586.html",
+   "published": "2026-11-04T10:08:38+00:00",
+   "age_hours": 9.1,
+   "score": 7.0,
+   "summary": "仅激活3B参数，十项基准全线提升！"
+  },
+  {
+   "title": "Nothing teases a screen-free AI device ahead of launch next month",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+   "published": "2026-11-04T18:26:07+00:00",
+   "age_hours": 0.8,
+   "score": 6.5,
+   "summary": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature ["
+  },
+  {
+   "title": "ChatGPT will now make you animated GIFs",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+   "published": "2026-11-04T18:00:00+00:00",
+   "age_hours": 1.2,
+   "score": 6.5,
+   "summary": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with others. Before this change, ChatGPT couldn't natively "
+  },
+  {
+   "title": "Nintendo is losing a Switch cartridge supplier",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/games/1026426/nintendo-switch-cartridges-rom-supplier-data-center",
+   "published": "2026-11-04T17:03:32+00:00",
+   "age_hours": 2.2,
+   "score": 6.5,
+   "summary": "Nintendo is about to lose a major memory supplier for its Switch cartridges. The supplier, Macronix, announced during a recent quarterly earnings call that it would be gradually phasing out ROM production and is instead focusing on NOR flash memory for data centers, Taipei Times reports. Macronix's "
+  },
+  {
+   "title": "华为小艺 Work 率先上线 openPangu-2.1-Pro 模型，主打“鸿蒙任务增强”",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/472.htm",
+   "published": "2026-11-04T16:39:40+00:00",
+   "age_hours": 2.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日消息，华为云 11 月 1 日发布公告，MaaS 模型即服务平台将于 2026 年 11 月 6 日停止销售 openPangu-2.0-Flash 和 openPangu-2.0-Pro 两款模型服务，并于 11 月 30 日 00:00 正式下线。不过华为官方表示， openPangu 系列新版本模型已在规划中，后续将逐步推出上线 。 IT之家实测发现， 小艺 Work 率先上线了 openPangu-2.1-Pro 模型 ，主打“鸿蒙任务增强”。 华为官方暂未公布该模型的具体能力，同时 openPangu-2.1-Pro 模型的具体参数规格（参数量、激活量、上下"
+  },
+  {
+   "title": "Rian Johnson explains why he had to build his own iPhone camera app",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1025659/rian-johnson-chromagraph-camera-interview",
+   "published": "2026-11-04T16:10:05+00:00",
+   "age_hours": 3.0,
+   "score": 6.5,
+   "summary": "Rian Johnson is an analog photography devotee. The director of Knives Out and The Last Jedi can often be spotted on set with a Leica M6 at his side, documenting production on film. But sometimes, it's still easier to reach for a phone. So Johnson started wondering if the photos from his iPhone could"
+  },
+  {
+   "title": "连续 2 小时 40 分钟纯代码生成 66 秒动画，Anthropic 新旗舰 Fable 5.5 实测曝光",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/468.htm",
+   "published": "2026-11-04T15:14:03+00:00",
+   "age_hours": 4.0,
+   "score": 6.5,
+   "summary": "北京时间 11 月 4 日消息，Anthropic 尚未正式发布的下一代旗舰模型 Claude Fable 5.5 近日在海外开发者社区引发关注。多名开发者在社交平台 X 上分享了据称来自该模型的早期测试结果。其中，一段完全通过编程生成的 66 秒动画短片尤为引人注目。测试者称，模型在没有调用图像或视频生成工具的情况下，连续自主编写和运行代码约 2 小时 40 分钟，完成了动画画面、配乐及音效制作。 11 月 2 日，X 平台 AI 开发者 Chetaslua 发布了一段动画短片，并声称其由 Fable 5.5 独立完成。按照他的介绍，短片长度为 66 秒，分辨率 1920×804，帧率 24"
+  },
+  {
+   "title": "陶哲轩警告：人类把思考交给 AI，危险可能很快到来",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/440.htm",
+   "published": "2026-11-04T14:20:30+00:00",
+   "age_hours": 4.9,
+   "score": 6.5,
+   "summary": "北京时间 11 月 4 日，菲尔兹奖得主、著名数学家陶哲轩（Terence Tao）近日对人类日益依赖人工智能发出警告。他担心，随着人们逐渐将思考和解决问题的过程交给 AI，人类正在失去对问题本身及其解决方案的理解，而这一趋势可能很快在现实世界中产生严重后果。 这番言论来自陶哲轩 10 月 16 日在加州大学洛杉矶分校举办的 Science x AI Summit 上的演讲。科学与人工智能研究基金会（SAIR）近日在 YouTube 发布了题为《Math 2.0》的完整演讲视频，相关片段随后在海外社交平台 X 上引发关注。 “我们正在把自己的思考委托给 AI，由它们替我们解决问题。但与此同时，"
+  },
+  {
+   "title": "小米 WorldCast 3D 运镜在 REDMI K100 上线：平面照片还原成三维场景，并虚拟出真实相机轨迹",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/433.htm",
+   "published": "2026-11-04T13:53:25+00:00",
+   "age_hours": 5.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 4 日消息，小米 REDMI K100 手机已于 10 月 27 日正式发布。据小米技术官方今日介绍，该机在影像上新增了 3D 运镜的 AI 玩法 —— 从相册选一张静态照片，AI 就能生成一段大角度 3D 运镜视频，镜头可以环绕、推拉、倾斜，而画面中人物的五官、发型、衣着始终保持一致。 IT之家从小米技术官方了解到，支撑这项功能的，是小米在近期公开论文里带来的 视觉生成框架 WorldCast ：它通过解读画面的深度结构，把平面照片还原成三维场景，并在其中虚拟出一条真实相机轨迹，让镜头像被真实拍摄一样运动，能够在镜头运动过程中持续保持主角外观的一致性。 ▲ WorldCa"
+  },
+  {
+   "title": "字节旗下 AI 开发平台“扣子”：推进企业级服务产品整合升级，现售企业版将先暂停新售",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/432.htm",
+   "published": "2026-11-04T13:40:14+00:00",
+   "age_hours": 5.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 4 日消息，字节跳动旗下 AI 开发平台“扣子（Coze）”发布公告， 正在推进企业级服务的产品整合升级 ，并规划后续可供企业客户选择的产品和套餐方案。配合本次整合，现售扣子企业版将先暂停新售。 IT之家注：官网显示，“扣子”是面向 Agent 时代的新一代 AI 团队协作平台。用户可以一个人调度多个 Agent，也可以和团队成员一起协同多个 Agent，在同一个项目里完成办公、编程、视频创作、文件处理、行业研究等复杂任务。 8 月 24 日，据智能涌现消息，字节跳动对旗下的办公 AI 产品完成了一轮团队整合： TRAE、扣子团队将整体并入豆包体系 ，其中 TRAE Wor"
+  },
+  {
+   "title": "开源项目通过 NPU 而非 GPU 渲染 Win11 桌面：目前刷新率仅 2-3Hz，目标 30Hz",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/430.htm",
+   "published": "2026-11-04T13:24:11+00:00",
+   "age_hours": 5.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 4 日消息，开发者团队 labscommunity 发布了一款面向 Windows 11 的原型驱动程序，尝试使用 NPU 而非系统集成显卡或独立显卡来渲染桌面画面。这款驱动名为 npu-driver，采用 Apache 2.0 开源协议，代码已发布在 GitHub 上。 目前，该驱动已在搭载英特尔 Panther Lake 处理器的设备上完成测试。虽然实际性能距离预定的 30Hz 刷新率目标仍有较大差距，但其已经具备基本的功能，并且能够在用户主动要求或发生故障时自动切换回 GPU 渲染。 开发团队认为，这项尝试回应了近年来处理器发展中的一个问题。npu-driver 项目"
+  },
+  {
+   "title": "Securing the agentic enterprise with data lineage",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
+   "published": "2026-11-04T13:00:00+00:00",
+   "age_hours": 6.2,
+   "score": 6.5,
+   "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No "
+  },
+  {
+   "title": "Data centers are turning to old jet engines as the wait for power grows",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+   "published": "2026-11-03T22:19:53+00:00",
+   "age_hours": 20.9,
+   "score": 6.5,
+   "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines."
+  },
+  {
+   "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+   "published": "2026-11-03T21:43:08+00:00",
+   "age_hours": 21.5,
+   "score": 6.5,
+   "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle."
+  },
+  {
+   "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+   "published": "2026-11-03T19:34:43+00:00",
+   "age_hours": 23.6,
+   "score": 6.5,
+   "summary": "The five-year-old startup raised a $1.3 billion round led by Bessemer."
+  },
+  {
+   "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+   "published": "2026-11-03T19:24:37+00:00",
+   "age_hours": 23.8,
+   "score": 6.5,
+   "summary": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content."
+  },
+  {
+   "title": "实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点",
+   "source": "爱范儿",
+   "link": "https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-04T17:30:04+00:00",
+   "age_hours": 1.7,
+   "score": 6.0,
+   "summary": "这次你一定要用上 Apple 智能！ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  }
+ ]
+}

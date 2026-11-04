@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+episodes/**/tmp/
+episodes/**/episode.mp3
+.DS_Store

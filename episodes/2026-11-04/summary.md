@@ -1,0 +1,10 @@
+- OpenAI 宣布收购 Pierre Computer Company | OpenAI 官方博客 | https://openai.com/index/openai-to-acquire-pierre
+- 百度无人车"黑客帝国"世界模型,跑一天抵三年 | 量子位 | https://www.qbitai.com/2026/11/507647.html
+- 陶哲轩警告:人类把思考交给 AI,危险可能很快到来 | IT之家 | https://www.ithome.com/1/022/440.htm
+- Anthropic 新旗舰 Fable 5.5 实测:纯代码生成 66 秒动画 | IT之家 | https://www.ithome.com/1/022/468.htm
+- ChatGPT will now make you animated GIFs | The Verge | https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6
+- 华为小艺 Work 率先上线 openPangu-2.1-Pro 模型 | IT之家 | https://www.ithome.com/1/022/472.htm
+- Apple Siri Recaps 实测: 意外好用但有点不安 | TechCrunch | https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/
+- Nothing 预告下月发布首款无屏幕 AI 设备 | The Verge | https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei
+- AI inference startup Fal doubles its valuation to $16B | TechCrunch | https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/
+- Data centers are turning to old jet engines for power | TechCrunch | https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/

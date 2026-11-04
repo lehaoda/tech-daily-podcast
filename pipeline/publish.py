@@ -55,7 +55,7 @@ def summary_to_html(summary_path):
         if m:
             url = m.group(1).rstrip(".,)）")
             label = text.replace(url, "").strip(" -—|｜:：(（") or url
-            item = f"{escape(label)} <a href={quoteattr(url)}>{escape(label if len(label) < 30 else url[:50])}</a>"
+            item = f"{escape(label)} <a href={quoteattr(url)}>{escape(label[:60])}</a>"
         else:
             item = escape(text)
         out.append(f"<li>{item}</li>")
@@ -80,7 +80,7 @@ def build_feed(meta, episodes):
     <itunes:image href="{base}/cover.png"/>
   </item>""")
     cats = "".join(
-        f'<itunes:category text="{c.split(":")[-1]}"/>' for c in meta.get("categories", ["Technology"])
+        f'<itunes:category text="{escape(c.split(":")[-1])}"/>' for c in meta.get("categories", ["Technology"])
     )
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:image="http://www.w3.org/2005/Atom">
@@ -248,8 +248,11 @@ def main():
         json.dump(episodes, f, ensure_ascii=False, indent=1)
 
     # 3) feed + index
+    feed_xml = build_feed(meta, episodes)
+    import xml.etree.ElementTree as ET
+    ET.fromstring(feed_xml)  # 护栏: XML 非法就停,不发出去
     with open(os.path.join(ROOT, "feed.xml"), "w") as f:
-        f.write(build_feed(meta, episodes))
+        f.write(feed_xml)
     with open(os.path.join(ROOT, "index.html"), "w") as f:
         f.write(build_index(meta, episodes))
 

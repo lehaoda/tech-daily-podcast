@@ -75,7 +75,7 @@ def build_feed(meta, episodes):
     <link>{base}/#{ep['date']}</link>
     <guid isPermaLink="true">{base}/#{ep['date']}</guid>
     <pubDate>{ep['pubdate']}</pubDate>
-    <enclosure url="{base}/audio/{ep['date']}.mp3" type="audio/mpeg" length="{ep['bytes']}"/>
+    <enclosure url="{base}/audio/{ep['date']}.m4a" type="audio/mp4" length="{ep['bytes']}"/>
     <itunes:duration>{ep['duration']}</itunes:duration>
     <itunes:image href="{base}/cover.png"/>
   </item>""")
@@ -114,7 +114,7 @@ def build_index(meta, episodes):
         rows.append(f"""
   <section>
     <h2><a href="#{ep['date']}">{escape(ep['title'])}</a> <span class="dim">{ep['date']} · {ep['duration']/60:.1f} min</span></h2>
-    <audio controls preload="none" src="/audio/{ep['date']}.mp3"></audio>
+    <audio controls preload="none" src="/audio/{ep['date']}.m4a"></audio>
     <details>{ep['description_html']}</details>
   </section>""")
     return f"""<!doctype html>
@@ -227,6 +227,13 @@ def main():
     with open(mp3, "rb") as a, open(site_mp3, "wb") as b:
         b.write(a.read())
 
+    # 1) 拷贝音频到 site (mp3 留底); 另编码 AAC m4a 作为 enclosure:
+    #    GitHub Pages 对 .mp3 返回非标准 MIME "audio/mp3"(IANA 标准是 audio/mpeg),
+    #    Apple 按标准校验 → 用 .m4a(audio/mp4, 合法 IANA 类型, Apple 官方推荐 AAC)
+    site_m4a = os.path.join(AUDIO_DIR, f"{date_str}.m4a")
+    r = run([FFMPEG, "-y", "-i", mp3, "-c:a", "aac", "-b:a", "64k", site_m4a])
+    if r.returncode != 0:
+        sys.exit("m4a encode failed: " + r.stderr[-300:])
     duration = mp3_duration(site_mp3)
     now = datetime.now().astimezone()
     pubdate = format_datetime(now, usegmt=False)
@@ -241,7 +248,7 @@ def main():
         "title": f"{meta['title']} {date_str} · 第{len(episodes)+1}期",
         "description_html": desc_html,
         "duration": duration,
-        "bytes": os.path.getsize(site_mp3),
+        "bytes": os.path.getsize(site_m4a),
         "pubdate": pubdate,
     })
     with open(EPISODES_JSON, "w") as f:
@@ -257,12 +264,12 @@ def main():
         f.write(build_index(meta, episodes))
 
     # 4) push + pages + 校验
-    ok = git_publish(f"EP {date_str}: 第{episodes[0] and list(episodes).index(episodes[0])+1 or 1}期 科技早报")
+    ok = git_publish(f"EP {date_str}: 第{len(episodes)}期 {meta['title']} (m4a enclosure)")
     if not ok:
         sys.exit("push failed")
     if not ensure_pages():
         sys.exit("pages enable failed (若仓库已开启 Pages 可忽略)")
-    wait_live(base, f"{date_str}.mp3")
+    wait_live(base, f"{date_str}.m4a")
     print(f"episode page: {base}/")
 
 

@@ -1,6 +1,6 @@
-# 科技早报 · 播客
+# 乐见未来 · 播客
 
-每天 5 分钟,主播 Adam 的科技 AI 早间谈话。新闻全部来自正规媒体 RSS,
+每天 5 分钟,主播 Adam 的科技 AI 早间谈话(节目名「乐见未来」,封面 logo 为手绘"乐"字,见 logo.png)。新闻全部来自正规媒体 RSS,
 自动去重(播过的不会重复),每集描述附原始链接。
 
 - 频道页: https://lehaoda.github.io/tech-daily-podcast/

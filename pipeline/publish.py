@@ -122,7 +122,7 @@ def build_index(meta, episodes):
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>科技早报 · 播客</title>
+<title>{escape(meta['title'])} · 播客</title>
 <style>
 :root {{ color-scheme: dark; }}
 body {{ margin:0 auto; max-width:860px; padding:48px 24px 80px; font-family:-apple-system,'PingFang SC','Hiragino Sans GB',sans-serif; background:#0a101e; color:#e8edf5; }}
@@ -143,9 +143,9 @@ details a {{ color:#5ed3eb; }}
 </head>
 <body>
 <header>
-  <img src="/cover.png" alt="科技早报">
+  <img src="/cover.png" alt="{escape(meta['title'])}">
   <div>
-    <h1>科技早报</h1>
+    <h1>{escape(meta['title'])}</h1>
     <div class="sub">{escape(meta['description'])}</div>
     <a class="feed" href="/feed.xml">RSS: {base}/feed.xml</a>
   </div>
@@ -238,7 +238,7 @@ def main():
     episodes = [e for e in load_episodes() if e["date"] != date_str]
     episodes.insert(0, {
         "date": date_str,
-        "title": f"科技早报 {date_str} · 第{len(episodes)+1}期",
+        "title": f"{meta['title']} {date_str} · 第{len(episodes)+1}期",
         "description_html": desc_html,
         "duration": duration,
         "bytes": os.path.getsize(site_mp3),

@@ -43,7 +43,7 @@ def main():
     d.text((330, 880), "科技早报", font=bold(640), fill=(248, 250, 255))
 
     # 副标题
-    d.text((345, 1720), "每日 5 分钟 · 科技与 AI 双主播对谈", font=reg(118), fill=(165, 180, 205))
+    d.text((345, 1720), "每日 5 分钟 · Adam 的科技 AI 早间谈话", font=reg(118), fill=(165, 180, 205))
 
     # 声波 bars
     import random
@@ -60,7 +60,7 @@ def main():
         d.rounded_rectangle([x, y_base - h, x + w, y_base], radius=40, fill=col)
 
     # 底部信息
-    d.text((345, 2620), "男主播 云扬  ×  女主播 晓晓    |    每天早上 7 点更新",
+    d.text((345, 2620), "主播 Adam    |    每天早上 7 点更新",
            font=reg(84), fill=(120, 138, 168))
 
     out = os.path.join(ROOT, "cover.png")

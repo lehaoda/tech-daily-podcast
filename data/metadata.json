@@ -1,10 +1,10 @@
 {
   "title": "科技早报",
-  "subtitle": "每日 5 分钟 · 双主播对谈科技与 AI",
+  "subtitle": "每日 5 分钟 · Adam 的科技 AI 早间谈话",
   "author": "Adam Le",
   "explicit": false,
   "language": "zh-CN",
   "categories": ["Technology", "Podcasts:Technology:IT & Software"],
   "base_url": "https://lehaoda.github.io/tech-daily-podcast",
-  "description": "每天早上 5 分钟的科技与 AI 新闻双主播对谈：男主播云扬、女主播晓晓，覆盖大模型发布、芯片硬件、大厂动态、融资监管与科学突破。所有新闻均选自 36氪、机器之心、量子位、OpenAI、TechCrunch、The Verge 等正规媒体，每集描述中附原始链接。每天早晨 7 点更新。"
+  "description": "每天 5 分钟的科技与 AI 新闻节目:主播 Adam 和你聊大模型发布、芯片硬件、大厂动态、融资监管与科学突破。新闻选自 OpenAI 官方博客、量子位、IT之家、TechCrunch、The Verge 等正规媒体,每集描述附原始来源链接。每天早上 7 点更新。"
 }

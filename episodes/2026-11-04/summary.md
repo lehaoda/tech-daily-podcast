@@ -1,4 +1,5 @@
 - OpenAI 宣布收购 Pierre Computer Company | OpenAI 官方博客 | https://openai.com/index/openai-to-acquire-pierre
+- Daybreak Red (GPT-5.6 Cyber) 上线 AWS GovCloud | OpenAI 官方博客 | https://openai.com/index/daybreak-red-aws-govcloud
 - 百度无人车"黑客帝国"世界模型,跑一天抵三年 | 量子位 | https://www.qbitai.com/2026/11/507647.html
 - 陶哲轩警告:人类把思考交给 AI,危险可能很快到来 | IT之家 | https://www.ithome.com/1/022/440.htm
 - Anthropic 新旗舰 Fable 5.5 实测:纯代码生成 66 秒动画 | IT之家 | https://www.ithome.com/1/022/468.htm

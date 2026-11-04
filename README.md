@@ -1,6 +1,6 @@
 # 科技早报 · 播客
 
-每天 5 分钟,男女双主播(云扬 × 晓晓)对谈科技与 AI 新闻。新闻全部来自正规媒体 RSS,
+每天 5 分钟,主播 Adam 的科技 AI 早间谈话。新闻全部来自正规媒体 RSS,
 自动去重(播过的不会重复),每集描述附原始链接。
 
 - 频道页: https://lehaoda.github.io/tech-daily-podcast/
@@ -14,11 +14,12 @@
    过滤 24h 内(不足自动放宽到 48/72h),按关键词打分,
    与 `data/seen.json` 历史库比对去重 → `episodes/<日期>/news.json`(25 条候选)。
    候选进池即写入 seen,保证失败重试也不会重复播。
-2. Agent 从候选中精选 6-8 条,写双主播对谈稿 `episodes/<日期>/script.txt`
-   (`M：`/`F：` 行格式,1150-1350 字 ≈ 5 分钟)+ `summary.md`(每条新闻的来源链接)。
+2. Agent 从候选中精选 6-10 条,写单主播稿件 `episodes/<日期>/script.txt`
+   (每行 `M：` 开头,段落间空行,1400-1600 字 ≈ 5 分钟;口播身份是主播 Adam,
+   口语生活化,不报"第几条",挑 1-2 条展开深聊)+ `summary.md`(每条新闻的来源链接)。
    只用候选池内的事实,不虚构。
-3. `pipeline/tts_episode.py` — edge-tts 逐句合成(男 `zh-CN-YunyangNeural` /
-   女 `zh-CN-XiaoxiaoNeural`),ffmpeg 拼接 + 句间停顿 → `episodes/<日期>/episode.mp3`。
+3. `pipeline/tts_episode.py` — edge-tts 逐句合成(男声 `zh-CN-YunyangNeural`),
+   ffmpeg 拼接 + 句间停顿 → `episodes/<日期>/episode.mp3`。(脚本仍兼容 `F：` 行。)
 4. `pipeline/publish.py` — 重建 `feed.xml`(保留最近 20 期) + `index.html`,
    推 GitHub Pages,轮询验证线上 feed 与音频可访问。
 

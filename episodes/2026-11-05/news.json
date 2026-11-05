@@ -1,0 +1,233 @@
+{
+ "date": "2026-11-05",
+ "window_hours": 24,
+ "fetched_at": "2026-11-05T13:01:16.260404+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/507787.html",
+   "published": "2026-11-05T07:15:13+00:00",
+   "age_hours": 5.8,
+   "score": 7.5,
+   "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base"
+  },
+  {
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "published": "2026-11-05T02:00:00+00:00",
+   "age_hours": 11.0,
+   "score": 7.5,
+   "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+  },
+  {
+   "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+   "published": "2026-11-05T13:00:00+00:00",
+   "age_hours": 0.0,
+   "score": 7.0,
+   "summary": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems."
+  },
+  {
+   "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+   "published": "2026-11-05T12:00:00+00:00",
+   "age_hours": 1.0,
+   "score": 7.0,
+   "summary": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company."
+  },
+  {
+   "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/507767.html",
+   "published": "2026-11-05T05:25:37+00:00",
+   "age_hours": 7.6,
+   "score": 7.0,
+   "summary": "像雇人一样雇机器人"
+  },
+  {
+   "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/507696.html",
+   "published": "2026-11-05T02:01:51+00:00",
+   "age_hours": 11.0,
+   "score": 7.0,
+   "summary": "Data + AI 技术实践巡展 · 上海站"
+  },
+  {
+   "title": "Spotify is coming to United Airlines seatbacks — with help from Starlink",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/transportation/1026472/united-seatback-spotify-app-starlink-wifi",
+   "published": "2026-11-05T13:00:00+00:00",
+   "age_hours": 0.0,
+   "score": 6.5,
+   "summary": "United has built a custom, native Spotify app for seatback displays, allowing passengers to log directly in to their personal accounts and stream their own libraries, playlists, and video podcasts while flying 35,000 feet in the air. The new integration is being powered by Starlink's satellite Wi-Fi"
+  },
+  {
+   "title": "美国人形机器人第一股：Agility Robotics 本周登陆纳斯达克，获富士康、英伟达投资",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/978.htm",
+   "published": "2026-11-05T12:38:57+00:00",
+   "age_hours": 0.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日消息，据彭博社报道，美国人形机器人企业 Agility Robotics 即将成为美国首家上市的专注于人形机器人的公司，这也标志着这一新兴行业迈出了重要一步。不过，人形机器人行业仍有许多问题有待验证。 这家初创公司将于当地时间本周四在纳斯达克挂牌交易，股票代码为“AGLT”。此前，Agility Robotics 已与特殊目的收购公司 Churchill Capital Corp. XI 完成合并。根据公司声明，此次交易完成后，Agility Robotics 手头资金约为 4.65 亿美元 （IT之家注：现汇率约合 31.09 亿元人民币） （不计相关费用），其中包"
+  },
+  {
+   "title": "大疆发布 Matrice 5T 无人机：标配激光雷达、毫米波雷达、全彩全向视觉感知系统，57488 元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/976.htm",
+   "published": "2026-11-05T12:23:11+00:00",
+   "age_hours": 0.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日消息，DJI 大疆今日正式发布全场景轻型旗舰 DJI Matrice 5T。这是大疆首次在轻型行业无人机上标配激光雷达、毫米波雷达与全彩全向视觉感知系统。中国大陆地区官方售价为 57,488 元。 IT之家获悉，该机配备原生 1K 热成像相机、多焦段可见光相机，支持 IP55 防水等级，最长飞行时间达 59 分钟，内置机载算法可辨别超 20 种目标类型，开放算力可以导入第三方 AI 模型，全面覆盖应急救援、电力巡检、测绘、交通、水利海事、公共安全等多类场景。 官方表示，这款无人机的运输箱紧凑便携，单手即可轻松提拿；从开机到起飞仅需约 10 秒，可边飞边建模，照片可实时"
+  },
+  {
+   "title": "消息称华为云 MaaS 平台 11 月 15 日更新上线 openPangu-2.1-Pro 旗舰模型",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/974.htm",
+   "published": "2026-11-05T12:10:01+00:00",
+   "age_hours": 0.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日消息，据人民财讯消息，华为云 MaaS 平台将于 11 月 15 日正式更新上线 openPangu-2.1-Pro 旗舰模型。 该版本主要提升了 ArkTS 语言在鸿蒙原生应用开发中的代码生成质量。华为云已通过官方短信通知现网用户提前悉知， 此前有报道称华为云完全停售盘古大模型系外界误读 。 据了解，本次更新还涉及华为云智能体平台 AgentArts、码道 CodeArts、果办 OfficeAce 等多款核心产品，也将同步接入该旗舰模型。 据IT之家此前报道， 华为云 11 月 1 日发布公告 ，MaaS 模型即服务平台将于 2026 年 11 月 6 日停止销售"
+  },
+  {
+   "title": "智己 LS8 NEO 纯电版上市：标配全线控灵蜥底盘、宁德时代电池，权益价 23.98 万元起",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/971.htm",
+   "published": "2026-11-05T12:02:06+00:00",
+   "age_hours": 1.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日消息，在今晚举行的发布会上，智己 LS8 NEO 纯电版正式上市，共推两款车型， 上市权益价 23.98 万元起 ： 93 Max+：上市权益价 23.98 万元 103 Max+：上市权益价 25.98 万元 IT之家获悉，新车延续了增程版车型的家族化设计语言，全系标配全线控灵蜥底盘以及宁德时代电池。 智己 LS8 NEO 纯电版长宽高分别为 5085×2000×1807mm，轴距 3060mm；全系标配全线控灵蜥底盘，搭配四轮转向系统，集成线控转向、线控制动与双向 24° 后轮转向。 智能驾驶辅助系统方面，新车搭载 Momenta 物理 AI 世界模型，标配 52"
+  },
+  {
+   "title": "嫌不够大气？消息称 Meta 不再使用水果命名 AI 模型",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/963.htm",
+   "published": "2026-11-05T11:24:19+00:00",
+   "age_hours": 1.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日消息，据 Business Insider 报道，Meta 不再打算用水果给 AI 模型命名了。一名知情人士透露，这家社交媒体巨头已在内部决定，今后不再以水果为 AI 模型取代号。 这一调整主要出于品牌定位方面的考虑。知情人士表示，以水果命名的代号与 Meta 雄心勃勃的 AI 发展目标并不相称。 Meta 最新 AI 模型 Wonder Full 的内部代号是“Watermelon”（西瓜）。Meta 称，这是该公司首款达到前沿水平的 AI 模型。此前，Meta 还曾通过发布西瓜照片为这款模型预热。 Meta 此前推出的语言模型和图像模型，内部代号分别为“Avoca"
+  },
+  {
+   "title": "反对声浪下 OpenAI 重申将承担数据中心供电成本，承诺征求社区意见、公开建设规划",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/958.htm",
+   "published": "2026-11-05T11:04:59+00:00",
+   "age_hours": 1.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日消息，面对全美各地针对数据中心耗电、耗水及噪音等问题的强烈抵制，当地时间 11 月 5 日，OpenAI 发布《国家社区契约》（National Community Compact）与《算力园区政策蓝图》（Compute Campus Policy Blueprint）。 OpenAI 宣布，未来在就项目选址进行协商沟通时，将不再要求地方公职人员签署保密协议，不过核心商业秘密仍将依法保留。 OpenAI 承诺，未来每个由 OpenAI 拥有并运营的算力园区，都将签署专属的本地社区契约。将在规划前期尽早引入居民深度参与，确保其诉求实质性融入项目蓝图；在园区全生命周期内设"
+  },
+  {
+   "title": "Big Tech’s big AI buildout will not end until someone stops it",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
+   "published": "2026-11-05T10:45:00+00:00",
+   "age_hours": 2.3,
+   "score": 6.5,
+   "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data center buildout is not any closer to yielding its promised returns. A third thing is "
+  },
+  {
+   "title": "微星天龙座四十周年典藏版 PC DIY 四件套上市：含主板、液冷、电源、机箱，17799 元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/937.htm",
+   "published": "2026-11-05T10:31:18+00:00",
+   "age_hours": 2.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日消息，微星 (MSI) 现已在电商平台上架其庆祝成立 40 周年推出的天龙座典藏版 PC DIY 四件套。这一套装 包含主板、液冷、电源、机箱 ，售价 17799 元。 此次限定版主板基于 MEG X870E ACE MAX 打造，采用专属天龙座定制外观设计：高精度印刷工艺与特色光影饰面带来立体视觉层次，标志性天龙座图案兼具细腻触摸质感。 天龙座四十周年典藏版 MEG CORELIQUID E15 360 处理器 AIO 液冷通体采用星空蓝主题外观，配备定制铝质激光蚀刻纹饰与天龙座专属动态光效，一体化框体风扇结构充分展现浩瀚星河主题。 MEG Ai1600T PCIE"
+  },
+  {
+   "title": "腾讯混元：Hy4 调用激增，WorkBuddy 已十倍扩容、Hy3 限免延长",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/922.htm",
+   "published": "2026-11-05T10:04:57+00:00",
+   "age_hours": 2.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日消息，腾讯混元与 WorkBuddy 今日发文，称自 2026 年 11 月 4 日混元 Hy4 在 WorkBuddy 首发接入以来，受到了广大用户与开发者的积极体验和热情反馈，上线首日即在 WorkBuddy 任务队列中出现大量用户触及额度情况。 官方表示，为保障大家的使用体验， 已针对 Hy4 推理集群进行紧急扩容十倍并提升了用户的免费体验额度，也将持续动态调配资源 。但受限于高端算力总量与高峰并发集中，仍不排除个别时段会继续出现限额情况，如有遇到，建议大家可以考虑如下过渡方案： 切换到 Hy3 等其他模型继续使用： Hy3 当前 WorkBuddy 限免将延长"
+  },
+  {
+   "title": "诺基亚预测：到 2035 年，人工智能将驱动全球约 44% 的网络流量",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/917.htm",
+   "published": "2026-11-05T09:58:38+00:00",
+   "age_hours": 3.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日消息，当地时间 11 月 4 日，诺基亚（Nokia）发布《全球网络流量报告 2026-2035》（Global Network Traffic Report 2026-2035）。 报告显示，未来的网络不仅需要服务于人类用户，还必须愈发深度地服务于各类联网机器；人工智能将带动更大的上行链路需求、更快的响应时间，以及更多更靠近用户和设备的处理。 诺基亚预测，到 2035 年， 人工智能将驱动全球约 44% 的网络流量 ，全球月度网络总流量将较 2026 年增长近四倍，达到约 3,789 EB（艾字节，1 EB = 1024 PB = 1024² TB）。 AI Age"
+  },
+  {
+   "title": "自带摄像头的头戴式耳机 AuraCam 现身：支持图像识别、实时翻译等",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/916.htm",
+   "published": "2026-11-05T09:55:25+00:00",
+   "age_hours": 3.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日消息，穿戴设备品牌 Rollme（罗麦）最近在海外推出 AuraCam 耳机。 这是一款自带摄像头的头戴式无线耳机 ，支持图像识别、实时翻译等功能， 定价 89.99 美元 （IT之家注：现汇率约合 601.6 元人民币） 。 据介绍，这款耳机正面配备一枚 800 万像素摄像头，支持电子图像防抖技术。具备 OpenAI 提供支持的图像识别和实时翻译功能，面向旅行、跨语言交流等场景。并具备会议录音、拍照拍视频等功能。用户只需要点击一下耳机的按钮，就可以将拍摄内容同步到手机 App。 此外，这款耳机支持蓝牙 5.4 和 Wi-Fi 6 连接，搭载 40mm 微晶金属振膜，"
+  },
+  {
+   "title": "比亚迪腾势 Z9S 首次 OTA：AI 超级智能体迪迪虾上车，新增代言人王力宏场景播报",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/911.htm",
+   "published": "2026-11-05T09:39:01+00:00",
+   "age_hours": 3.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日消息，比亚迪腾势汽车今日宣布腾势 Z9S 首次 OTA ，AI 超级智能体迪迪虾上车。 IT之家附主要更新内容如下： AI 超级智能体迪迪虾上线 新增代言人王力宏场景播报 新增磁吸玩偶主题联动功能 新增无麦 K 歌功能 新增 AI 日报功能 延伸阅读 腾势 Z9S 是比亚迪旗下腾势汽车推出的全新科技豪华智能轿车，于 2026 年 9 月 23 日正式上市，共推出闪充尊荣型、闪充旗舰型、易三方闪充性能型三款车型，官方指导价分别为 25.58 万元、27.58 万元、32.58 万元。 该车定位准 D 级，车身尺寸为 5090/1980/1490mm，轴距 3025mm，"
+  },
+  {
+   "title": "联想带来 23.8\" 款小新元气版一体机，酷睿 3 304 + 16GB + 512GB 售 6299 元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/907.htm",
+   "published": "2026-11-05T09:34:23+00:00",
+   "age_hours": 3.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日消息，联想 (Lenovo) 现已推出小新 24 元气版一体机。这一型号属于 IdeaCentre AIO IWC11 家族，配备 23.8\" FHD 120Hz 350nits 高色域屏幕。 小新 24 元气版当前仅有霁蓝配色的英特尔酷睿 3 处理器 304 + 16GB LPDDR5X-7467 内存 + 512GB SSD 存储这 1 种配置，售价 6299 元。这一 价格较其 27 英寸兄弟型号要便宜 200 元 。 其机身与屏幕厚度一致，薄至 13mm；底座较上代减薄 38%；屏幕支持类纸书体验；配备可升降与俯仰调节的屏幕支架；集成 5MP 摄像头、Harm"
+  },
+  {
+   "title": "全球首次展示，高通在进博会公开全球首个 6G 终端原型机",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/906.htm",
+   "published": "2026-11-05T09:33:57+00:00",
+   "age_hours": 3.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日现场消息，第九届中国国际进口博览会（进博会）今日正式在上海开幕，IT之家在进博会现场看到， 高通展示了全球首个 6G 终端原型机 。 这是高通连续第九年参加进博会，今年展台的重头戏，就是全球首个符合 3GPP 最新定义的 6G 终端原型机首次走出实验室，公开实物亮相。 进博局也给原型机贴上了“硬科技展品”和“ 全球首展 ”标签。该原型机已用于与中国移动、中兴通讯等中国产业伙伴的联合 6G 技术测试和互操作验证。 此外，展台还将集中呈现智能体 AI 与多元智能终端创新，包括智能体设备、最新旗舰智能手机、AI PC、智能眼镜、汽车和机器人等多元智能终端，以及 AI 影像、"
+  },
+  {
+   "title": "Z、N、V 字头普速旅客列车 11 月 25 日开行，新旧车次对比查询功能上线",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/893.htm",
+   "published": "2026-11-05T09:11:51+00:00",
+   "age_hours": 3.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日消息，全国铁路列车车次编排改革顺利推进，第一批车次变更即将实施，11 月 25 日 0 时起始发开行的普速旅客列车、11 月 24 日 18 时起始发开行的货物列车将正式启用新车次。 中国铁路刚刚宣布，为保障新旧列车车次平稳过渡，方便广大旅客购票乘车，铁路部门同步推出 新旧车次对比查询功能。 IT之家附链接： https://mobile.12306.cn/otsmobile/h5/otsbussiness/trainPrefix/trainPrefix.html ?tab=t2 按照 2026 版《列车车次编排规定》，普速旅客列车使用 Z、N、V 字头字母，普速旅游"
+  },
+  {
+   "title": "首款鸿蒙台式机华为擎云 HM650 系列发布：搭载麒麟 X90 桌面处理器，实现 100% 国产化率",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/022/834.htm",
+   "published": "2026-11-05T08:44:44+00:00",
+   "age_hours": 4.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 5 日现场消息，在今天的华为擎云 2026 鸿蒙办公产业峰会现场，华为终端平板与 PC 产品线总裁朱懂东正式发布了 首款鸿蒙台式机 —— 华为擎云 HM650 系列 。 据介绍，华为擎云 HM650 系列搭载鸿蒙电脑企业版 + 麒麟 X90 高性能桌面处理器。 灵犀 CPU 10 核 20 线程，支持智能超线程调度 ；马良 GPU 支持 GPU 硬件加速；达芬奇架构 NPU 本地算力支持多尺寸模型入端。 华为擎云 HM650 系列预装鸿蒙 HarmonyOS 系统， 支持 HyperSpace Memory 超空间内存技术 ，内存压缩效率提升 50%、大文件打开数量提升 4"
+  },
+  {
+   "title": "Apple is reportedly cutting budgets for its internal AI usage",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+   "published": "2026-11-05T01:26:22+00:00",
+   "age_hours": 11.6,
+   "score": 6.5,
+   "summary": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams."
+  },
+  {
+   "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+   "published": "2026-11-04T22:45:09+00:00",
+   "age_hours": 14.3,
+   "score": 6.5,
+   "summary": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle."
+  }
+ ]
+}

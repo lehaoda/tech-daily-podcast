@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""发布一期播客: 拷贝音频 → 重建 feed.xml + index.html → 推 GitHub Pages → 校验线上。
+"""发布一期播客: 音频存 Mac Studio 硬盘(podcast.lehaoda.com 对外) → 重建 feed.xml + index.html → 推 GitHub Pages → 校验线上。
 用法: python3 pipeline/publish.py episodes/<日期目录>
 """
 import html
@@ -14,10 +14,15 @@ from datetime import datetime
 from email.utils import format_datetime
 from xml.sax.saxutils import escape, quoteattr
 
-from common import AUDIO_DIR, DATA_DIR, EPISODES_DIR, FFMPEG, METADATA_FILE, ROOT, episode_dir, today_str
+from common import DATA_DIR, EPISODES_DIR, FFMPEG, METADATA_FILE, ROOT, episode_dir, today_str
 
 REPO = "lehaoda/tech-daily-podcast"
 EPISODES_JSON = os.path.join(DATA_DIR, "episodes.json")
+
+# 音频存 Mac Studio 外挂硬盘, 由 docker/nginx 只读挂载后经 cloudflared 隧道对外:
+# docker pod: ~/docker/podcast-server (nginx.conf 配了 mp3→audio/mpeg, m4a→audio/mp4)
+PODCAST_HDD_DIR = "/Volumes/Immich-HDD-Temp/podcast/episodes"
+AUDIO_BASE = "https://podcast.lehaoda.com/episodes"
 
 
 def run(cmd, **kw):
@@ -75,7 +80,7 @@ def build_feed(meta, episodes):
     <link>{base}/#{ep['date']}</link>
     <guid isPermaLink="true">{base}/#{ep['date']}</guid>
     <pubDate>{ep['pubdate']}</pubDate>
-    <enclosure url="{base}/audio/{ep['date']}.m4a" type="audio/mp4" length="{ep['bytes']}"/>
+    <enclosure url="{AUDIO_BASE}/{ep['date']}.m4a" type="audio/mp4" length="{ep['bytes']}"/>
     <itunes:duration>{ep['duration']}</itunes:duration>
     <itunes:image href="{base}/cover.png"/>
   </item>""")
@@ -119,7 +124,7 @@ def build_index(meta, episodes):
         rows.append(f"""
   <section>
     <h2><a href="#{ep['date']}">{escape(ep['title'])}</a> <span class="dim">{ep['date']} · {ep['duration']/60:.1f} min</span></h2>
-    <audio controls preload="none" src="/audio/{ep['date']}.m4a"></audio>
+    <audio controls preload="none" src="{AUDIO_BASE}/{ep['date']}.m4a"></audio>
     <details>{ep['description_html']}</details>
   </section>""")
     return f"""<!doctype html>
@@ -194,7 +199,7 @@ def ensure_pages():
 
 def wait_live(base, audio_path, timeout_s=300):
     feed_url = f"{base}/feed.xml"
-    audio_url = f"{base}/audio/{audio_path}"
+    audio_url = f"{AUDIO_BASE}/{audio_path}"
     t0 = time.time()
     while time.time() - t0 < timeout_s:
         try:
@@ -227,16 +232,13 @@ def main():
         meta = json.load(f)
     base = meta["base_url"].rstrip("/")
 
-    # 1) 拷贝音频到 site
-    os.makedirs(AUDIO_DIR, exist_ok=True)
-    site_mp3 = os.path.join(AUDIO_DIR, f"{date_str}.mp3")
+    # 1) 音频存 Mac Studio 硬盘 (经 podcast.lehaoda.com/episodes/ 对外):
+    #    enclosure 用 .m4a (audio/mp4, IANA 标准 + Apple 推荐 AAC), 另存 .mp3 (audio/mpeg) 留底
+    os.makedirs(PODCAST_HDD_DIR, exist_ok=True)
+    site_mp3 = os.path.join(PODCAST_HDD_DIR, f"{date_str}.mp3")
     with open(mp3, "rb") as a, open(site_mp3, "wb") as b:
         b.write(a.read())
-
-    # 1) 拷贝音频到 site (mp3 留底); 另编码 AAC m4a 作为 enclosure:
-    #    GitHub Pages 对 .mp3 返回非标准 MIME "audio/mp3"(IANA 标准是 audio/mpeg),
-    #    Apple 按标准校验 → 用 .m4a(audio/mp4, 合法 IANA 类型, Apple 官方推荐 AAC)
-    site_m4a = os.path.join(AUDIO_DIR, f"{date_str}.m4a")
+    site_m4a = os.path.join(PODCAST_HDD_DIR, f"{date_str}.m4a")
     r = run([FFMPEG, "-y", "-i", mp3, "-c:a", "aac", "-b:a", "64k", site_m4a])
     if r.returncode != 0:
         sys.exit("m4a encode failed: " + r.stderr[-300:])

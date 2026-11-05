@@ -4,3 +4,4 @@ __pycache__/
 episodes/**/tmp/
 episodes/**/episode.mp3
 .DS_Store
+audio/

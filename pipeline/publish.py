@@ -99,6 +99,11 @@ def build_feed(meta, episodes):
     <itunes:explicit>{'true' if meta.get('explicit') else 'no'}</itunes:explicit>
     <itunes:author>{escape(meta['author'])}</itunes:author>
     <itunes:title>{escape(meta['title'])}</itunes:title>
+    <itunes:subtitle>{escape(meta.get('subtitle', ''))}</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>{escape(meta['author'])}</itunes:name>
+      <itunes:email>{escape(meta.get('owner_email', 'lehaoda@gmail.com'))}</itunes:email>
+    </itunes:owner>
     {cats}
     <itunes:image href="{base}/cover.png"/>
 {chr(10).join(items)}
@@ -165,9 +170,10 @@ def git_publish(commit_msg):
         run(["git", "remote", "add", "origin", f"https://github.com/{REPO}.git"], cwd=ROOT)
     run(["git", "add", "-A"], cwd=ROOT)
     r = run(["git", "commit", "-m", commit_msg], cwd=ROOT)
-    if r.returncode != 0 and "nothing to commit" in (r.stdout + r.stderr):
-        return True
-    r = run(["git", "push", "origin", "main"], cwd=ROOT, timeout=180)
+    if r.returncode != 0 and "nothing to commit" not in (r.stdout + r.stderr):
+        print("commit fail:" + (r.stderr or r.stdout)[-300:])
+        return False
+    r = run(["git", "push", "origin", "main"], cwd=ROOT, timeout=300)
     if r.returncode != 0:
         print("PUSH FAIL:\n" + (r.stderr or r.stdout)[-500:])
         return False

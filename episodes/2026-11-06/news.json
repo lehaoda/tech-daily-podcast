@@ -1,0 +1,233 @@
+{
+ "date": "2026-11-06",
+ "window_hours": 24,
+ "fetched_at": "2026-11-06T13:00:48.416966+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/508174.html",
+   "published": "2026-11-06T09:25:59+00:00",
+   "age_hours": 3.6,
+   "score": 7.5,
+   "summary": "PPIO 沙箱，把“云电脑”做成开箱即用的 API"
+  },
+  {
+   "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/508170.html",
+   "published": "2026-11-06T09:21:51+00:00",
+   "age_hours": 3.6,
+   "score": 7.5,
+   "summary": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相"
+  },
+  {
+   "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/508165.html",
+   "published": "2026-11-06T09:19:00+00:00",
+   "age_hours": 3.7,
+   "score": 7.5,
+   "summary": "11月5日，阿里巴巴发布《2026 AI向善行动报告》"
+  },
+  {
+   "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/508155.html",
+   "published": "2026-11-06T07:00:29+00:00",
+   "age_hours": 6.0,
+   "score": 7.5,
+   "summary": "Q3营收实现数倍增长"
+  },
+  {
+   "title": "Australian universities are creating AI-native graduates",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "published": "2026-11-05T17:00:00+00:00",
+   "age_hours": 20.0,
+   "score": 7.5,
+   "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce."
+  },
+  {
+   "title": "Physicl raises $10M to make the digital world real enough for robots",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+   "published": "2026-11-06T13:00:00+00:00",
+   "age_hours": 0.0,
+   "score": 7.0,
+   "summary": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online."
+  },
+  {
+   "title": "Tesla will stop making the Cybertruck in 2027",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+   "published": "2026-11-06T11:50:10+00:00",
+   "age_hours": 1.2,
+   "score": 7.0,
+   "summary": "Elon Musk said the company will use the factory space to make more Cybercabs."
+  },
+  {
+   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
+   "published": "2026-11-06T10:00:00+00:00",
+   "age_hours": 3.0,
+   "score": 7.0,
+   "summary": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed…"
+  },
+  {
+   "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/507988.html",
+   "published": "2026-11-06T03:36:34+00:00",
+   "age_hours": 9.4,
+   "score": 7.0,
+   "summary": "香港金融科技周 x StartmeupHK 2026踏入第11届"
+  },
+  {
+   "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/507967.html",
+   "published": "2026-11-06T02:00:11+00:00",
+   "age_hours": 11.0,
+   "score": 7.0,
+   "summary": "11月 5 日，腾讯宣布因 Hy4 调用激增，WorkBuddy 已进行十倍扩容"
+  },
+  {
+   "title": "How Remedy designed Control Resonant’s wildest mission: ‘Anything kind of goes’",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/games/1028159/control-resonant-recursions-and-iterations-mission-design-time-travel",
+   "published": "2026-11-06T13:00:00+00:00",
+   "age_hours": 0.0,
+   "score": 6.5,
+   "summary": "Note: Some spoilers for Control Resonant's \"Recursions and Iterations\" mission follow. One of Control Resonant's most memorable missions involves time travel - kind of. There are certainly multiple timelines intersecting, or maybe overlapping, or maybe running in parallel. As protagonist Dylan Faden"
+  },
+  {
+   "title": "曝 OPPO 明年产品策略更聚焦：手机发力阔形态，代号「扶摇」的云台相机将至",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/023/538.htm",
+   "published": "2026-11-06T12:35:04+00:00",
+   "age_hours": 0.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 6 日消息，博主 @数码闲聊站 今日发文透露，某厂 2027 年的产品策略更聚焦了， 手机发力阔形态 ，AI 和阔形态上应该能做出新东西。从评论区讨论及暗示表情来看，预计指 OPPO。 另外，博主表示，影像也会有新形态产品， 代号「扶摇」的云台相机应该快了 ，内部还挺有信心。 据IT之家此前报道，该博主曾透露，OPPO 的 6.35 英寸阔直板产品线，明年首款新机属于高端旗舰线，后续考虑下放轻薄拍照机。该机是标准 16:9 比例，工程机测试天玑旗舰芯、3D 超声波指纹，屏幕分辨率为 2560*1440p， 采用 LIPO 极窄四等边设计 ，目测边框 1mm±，机身宽度大概是"
+  },
+  {
+   "title": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1026410/iphone-duo-foldable-android-samsung-google-xiaomi-oppo-honor",
+   "published": "2026-11-06T12:30:00+00:00",
+   "age_hours": 0.5,
+   "score": 6.5,
+   "summary": "When I first read Allison and Nilay's Verge review of the iPhone Duo, I was immediately struck by one of their complaints: that the cover display is too small. That's not how the Samsung Galaxy Z Fold 8 feels, I thought. Had they got it wrong? After a week and a half using the Duo, […]"
+  },
+  {
+   "title": "今日宜休鸿蒙版适配进度落后，王腾透露华为开发团队特意拉了小群来支持",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/023/533.htm",
+   "published": "2026-11-06T12:02:51+00:00",
+   "age_hours": 1.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 6 日消息，今日宜休科技公司创始人今日发文，称今日宜休鸿蒙版的适配进度落后。不过他透露， 华为开发团队特意拉了小群来支持今日宜休 。 王腾表示，目前今日宜休在华为手机上卓易通版本已经上线，而纯血鸿蒙版正在开发中。 有网友询问今日宜休准备什么时候接入米家智能？王腾表示：“ 我们会开放 MCP，各家的 AI 都可以调用。 ”还有网友询问如果实物到手后尺寸不合适是否可以申请换货？王腾回复称：“ 7 天无理由退换货。 ” 据IT之家此前报道，今年 9 月，今日宜休 ISHO 睡眠记录 App 开启内测， 首期内测仅支持苹果 iOS，并且需要佩戴苹果 Apple Watch 。今年 "
+  },
+  {
+   "title": "Protesters break into Microsoft data center site in Amsterdam",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+   "published": "2026-11-06T11:55:19+00:00",
+   "age_hours": 1.1,
+   "score": 6.5,
+   "summary": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning. Members of the Geef Tegengas group helped organize the protest against the construction of three 85-meter data center towers in the outskirts of Amsterdam. Reuters reports that around 100 people"
+  },
+  {
+   "title": "吉利星愿 STAR 限定系列 Ace / Chill 上市，限时权益价 8.88 万元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/023/526.htm",
+   "published": "2026-11-06T11:50:46+00:00",
+   "age_hours": 1.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 6 日现场消息，2026 吉利银河全球用户大会今晚举行，吉利星愿 STAR 限定系列 Ace 和 Chill 车型上市， 限时权益价 8.88 万元 。 新车新增电动前备箱与 EVA 机器人，同时带来更加丰富的车型阵容、车色与内饰选择，搭载千里浩瀚辅助驾驶 H3 方案，提供 30 项 + L2 级驾驶辅助功能。 IT之家在现场获悉，STAR Ace 提供无忧绿、百事橙、流光银三种车色；STAR Chill 采用奶盐米车色并搭配全新内饰。 STAR Ace 配备专属运动外观套件，涵盖运动前扰流板、运动星际尾翼、铝合金运动轮毂、STAR 专属徽标、熏黑运动车标等多项外观专属配件"
+  },
+  {
+   "title": "荣耀 MagicOS 系统 11 月更新内容公布，YOYO 建议与灵动胶囊新增寄件码提醒",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/023/520.htm",
+   "published": "2026-11-06T10:46:12+00:00",
+   "age_hours": 2.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 6 日消息，荣耀 MagicOS 官方今日公布了 MagicOS 系统 11 月体验升级亮点。 YOYO YOYO 建议 & 灵动胶囊新增寄件码提醒 YOYO 记忆支持物品临期提醒 YOYO 记忆支持智能填写 荣耀一碰传 支持 WorkBuddy 与百度网盘 其他 搜狗输入法新增通透模式 IT之家附升级计划如下： 荣耀 Magic9 系列 荣耀 Magic8 系列 荣耀 Magic8 Pro Air 荣耀 Magic7 系列 荣耀 WIN2 系列 荣耀 WIN 系列 荣耀 Magic V6 荣耀 Magic V5 荣耀 600 系列 荣耀 GT Pro 荣耀 MagicPa"
+  },
+  {
+   "title": "Tesla is ‘winding down’ production of the Cybertruck next year",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/transportation/1028542/tesla-cybertruck-winding-down-production-2027",
+   "published": "2026-11-06T10:42:52+00:00",
+   "age_hours": 2.3,
+   "score": 6.5,
+   "summary": "Tesla is getting the Cybertruck ready for retirement in an effort to ramp up its robotaxi output. In an X post on Friday, Tesla CEO Elon Musk said that the company will be \"winding down\" Cybertruck production at its Texas Gigafactory sometime around the middle of next year, \"to make room for increas"
+  },
+  {
+   "title": "爱彼迎 Airbnb 计划明年推出 AI 智能体，帮助用户规划旅行",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/023/498.htm",
+   "published": "2026-11-06T10:21:42+00:00",
+   "age_hours": 2.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 6 日消息，据科技媒体 neowin 今天报道，民宿出租平台 Airbnb 爱彼迎在 2026 财年第三季度报告中透露，公司正开发全新 AI 智能体，计划 2027 年推出，可帮助用户规划旅行。 Airbnb 表示：“我们的智能体并没有采用传统聊天窗口，而是调用带有数百种旅行专用界面元素的资源库，它包含地图、照片、对比信息、日历和行程安排，可根据用户需求实时组合。 它将帮助房客探索不同选择 ，与同行者共同作出决定， 最终直接在 Airbnb 完成预订 。” 不过我们暂不清楚，Airbnb 的智能体究竟能带来怎样的独到优势。Airbnb 将 AI 称为公司发展过程中的最好机遇"
+  },
+  {
+   "title": "智元发布灵犀 X2 焕新版机器人，可用于展馆文旅、导览导购、服务零售、文娱商演等场景",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/023/497.htm",
+   "published": "2026-11-06T10:09:21+00:00",
+   "age_hours": 2.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 6 日消息，智元今日发布 灵犀 X2 焕新版 机器人，拥有 31 个本体自由度，2 个头部自由度，膝关节峰值扭矩 120Nm，电池容量约 500Wh。 这款机器人拥有 31 个本体自由度（头部 2 个、手臂共 14 个、腰部 3 个、腿部共 12 个），搭配选配灵巧手，整体可达 47 个自由度。 据介绍，这款机器人支持 UWB、Wi-Fi、4G/5G、蓝牙、GPS 等多种连接能力，无论是在室内展馆、商业门店、还是更开放的文旅场地，都能根据实际配置连接现场、理解任务、提供服务。 据介绍，这款机器人可用于展馆文旅、导览导购、服务零售、文娱商演等场景，还可用于科研教育、数据采集等"
+  },
+  {
+   "title": "荣耀 MagicOS 11 系统第三批内测用户增推版本今晚开推，报名通道下周一将重新开放",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/023/468.htm",
+   "published": "2026-11-06T09:27:00+00:00",
+   "age_hours": 3.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 6 日消息，荣耀产品维护与升级 @荣耀小芳哥 刚刚发布预告， 宣布今天 18 点开始，将向已报名 MagicOS 11 的第三批内测的用户增推版本 。 此外，下周一还将重新开放内测报名通道， 报名后次个工作日就可以收到版本 。推送机型如下： 手机： 荣耀 Robot Phone 、Magic Vs3、Magic V2 RSR 保时捷设计、Magic V2 至臻版、Magic V2、Magic5 至臻版、Magic5 Pro、Magic5、GT、300 Ultra、300 Pro、300、200 Pro、200、100 Pro、100、90 GT、Power、X80 Pro "
+  },
+  {
+   "title": "Pangram 正式发布其 AI 图像检测模型，准确率达 99.96%",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/023/419.htm",
+   "published": "2026-11-06T09:02:02+00:00",
+   "age_hours": 4.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 6 日消息，Pangram Labs 是一家专注人工智能生成内容识别的 AI 实验室。其在本月 4 日正式发布了 Pangram Image 1.0 模型。该模型可通过热力图定位 AI 生成的内容。 Pangram Labs 利用 12 种前沿 AI 图像生成器，基于 100 张真实图片制作了一个 1200 张照片的测试数据集。 Pangram Image 1.0 模型在该测试中取得了 99.96% 的准确率 。 此外，Pangram Image 1.0 能很好地对抗压缩、缩放、人工添加修饰对检测能力的影响，同时在 256×256 分辨率下还有 96.4% 的准确度。 与 "
+  },
+  {
+   "title": "QQ 鸿蒙版 App 发布 9.2.80 正式版更新：空间相册支持 AI 修复、简洁模式上线",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/023/411.htm",
+   "published": "2026-11-06T08:46:41+00:00",
+   "age_hours": 4.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 6 日消息，QQ 鸿蒙版 App 今日在华为应用市场（App Gallery）发布了 9.2.80 (3592) 正式版更新。 IT之家附 QQ 鸿蒙版 App 新功能如下： 空间说说新增查看浏览量 群通知体验升级 纯文本消息支持部分选中 空间相册新增支持 AI 修复 群禁言支持定时和单独成员禁言 聊天新增支持号码识别 QQ 群文件功能体验优化 新增支持简洁模式 目前 QQ 鸿蒙版获 5.1 万个评分（评分 2.4），已支持单聊、群聊、多人语音或视频通话、抢红包，刷空间好友动态、短视频、频道、扫一扫、手机 / 平板双端登录等功能。"
+  },
+  {
+   "title": "重点整治滥用 AI 技术生成健康科普谣言等，中央网信办部署开展专项行动",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/023/409.htm",
+   "published": "2026-11-06T08:38:55+00:00",
+   "age_hours": 4.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 6 日消息，为进一步加强科普健康领域网络谣言突出问题整治，营造风清气正网络空间，近日，中央网信办印发通知，在全国范围内部署开展为期 2 个月的“清朗 · 整治科普健康类网络谣言”专项行动。 中央网信办有关负责同志表示，本次专项行动重点整治以下 4 方面突出问题： （一）编造民生健康网络谣言，借机误导网民。 一是以关注公众健康等为名义，将普通食品、保健品包装成“神药”，推广所谓“包治百病”偏方，发布伪科普信息，借审美焦虑制造“黄连素是减肥神药”等运动、减重类谣言。 二是刻意夸大食品、药品、生活用品副作用，配以夸张骇人标题，编造所谓“长期服用降压药会使血管变脆”“献血会伤害身体"
+  },
+  {
+   "title": "小米米家扫拖机器人 6 Max 国补探新低：水箱版 2800 元、上下水版 2981 元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/023/408.htm",
+   "published": "2026-11-06T08:34:22+00:00",
+   "age_hours": 4.4,
+   "score": 6.5,
+   "summary": "小米 · 米家扫拖机器人 6 Max 开售于 2026 年 3 月，支持 AI 识别全景避障，“水箱版”官方定价 6599 元，“上下水版”官方定价 6999 元。 按下方步骤下单，叠加 PLUS 立减 + 15% 国补后，“水箱版”仅需 2800.46 元、“上下水版”仅需 2981.26 元： 领 8.2 折券： 点此查看 。 下单时选择“以旧换新 → 个护健康 → 电动牙刷（无需回收）”补贴 20 元。 晒单再返 20 元京豆。 京东 小米 米家扫地机器人 6 Max 水箱版 以旧换新后 2800 元 领 8.8 折券 京东 小米 米家扫地机器人 6 Max 上下水版 以旧换新后 298"
+  }
+ ]
+}

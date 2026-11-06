@@ -1607,7 +1607,859 @@
    "source": "Hacker News (frontpage)",
    "published": "2026-11-04T20:45:18+00:00",
    "first_seen": "2026-11-05T13:01:16.260404+00:00"
+  },
+  "3a67988a4c07c0bac66f06d86532a8bf83aa860e": {
+   "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
+   "source": "量子位",
+   "published": "2026-11-06T09:25:59+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "915a652fa3803ffe7280dc13149b041a09eaba12": {
+   "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
+   "source": "量子位",
+   "published": "2026-11-06T09:21:51+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "02318789f4f6393f4cf87eed8c89e733d65cea59": {
+   "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
+   "source": "量子位",
+   "published": "2026-11-06T09:19:00+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "052c4e878b46c98a12db0c062364152c97d06e5c": {
+   "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+   "source": "量子位",
+   "published": "2026-11-06T07:00:29+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "b6757d715f132b53734863cf780126b0e84a7c20": {
+   "title": "Australian universities are creating AI-native graduates",
+   "source": "OpenAI Blog",
+   "published": "2026-11-05T17:00:00+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "475ae042ad2162cab5bf75b5e2382f25405a872a": {
+   "title": "Physicl raises $10M to make the digital world real enough for robots",
+   "source": "TechCrunch",
+   "published": "2026-11-06T13:00:00+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "35c35322ed174bbee0f5d5589ed25c6006c0737b": {
+   "title": "Tesla will stop making the Cybertruck in 2027",
+   "source": "TechCrunch",
+   "published": "2026-11-06T11:50:10+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "af24142fcb0938e1de78bff72ef0bdac94a0725f": {
+   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+   "source": "MIT Technology Review",
+   "published": "2026-11-06T10:00:00+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "7eb1f7210af6dbb185b3288cacf8220c2071e160": {
+   "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
+   "source": "量子位",
+   "published": "2026-11-06T03:36:34+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "7f787861107c5665adbab18d73ca5a5a09de2dd5": {
+   "title": "腾讯 Hy4 调用激增已十倍扩容，Agent 能力开源模型第一",
+   "source": "量子位",
+   "published": "2026-11-06T02:00:11+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "49d384be20abcc3a9e77badf5ea9d28ef6520a57": {
+   "title": "How Remedy designed Control Resonant’s wildest mission: ‘Anything kind of goes’",
+   "source": "The Verge",
+   "published": "2026-11-06T13:00:00+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "dc3bb49e72d28b3fc9a44246f11f9dd48ef76d79": {
+   "title": "曝 OPPO 明年产品策略更聚焦：手机发力阔形态，代号「扶摇」的云台相机将至",
+   "source": "IT之家",
+   "published": "2026-11-06T12:35:04+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "8e177e17501ba5f30fced6ceb071d21bfd4d6dc3": {
+   "title": "I’ve reviewed almost every Android foldable this year — here’s how the iPhone Duo compares",
+   "source": "The Verge",
+   "published": "2026-11-06T12:30:00+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "e87f5e56211019b290f6ae53c3a1835aec36f704": {
+   "title": "今日宜休鸿蒙版适配进度落后，王腾透露华为开发团队特意拉了小群来支持",
+   "source": "IT之家",
+   "published": "2026-11-06T12:02:51+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "9ead7e9d74a16b89aeca80b659f0e22e6d329c82": {
+   "title": "Protesters break into Microsoft data center site in Amsterdam",
+   "source": "The Verge",
+   "published": "2026-11-06T11:55:19+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "3b729ecb5277b233333372406874302daa9ec324": {
+   "title": "吉利星愿 STAR 限定系列 Ace / Chill 上市，限时权益价 8.88 万元",
+   "source": "IT之家",
+   "published": "2026-11-06T11:50:46+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "b77166426d23b779ce891a2c5fc8c15a66d69980": {
+   "title": "荣耀 MagicOS 系统 11 月更新内容公布，YOYO 建议与灵动胶囊新增寄件码提醒",
+   "source": "IT之家",
+   "published": "2026-11-06T10:46:12+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "f743ccf3a1f0f92edf5b35283c84051106829a3d": {
+   "title": "Tesla is ‘winding down’ production of the Cybertruck next year",
+   "source": "The Verge",
+   "published": "2026-11-06T10:42:52+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "925d0116d8f33d64f5b0b699a7086b6cfecba871": {
+   "title": "爱彼迎 Airbnb 计划明年推出 AI 智能体，帮助用户规划旅行",
+   "source": "IT之家",
+   "published": "2026-11-06T10:21:42+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "a7cdcc9387efa5918051645805be1b7fb32545f9": {
+   "title": "智元发布灵犀 X2 焕新版机器人，可用于展馆文旅、导览导购、服务零售、文娱商演等场景",
+   "source": "IT之家",
+   "published": "2026-11-06T10:09:21+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "4a7a1292229896eee3d1fc398e618dd08bc0bc6b": {
+   "title": "荣耀 MagicOS 11 系统第三批内测用户增推版本今晚开推，报名通道下周一将重新开放",
+   "source": "IT之家",
+   "published": "2026-11-06T09:27:00+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "ecc3d9504a66559fe59d87f19ba2cc705283ac06": {
+   "title": "Pangram 正式发布其 AI 图像检测模型，准确率达 99.96%",
+   "source": "IT之家",
+   "published": "2026-11-06T09:02:02+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "a0c5629c7c45fcf99b1e70dfe752fd77e4be3729": {
+   "title": "QQ 鸿蒙版 App 发布 9.2.80 正式版更新：空间相册支持 AI 修复、简洁模式上线",
+   "source": "IT之家",
+   "published": "2026-11-06T08:46:41+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "47d46e0c81d28cecb634183fa0f770e5201697e5": {
+   "title": "重点整治滥用 AI 技术生成健康科普谣言等，中央网信办部署开展专项行动",
+   "source": "IT之家",
+   "published": "2026-11-06T08:38:55+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "ebfd2981c2f5f7811750f657fa0d8ace6557e1e9": {
+   "title": "小米米家扫拖机器人 6 Max 国补探新低：水箱版 2800 元、上下水版 2981 元",
+   "source": "IT之家",
+   "published": "2026-11-06T08:34:22+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "2db0272678a8fe5ebc357986aa33b0662f2a831e": {
+   "title": "群联 2026 财年前三季度营收同比增长 290% 创历史同期新高，归母净利润 719.38 亿新台币",
+   "source": "IT之家",
+   "published": "2026-11-06T08:32:52+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "1d207253f6223124750566055bb465de790c5f1c": {
+   "title": "华为 Mate 90 系列手机获 HarmonyOS 7.0.0.111SP15 升级，优化搭配睿影 Z10 模块相机的拍摄效果",
+   "source": "IT之家",
+   "published": "2026-11-06T08:32:42+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "81db216a00c9020746705a738b742aca906ac3dd": {
+   "title": "高通 CEO 安蒙：6G 从设计之初就具备 AI 原生特性，目标 2029 年商用",
+   "source": "IT之家",
+   "published": "2026-11-06T08:32:17+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "64a828e4515346f6090bba07b604b3c44ed108a8": {
+   "title": "荣耀笔记本 11 月升级内容公布，优化 YOYO Claw、Magic 视界体验",
+   "source": "IT之家",
+   "published": "2026-11-06T08:31:01+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "f2fa95c52534e0f97e1110dbf3b3ee32d5b36193": {
+   "title": "谷歌为 Googlebook 带来 11 月更新：端侧 AI 性能占用降低，最多释放 6GB 内存",
+   "source": "IT之家",
+   "published": "2026-11-06T08:25:28+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "591c745c93b52405feed534a47da93c0b765c96d": {
+   "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+   "source": "TechCrunch",
+   "published": "2026-11-06T06:28:32+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "ab1c761f9a13426d8e6c1bcbe796bc034a7637d8": {
+   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+   "source": "TechCrunch",
+   "published": "2026-11-05T22:40:55+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "2a68b33e9171408dc93c609734d2e4a74ea81966": {
+   "title": "Serve Robotics launches new business to become the AWS for robots",
+   "source": "TechCrunch",
+   "published": "2026-11-05T21:15:00+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "c2f87777501f0b43643f3caafcfabd82a21c9e26": {
+   "title": "Meta says US users can now video chat with their Muse AI avatar",
+   "source": "TechCrunch",
+   "published": "2026-11-05T19:48:28+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "d4389379ad95368cace2878e619e4fd21568f8ab": {
+   "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+   "source": "TechCrunch",
+   "published": "2026-11-05T19:12:39+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "61e8f80c4a03335a5a3d5cfca30405d7280224f7": {
+   "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+   "source": "TechCrunch",
+   "published": "2026-11-05T18:48:34+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "ee372a44bc1182208242339cb8545bd766c4b676": {
+   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+   "source": "TechCrunch",
+   "published": "2026-11-05T18:02:27+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "9a9901e5d9a8753c962435b9d85ac68b99dd58af": {
+   "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+   "source": "TechCrunch",
+   "published": "2026-11-05T18:00:00+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "d6e417735b6f759f0a46a0dc5acf2b32c68e02eb": {
+   "title": "Claude can now analyze your spending with its new Personal Finance tool",
+   "source": "TechCrunch",
+   "published": "2026-11-05T18:00:00+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "cc86b309661be3202bbceed6b41fd9fc5bb76c05": {
+   "title": "Harbinger raises $240M after expanding into defense",
+   "source": "TechCrunch",
+   "published": "2026-11-05T17:52:44+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "03b019e403da78d8e6626d54a2da588ccc112d0e": {
+   "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+   "source": "TechCrunch",
+   "published": "2026-11-05T17:11:48+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "2f21eb4645fb710a154aab9b360a933aa20946cd": {
+   "title": "Axiom Math wants to keep AI slop out of mathematics",
+   "source": "TechCrunch",
+   "published": "2026-11-05T16:16:45+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "eae6a5e02ae461e7c0527ea73a65fb3b27f70e4d": {
+   "title": "Bluesky hit peak usage for the year on election night",
+   "source": "TechCrunch",
+   "published": "2026-11-05T15:44:58+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "ad50fc9f4445af6c3e58179f7146b7811074f876": {
+   "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+   "source": "TechCrunch",
+   "published": "2026-11-05T15:40:34+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "d2ce00b1ef3a3fd445a8a07e5a76129af30cad18": {
+   "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+   "source": "MIT Technology Review",
+   "published": "2026-11-05T13:10:00+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "483b40f8c379825856fdfe559ef75d5783a8b66b": {
+   "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+   "source": "量子位",
+   "published": "2026-11-06T06:54:17+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "702b74f958ed32640d93cdaf9d1669cae7cf8188": {
+   "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
+   "source": "量子位",
+   "published": "2026-11-06T06:43:14+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "32e31d0cd89f2a9b32da6046a0e6f52a9e2bb00e": {
+   "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+   "source": "量子位",
+   "published": "2026-11-06T05:01:47+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "b15f04d0e911ed4697a9484ebf607685c357ae3e": {
+   "title": "AI短剧门槛降降降！实测即梦短剧工作室：剧本分镜预演一条龙，伙伴计划长期护航",
+   "source": "量子位",
+   "published": "2026-11-06T03:20:05+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "6b5a727f1b54786e6d5879ec5901164bc2d0637b": {
+   "title": "Airbnb is working on an AI travel agent",
+   "source": "The Verge",
+   "published": "2026-11-06T00:06:12+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "8e25a11a04a59c0fb9a712dbeb9a4fd4a4aa10c2": {
+   "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+   "source": "The Verge",
+   "published": "2026-11-05T23:45:10+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "7dbfce9c568e0033828c00394a58f2d59c123423": {
+   "title": "Meet *sshole, the vulnerability that lets hackers SSH into Linux devices",
+   "source": "Ars Technica",
+   "published": "2026-11-05T23:09:36+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "bdcd838274947e989224b4601270bd9fe4af470b": {
+   "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
+   "source": "Ars Technica",
+   "published": "2026-11-05T21:40:36+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "64b5dff9b8f06ff926dca28d61fdb68dc8acdab3": {
+   "title": "Software squeezes more data out of Webb Telescope for imaging exoplanets",
+   "source": "Ars Technica",
+   "published": "2026-11-05T19:59:22+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "94140df0bd2a386d252c881b931565a4869803df": {
+   "title": "Gamers go to ridiculous lengths to \"improve\" GTA VI with Nvidia's DLSS 5",
+   "source": "Ars Technica",
+   "published": "2026-11-05T17:40:27+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "8ad82df4f3bb66aa74ef8af64b7e43df0fa7aaa3": {
+   "title": "After printing 40,000 whistles, this is the 3D printer I’d buy",
+   "source": "The Verge",
+   "published": "2026-11-06T12:00:00+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "85b71e1eb41dfff1a739d310d91b80e1f799d65d": {
+   "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-06T12:00:42+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "8e9df0872d7fb410840f565d9d70b4e099a2e2d0": {
+   "title": "不法分子假借“AITO”名义发送诈骗短信，问界汽车声明并无所谓“气囊召回”事项",
+   "source": "IT之家",
+   "published": "2026-11-06T09:36:17+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "dee9ba77833573ed2f403191aeb73e55ef237053": {
+   "title": "国家广电总局：到 2030 年，广电视听行业人工智能渗透率达到 95% 及以上",
+   "source": "IT之家",
+   "published": "2026-11-06T09:20:38+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "09f2736e20a435d7282be3203c9464fc9cdea7b7": {
+   "title": "豆包工作个人版取消 5 小时额度限制",
+   "source": "IT之家",
+   "published": "2026-11-06T08:57:38+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "3fbe1be1371c44b1202b88703c887f05d6d601c1": {
+   "title": "宇树与中石油昆仑制造等拟新设合营企业，从事工业具身智能机器人解决方案业务",
+   "source": "IT之家",
+   "published": "2026-11-06T08:06:42+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "cfe0ed84c0aca1a0579e4b6151d795c8236c236c": {
+   "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-06T07:40:35+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "013607ded3df4e793d62da5c4e2c6cb6855c2dd3": {
+   "title": "Hardcoded credentials and other issues in Tata Motors App",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-06T07:28:39+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "e69ae3b8f937711c04c3f6a424a619bb773d9409": {
+   "title": "Britain to make salary disclosure in job ads mandatory",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-06T07:22:04+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "fb8316816540ee369773935776bbf1e1e555d092": {
+   "title": "早报｜首款触屏MacBook Pro开卖/2027年放假安排公布，调休减少/GPT-6 Cyber发布，复现1724项漏洞",
+   "source": "爱范儿",
+   "published": "2026-11-06T00:15:15+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "beec8115be1e4cf863f006794a43441a4cf3a617": {
+   "title": "OpenAI released a new cybersecurity model. Is that enough?",
+   "source": "TechCrunch",
+   "published": "2026-11-05T19:06:12+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "d10aa9cb1260785459bfa43f3e5dd05fd287976e": {
+   "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+   "source": "TechCrunch",
+   "published": "2026-11-06T07:18:44+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "dfef64d09f6416b1eb5b54e519d0e96288fc10a0": {
+   "title": "Nvidia Kubernetes Engine (NVKE)",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-06T03:16:26+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "8956cfab74119a31eddca5621217ce7dc4f71544": {
+   "title": "OpenAI is stepping back from NDAs for data center projects",
+   "source": "The Verge",
+   "published": "2026-11-06T00:37:56+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "af9ac3db0c5a1fbd7911988f36ec7701446d4bcf": {
+   "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+   "source": "Hugging Face Blog",
+   "published": "2026-11-06T00:00:00+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "53e37f550b47f21422b4800abef2d6507eb9a1ba": {
+   "title": "Inkling 2 Small",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-06T00:00:24+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "c6e6086fc4ef07dbd829e5ee1f46ca04ded704af": {
+   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-05T23:09:57+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "53b94906c33637b2699bec05c1b37802d7b6d08e": {
+   "title": "NASA unveils mysterious X-70 experimental aircraft using AI-generated image",
+   "source": "Ars Technica",
+   "published": "2026-11-05T22:49:03+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "c7ccbc97cd452c864b793d03d0ff857d2becd935": {
+   "title": "Claude Code sends your email address to websites",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-05T22:17:15+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "2902190f086c7c1a7203ef85ef4feb59c4d05b84": {
+   "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
+   "source": "Ars Technica",
+   "published": "2026-11-05T21:39:40+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "c6e5825d498a254cdda3229a6dbb4d6f5a333258": {
+   "title": "BMW bumps battery for the better: The 2027 i7 60 xDrive, driven",
+   "source": "Ars Technica",
+   "published": "2026-11-05T20:45:50+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "edb34dd97d0b6d81050a23d3691e324ababa00b2": {
+   "title": "MS Paint Remote Code Execution Vulnerability",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-05T20:43:42+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "231397eecfe085c884fe8b1686f06f6b4b3e3f36": {
+   "title": "Kalshi court losses pile up as judges refuse to block state gambling laws",
+   "source": "Ars Technica",
+   "published": "2026-11-05T19:46:37+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "32627f40f314d714c12dfa313679b55858e6c551": {
+   "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+   "source": "Hugging Face Blog",
+   "published": "2026-11-05T19:35:16+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "834a5a33fe02aea805fa1a6bb458c7c2ae126b89": {
+   "title": "The Hackintosh Reborn",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-05T19:08:22+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "d6a48f8dd1e9cad3987bd6a32b5681a08cdd3118": {
+   "title": "MAHA lost bigly in the midterms—is it at death's door?",
+   "source": "Ars Technica",
+   "published": "2026-11-05T18:49:41+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "db1d213cb858d61400a8de6f7523e2d1f1f71758": {
+   "title": "Statehouse wins give Democrats new power to push clean energy",
+   "source": "Ars Technica",
+   "published": "2026-11-05T15:59:51+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "07f476a0ca7170993e6b0ba0b5fc84083528dc36": {
+   "title": "消息称韩版三星 Galaxy S27 Pro、S27 Ultra 将采用高通骁龙 8 Elite Gen 6 系列芯片",
+   "source": "IT之家",
+   "published": "2026-11-06T12:57:57+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "76c3269e94cedef4f3be2c2ecd86cef6151e9cbb": {
+   "title": "消息称小米公关架构调整：张永生、曾洋出任核心岗位，成立中国区公关部",
+   "source": "IT之家",
+   "published": "2026-11-06T12:48:08+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "45cabe694a6dd344ad376003f64d2b79901c62ee": {
+   "title": "苹果 Apple Music 古典乐 App 更新 4.1 版本，升级品牌视觉",
+   "source": "IT之家",
+   "published": "2026-11-06T12:32:28+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "3f317099ddfb311d29a5ebbcc45908c5916b0082": {
+   "title": "问界业务联合团队誓师大会在重庆举行，华为何刚、赛力斯张正萍参与授旗仪式",
+   "source": "IT之家",
+   "published": "2026-11-06T12:27:12+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "31f5b188e0e44b1eea43330809efce967add775b": {
+   "title": "The Enough Phone is made by and for people fed up with big screens",
+   "source": "The Verge",
+   "published": "2026-11-06T12:00:00+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "e71ad58f6b1292b05039f64459e39d565801a747": {
+   "title": "全球最快达成百万销量新能源车型，吉利星愿 10 月全球销量突破 7 万辆",
+   "source": "IT之家",
+   "published": "2026-11-06T12:03:23+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "f5400525278c5393f8962250c9b0354fb3fc6c0f": {
+   "title": "男子卖 3 台苹果 iPhone 18 Pro Max 赚差价，结果收到涉诈资金银行卡被冻结",
+   "source": "IT之家",
+   "published": "2026-11-06T10:52:05+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "21d136b856404c245d1e4ee927d630121d028f6d": {
+   "title": "库洛游戏法务部通告侵权线索处理进展，已对多个平台多名用户分别启动法律追责程序",
+   "source": "IT之家",
+   "published": "2026-11-06T10:30:50+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "f8ee0c68d45c0bf50031add8e5cb0b03e296a38e": {
+   "title": "杜绝“先涨价后降价”，市场监管总局向主要平台企业发布“双十一”网络集中促销合规提示",
+   "source": "IT之家",
+   "published": "2026-11-06T10:22:55+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "cadefd2ae385e3035b15ae353542e952a00782f7": {
+   "title": "309 元：黑鲨风神笔记本散热器开售，140mm 大尺寸风扇、4000 转高性能电机",
+   "source": "IT之家",
+   "published": "2026-11-06T09:55:55+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "a4fdbaab8e29fd439ef08bb7939ab03286f23a0b": {
+   "title": "华境 S 汽车 10 月智能安全出行报告出炉，辅助驾驶总里程 2408 万公里",
+   "source": "IT之家",
+   "published": "2026-11-06T09:52:39+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "b3a651dbbf2ef6759d50a7d7cbd6afc8cce11a27": {
+   "title": "北汽星钽 5X 将于 11 月 12 日上市：方盒子 + 华为乾崑 ADS 5 Pro，预售价 13.99 万起",
+   "source": "IT之家",
+   "published": "2026-11-06T09:49:05+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "147de185ee239242f50726ce916493f46f05afce": {
+   "title": "红魔授权服务中心官宣实现一二线城市 100% 覆盖，支持维修部件 90 天质保等",
+   "source": "IT之家",
+   "published": "2026-11-06T09:43:08+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "3bf88c3f303605b318a84cdff5374ef7d6e0b420": {
+   "title": "国家网信办、金融监管总局集中整治网上金融“黑灰产”信息乱象",
+   "source": "IT之家",
+   "published": "2026-11-06T09:39:52+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "0a7bb1c63fface3ca56fe686c98fd78b87ef9628": {
+   "title": "比亚迪仰望 U9X 超跑 503.17km/h 极速成绩获 FIA 国际汽联与吉尼斯世界纪录国际权威认证",
+   "source": "IT之家",
+   "published": "2026-11-06T09:39:38+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "59543a46571faf5281ad7ccfb0b56d2cd625c21e": {
+   "title": "江淮汽车 10 月销量 32296 辆，新能源乘用车销量环比下降 43.28%",
+   "source": "IT之家",
+   "published": "2026-11-06T09:30:46+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "3bf2445062c477e7bd0dca7180c504107c5e8a2a": {
+   "title": "消息称长江存储计划建设第四座 NAND 工厂，国产设备占比力争达到 70%",
+   "source": "IT之家",
+   "published": "2026-11-06T09:24:39+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "afc5025c31d5eb47dd9399a9730bccb85332f057": {
+   "title": "广汽集团 10 月汽车销量 143687 辆，同比下降 15.84%",
+   "source": "IT之家",
+   "published": "2026-11-06T09:24:25+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "b9aab01869d774cb53c820258150e6cd357c0223": {
+   "title": "小米汽车架构调整：成立国际业务部，副总裁于立国兼任国际业务部总经理",
+   "source": "IT之家",
+   "published": "2026-11-06T09:10:07+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "b4a49095a7337399203ad397dad788249b5ec316": {
+   "title": "4499 → 2968 元：小米 REDMI K100 Pro Max 旗舰手机官方直播间再降价",
+   "source": "IT之家",
+   "published": "2026-11-06T09:07:18+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "c06955e0a08fe535acd8d92c33f65bb001469aae": {
+   "title": "消息称某厂超大杯手机项目暂停中，预计为 OPPO Find X10 Ultra",
+   "source": "IT之家",
+   "published": "2026-11-06T09:06:23+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "6b79930b3cfb1986577d0f77ca61a24cbf2e412a": {
+   "title": "开源电子书管理器 Calibre 9.18 发布：新增 KOReader 同步、OPDS 2.0 订阅源支持",
+   "source": "IT之家",
+   "published": "2026-11-06T09:02:16+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "8974478dfb5e95f41c0b36065fb15e3401b2e0ad": {
+   "title": "全新红旗 H9 轿车定档 11 月 7 日预售，搭载华为乾崑智驾 ADS 5 + 鸿蒙智舱 HarmonySpace",
+   "source": "IT之家",
+   "published": "2026-11-06T08:55:59+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "0bcdf7b5840e25b37144d832c80809efbbcf639f": {
+   "title": "449 元起，爱国者星璨魔方 VL360 一体式水冷散热器开售",
+   "source": "IT之家",
+   "published": "2026-11-06T08:45:40+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "e8b24895871b8fd0a71a4c2f677397b8341ec521": {
+   "title": "异能者推出 Windows & Android 双系统二合一设备，基于 Ultra 5 115U",
+   "source": "IT之家",
+   "published": "2026-11-06T08:33:25+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "9f3c6517b28203a1a5ae0f13b252ecc3d25e3500": {
+   "title": "全华班团队：比亚迪仰望 U9X“地表最快量产车”研发工程师揭秘，平均年龄不足 30 岁",
+   "source": "IT之家",
+   "published": "2026-11-06T08:23:45+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "aa95b61e093874aa4208c9352e31ecda1e4b9d17": {
+   "title": "创维推出 F22B21F 显示器：21.45 英寸 1080P 120Hz，到手价 379 元",
+   "source": "IT之家",
+   "published": "2026-11-06T08:18:52+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "8a35cdf51422e250afd9214fe914a7facef57f63": {
+   "title": "消息称徕卡 Q3 43 Monochrom 相机下月推出，仅支持拍摄黑白照片",
+   "source": "IT之家",
+   "published": "2026-11-06T08:07:20+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "5515d46057840d1ac1b8cb5bf47b4e7d991d9f66": {
+   "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+   "source": "TechCrunch",
+   "published": "2026-11-06T00:07:18+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "379934e546cffb9958a236bb7c919800628f7542": {
+   "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+   "source": "TechCrunch",
+   "published": "2026-11-06T00:01:38+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "3958d94822f74804e02291d1a2a1329f02e32548": {
+   "title": "Cult.fit builds operational muscle with Codex",
+   "source": "OpenAI Blog",
+   "published": "2026-11-05T20:00:00+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "6b70c74bb771cbf84125a2b58412576777a1d33f": {
+   "title": "MacBook Pro 能触屏了，但这只是它最小的升级｜附选购指南",
+   "source": "爱范儿",
+   "published": "2026-11-05T14:00:13+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "18f09d7fdd1a6bb77bba05a6ed50f3e89687a2ff": {
+   "title": "T-Mobile owner on Elon Musk launching a wireless carrier: ‘Welcome to the party’",
+   "source": "The Verge",
+   "published": "2026-11-05T23:17:10+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "5a61f577a005a3fcdde9fbad432394e024bfcc19": {
+   "title": "Sony revives the original Walkman headphones, adds USB-C",
+   "source": "Ars Technica",
+   "published": "2026-11-05T21:56:36+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "ca80033ed57df3b00fd2f0c134a1a632e51d5f2d": {
+   "title": "动作冒险游戏《漫威银河护卫队》登陆 Switch 2 平台，支持鼠标模式与陀螺仪体感操作",
+   "source": "IT之家",
+   "published": "2026-11-06T12:50:34+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "95247d84beb2c4aed7d05296c413e41a79af4437": {
+   "title": "We've built an open-source feature flag server for 11 years",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-06T11:40:06+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "8edfbb99aec4e86f3e4e9a5cb83d255544459941": {
+   "title": "泰国明年将进口电动汽车税率上调至 35%，旨在扶持本地汽车产业",
+   "source": "IT之家",
+   "published": "2026-11-06T11:17:40+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "17bc45b74ec0e843698295a9f82f662bd89c7bdc": {
+   "title": "《刺客信条：英灵殿》迎来久违更新：引入“新游戏 +”，支持 PSSR 2",
+   "source": "IT之家",
+   "published": "2026-11-06T10:57:59+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "457ab116f048e9badfd479044407bb0d15845df6": {
+   "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-06T10:21:15+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "3051db0b5b101e93308065faaf5817b011a0ed09": {
+   "title": "泊车辅助系统软件存在偏差影响倒车视野，保时捷召回 18274 辆卡宴",
+   "source": "IT之家",
+   "published": "2026-11-06T09:58:25+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "098ab284ae3b19f494a64638bec836b833b70b40": {
+   "title": "北京奔驰、梅赛德斯-奔驰（中国）召回 18.03 万辆国产和进口汽车：车辆高压系统可能短路、车门锁微动开关可能故障",
+   "source": "IT之家",
+   "published": "2026-11-06T09:58:29+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "52c869e06eb0b54cae232fdc81bda369b003dc94": {
+   "title": "喇叭或无法正常鸣响存在安全隐患：斯巴鲁汽车（中国）有限公司召回部分进口汽车，共计 196494 辆",
+   "source": "IT之家",
+   "published": "2026-11-06T09:58:26+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "f52c0c324941f5d02df9cb5abf7da52f0a344b38": {
+   "title": "奇瑞召回 53882 辆瑞虎 5x、欧萌达系列汽车，后轴纵臂与套管可能焊接不良",
+   "source": "IT之家",
+   "published": "2026-11-06T10:00:41+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "8483b91cfc7a7af7358affaece452b015b8720ae": {
+   "title": "京东与美的签署战略合作协议，明确未来三年 2388 亿元全渠道销售目标",
+   "source": "IT之家",
+   "published": "2026-11-06T09:45:06+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "d37a28bdbb9afaf050e614f2ccfa2c12a48d23b8": {
+   "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-06T09:27:12+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "b609b18fd12f0b4dda73b4c8d9cc1d5537c4ad39": {
+   "title": "安耐美：市面 AQUAFUSION II、LIQMAX IV 液冷存在非正规货源，消费者需仔细分辨",
+   "source": "IT之家",
+   "published": "2026-11-06T09:22:30+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "6da64da5f5740558b33afb9609b6c05eb42b48ab": {
+   "title": "比亚迪：仰望 U9X 去年 496.22km/h 取得世界第一后，团队判断仍有性能余量决定探索更高极速",
+   "source": "IT之家",
+   "published": "2026-11-06T09:20:02+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "d3ec847e43e0486e81d05d876b15027109eaa64d": {
+   "title": "Chomsky and the Two Cultures of Statistical Learning",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-06T08:18:36+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "0e134826465126a222747c5969f79b7d22f26731": {
+   "title": "全球首台 4000 米级浮空风电系统在湖南岳阳完成城市首飞",
+   "source": "IT之家",
+   "published": "2026-11-06T08:21:41+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "fd753c1c47c6409fe3899f681709e493e68a2316": {
+   "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-06T07:55:48+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "479de8544a296e21a1a40368a67809905724ea15": {
+   "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-06T07:47:38+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "b97c03a8df87110accac6492604de36ab1a706a0": {
+   "title": "503.17km/h！比亚迪仰望 U9X 再次刷新全球最速，量产车首次突破 5 字头",
+   "source": "爱范儿",
+   "published": "2026-11-06T09:25:33+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "faf06527a3a56a7be0563d1f5a114c7420862c48": {
+   "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-06T04:17:49+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "c282d2791fcf121806b8e12c54680383a1c11689": {
+   "title": "Pwn.college",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-06T03:27:14+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "5cf33c740479c1f0699d00ce97c2dd224b416b32": {
+   "title": "随时结束：B站 x 京东 PLUS 联名年卡 140 元、大会员年卡 89 元年内新低",
+   "source": "IT之家",
+   "published": "2026-11-06T01:15:10+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "e8ad61f2c4448ea75005e5d5d43968eae3b63ca5": {
+   "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-06T00:54:15+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "049d2847d142242bef37cd0fd2734d9f6f8b8008": {
+   "title": "Blue Origin says it is building a higher-performing rocket engine at 1/4 the cost",
+   "source": "Ars Technica",
+   "published": "2026-11-06T00:17:06+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "4cddec6739aaa516daf345ba71e69aaeed604684": {
+   "title": "Pangram Image 1.0",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-05T19:27:52+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "32f68310f282bddd9df531ed6f201eb3f25b89d3": {
+   "title": "Motorola's new Signature 27 has it all if you can stomach the $1,600 price tag",
+   "source": "Ars Technica",
+   "published": "2026-11-05T13:00:56+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
+  },
+  "c9180afe17f956a2ba6263324a73d71858525b99": {
+   "title": "10 月最值得关注的 17 个产品｜明日产品 WATCHLIST",
+   "source": "爱范儿",
+   "published": "2026-11-06T05:26:24+00:00",
+   "first_seen": "2026-11-06T13:00:48.416966+00:00"
   }
  },
- "updated": "2026-11-05T13:01:16.260404+00:00"
+ "updated": "2026-11-06T13:00:48.416966+00:00"
 }

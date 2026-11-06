@@ -5,7 +5,7 @@
 
 - 频道页: https://lehaoda.github.io/tech-daily-podcast/
 - RSS: https://lehaoda.github.io/tech-daily-podcast/feed.xml
-- 音频: https://lehaoda.github.io/tech-daily-podcast/audio/<日期>.mp3
+- 音频: https://podcast.lehaoda.com/episodes/<日期>.m4a (存 Mac Studio 硬盘)
 
 ## 工作流(每天 7:00 由 Hermes cron 自动执行)
 
@@ -20,8 +20,13 @@
    只用候选池内的事实,不虚构。
 3. `pipeline/tts_episode.py` — edge-tts 逐句合成(男声 `zh-CN-YunyangNeural`),
    ffmpeg 拼接 + 句间停顿 → `episodes/<日期>/episode.mp3`。(脚本仍兼容 `F：` 行。)
-4. `pipeline/publish.py` — 重建 `feed.xml`(保留最近 20 期) + `index.html`,
-   推 GitHub Pages,轮询验证线上 feed 与音频可访问。
+4. `pipeline/publish.py` — 音频写入 Mac Studio 硬盘
+   `/Volumes/Immich-HDD-Temp/podcast/episodes/<日期>.mp3 | .m4a`,
+   经 `https://podcast.lehaoda.com/episodes/` 对外(docker nginx 只读挂载
+   + cloudflared 隧道,配置在 `~/docker/podcast-server/`;nginx.conf 已配
+   mp3→audio/mpeg、m4a→audio/mp4);仓库不存音频。
+   然后重建 `feed.xml`(保留最近 20 期) + `index.html`,推 GitHub Pages,
+   轮询验证线上 feed 与 podcast.lehaoda.com 音频均可访问。
 
 手动重跑某天: `python3 pipeline/fetch_news.py` → 写稿 →
 `python3 pipeline/tts_episode.py episodes/<日期>/script.txt` →
@@ -33,11 +38,11 @@
 feed.xml            播客 RSS(自动生成)
 index.html          频道页(自动生成, 含播放器)
 cover.png           3000x3000 封面
-audio/              各集 MP3
 episodes/<日期>/    news.json / script.txt / summary.md / episode.mp3
 pipeline/           流水线脚本
 data/               metadata.json(频道元数据) / seen.json(去重历史) / episodes.json
 .venv/              make_cover.py 用的 Pillow(仅封面生成一次需要)
+# 音频不在仓库: /Volumes/Immich-HDD-Temp/podcast/episodes/ (Mac Studio 硬盘)
 ```
 
 ## 入驻播客平台

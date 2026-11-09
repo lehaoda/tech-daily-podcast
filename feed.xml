@@ -5,7 +5,7 @@
     <description>每天 5 分钟的科技与 AI 新闻节目「乐见未来」:主播 Adam 和你聊大模型发布、芯片硬件、大厂动态、融资监管与科学突破。新闻选自 OpenAI 官方博客、量子位、IT之家、TechCrunch、The Verge 等正规媒体,每集描述附原始来源链接。每天早上 7 点更新。</description>
     <link>https://lehaoda.github.io/tech-daily-podcast</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 08 Nov 2026 07:06:42 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 07:06:44 -0600</lastBuildDate>
     <image>
       <url>https://lehaoda.github.io/tech-daily-podcast/cover.png</url>
       <title>乐见未来</title>
@@ -22,6 +22,16 @@
     </itunes:owner>
     <itunes:category text="Technology"/><itunes:category text="IT &amp; Software"/>
     <itunes:image href="https://lehaoda.github.io/tech-daily-podcast/cover.png"/>
+  <item>
+    <title>乐见未来 2026-11-09 · 第6期</title>
+    <description><![CDATA[<p>本期报道的原始来源:</p><ul><li>谷歌扩充 TPU 芯片阵容，推出 8tx/8i Max 两款新品挑战英伟达 | IT之家 <a href="https://www.ithome.com/1/024/525.htm">谷歌扩充 TPU 芯片阵容，推出 8tx/8i Max 两款新品挑战英伟达 | IT之家</a></li><li>挪威出手限制高耗能数据中心扩张，暂停为新建项目预留电网接入容量 | IT之家 <a href="https://www.ithome.com/1/024/495.htm">挪威出手限制高耗能数据中心扩张，暂停为新建项目预留电网接入容量 | IT之家</a></li><li>美国 AI 数据中心反对声浪高涨，软银考虑转向其他国家寻找增长机会 | IT之家 <a href="https://www.ithome.com/1/024/393.htm">美国 AI 数据中心反对声浪高涨，软银考虑转向其他国家寻找增长机会 | IT之家</a></li><li>韩国 2026 年高考开考在即：将有专人查 AI 眼镜，任何电子设备禁止进入考场 | IT之家 <a href="https://www.ithome.com/1/024/502.htm">韩国 2026 年高考开考在即：将有专人查 AI 眼镜，任何电子设备禁止进入考场 | IT之家</a></li><li>国行 iPad、MacBook 用上"Apple 智能"在望，相关生成式 AI 服务完成备案 | IT之家 <a href="https://www.ithome.com/1/024/499.htm">国行 iPad、MacBook 用上"Apple 智能"在望，相关生成式 AI 服务完成备案 | IT之家</a></li><li>Instagram's AI age detection is expanding globally | The Verge <a href="https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion">Instagram's AI age detection is expanding globally | The Ver</a></li><li>三星 One UI 9.5 有望将 Bixby 打造成 AI 智能体，真正"代你办事" | IT之家 <a href="https://www.ithome.com/1/024/386.htm">三星 One UI 9.5 有望将 Bixby 打造成 AI 智能体，真正"代你办事" | IT之家</a></li><li>腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满 | 量子位 <a href="https://www.qbitai.com/2026/11/507843.html">腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满 | 量子位</a></li><li>Google AI 主管展示将《塞尔达传说：时之笛重制版》移植到苹果 iPhone Duo 上运行，招致版权争议最终删帖 | IT之家 <a href="https://www.ithome.com/1/024/433.htm">Google AI 主管展示将《塞尔达传说：时之笛重制版》移植到苹果 iPhone Duo 上运行，招致版权争议最终删帖</a></li></ul>]]></description>
+    <link>https://lehaoda.github.io/tech-daily-podcast/#2026-11-09</link>
+    <guid isPermaLink="true">https://lehaoda.github.io/tech-daily-podcast/#2026-11-09</guid>
+    <pubDate>Mon, 09 Nov 2026 07:06:44 -0600</pubDate>
+    <enclosure url="https://podcast.lehaoda.com/episodes/2026-11-09.m4a" type="audio/mp4" length="2407660"/>
+    <itunes:duration>276</itunes:duration>
+    <itunes:image href="https://lehaoda.github.io/tech-daily-podcast/cover.png"/>
+  </item>
   <item>
     <title>乐见未来 2026-11-08 · 第5期</title>
     <description><![CDATA[<p>本期报道的原始来源:</p><ul><li>AI 公司迄今最大发电设备采购订单:曝 Anthropic 砸 34 亿美元买燃气发电机 | IT之家 <a href="https://www.ithome.com/1/023/989.htm">AI 公司迄今最大发电设备采购订单:曝 Anthropic 砸 34 亿美元买燃气发电机 | IT之家</a></li><li>伯恩斯坦:OpenAI 至 2030 年算力基础设施支出或达 6140 亿美元,低于此前 7500 亿美元传闻 | IT之家 <a href="https://www.ithome.com/1/023/905.htm">伯恩斯坦:OpenAI 至 2030 年算力基础设施支出或达 6140 亿美元,低于此前 7500 亿美元传闻 | IT</a></li><li>国家能源局:在算力等新兴产业带动下,我国用电需求仍将刚性增长、预计相当于每年新增 3 个上海市的用电量 | IT之家 <a href="https://www.ithome.com/1/023/911.htm">国家能源局:在算力等新兴产业带动下,我国用电需求仍将刚性增长、预计相当于每年新增 3 个上海市的用电量 | IT之家</a></li><li>数据中心反对声浪席卷欧洲各地,抗议活动接连不断 | IT之家 <a href="https://www.ithome.com/1/023/977.htm">数据中心反对声浪席卷欧洲各地,抗议活动接连不断 | IT之家</a></li><li>腾讯姚顺雨谈"AI 模型公司护城河":更多存在于产品层,而不是模型层 | IT之家 <a href="https://www.ithome.com/1/023/991.htm">腾讯姚顺雨谈"AI 模型公司护城河":更多存在于产品层,而不是模型层 | IT之家</a></li><li>三名男子涉嫌利用 AI 冒充企业高管和律师行骗,涉案金额超 1 亿美元 | IT之家 <a href="https://www.ithome.com/1/023/925.htm">三名男子涉嫌利用 AI 冒充企业高管和律师行骗,涉案金额超 1 亿美元 | IT之家</a></li><li>日本富士电视台将在所有真人剧集制作中使用 AI,可省七至八成特效制作工序 | IT之家 <a href="https://www.ithome.com/1/023/992.htm">日本富士电视台将在所有真人剧集制作中使用 AI,可省七至八成特效制作工序 | IT之家</a></li><li>物理智能开源平台 Hitch Open 在进博会发布,142 拍刷新 AI 机器人乒乓对打世界纪录 | IT之家 <a href="https://www.ithome.com/1/023/920.htm">物理智能开源平台 Hitch Open 在进博会发布,142 拍刷新 AI 机器人乒乓对打世界纪录 | IT之家</a></li></ul>]]></description>

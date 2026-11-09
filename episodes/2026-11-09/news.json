@@ -1,0 +1,233 @@
+{
+ "date": "2026-11-09",
+ "window_hours": 24,
+ "fetched_at": "2026-11-09T13:00:53.436054+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/507843.html",
+   "published": "2026-11-09T08:44:00+00:00",
+   "age_hours": 4.3,
+   "score": 7.5,
+   "summary": ""
+  },
+  {
+   "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/508694.html",
+   "published": "2026-11-09T08:34:03+00:00",
+   "age_hours": 4.4,
+   "score": 7.5,
+   "summary": "11月9日，千问办公发布2.0版本"
+  },
+  {
+   "title": "The climate case for AI has not been made",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+   "published": "2026-11-09T10:00:00+00:00",
+   "age_hours": 3.0,
+   "score": 7.0,
+   "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate "
+  },
+  {
+   "title": "AI接管一家8万Star开源公司，写代码、派任务、查Bug全包了",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/508607.html",
+   "published": "2026-11-09T05:47:58+00:00",
+   "age_hours": 7.2,
+   "score": 7.0,
+   "summary": "Worker不够了主管Agent还能自己招！"
+  },
+  {
+   "title": "基元律动发布NeoHorse-1.5-Flash Preview，Agent模型RSI进入第二轮迭代",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/508603.html",
+   "published": "2026-11-09T05:09:23+00:00",
+   "age_hours": 7.9,
+   "score": 7.0,
+   "summary": "11月5日，基元律动（TokenRhythm）发布Agent原生模型NeoHorse-1.5-Flash Preview。"
+  },
+  {
+   "title": "谷歌扩充 TPU 芯片阵容，推出 8tx/8i Max 两款新品挑战英伟达",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/024/525.htm",
+   "published": "2026-11-09T12:43:54+00:00",
+   "age_hours": 0.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 9 日消息，据彭博社报道，Alphabet 旗下谷歌正在扩大人工智能芯片产品阵容，希望借助自身在 AI 芯片市场的快速崛起，进一步挑战英伟达。这一市场规模已达数千亿美元。 谷歌将推出两款新的张量处理单元（TPU）。TPU 是谷歌自主设计的专用芯片，主要用于开发和运行 AI 软件。此次推出的新版本分别针对机密计算，以及帮助 AI 模型在处理请求时访问更广泛的信息。总体而言，这些芯片旨在满足行业向 AI 智能体转型过程中不断增长的需求，同时应对随之而来的安全挑战。 此次发布也意味着谷歌芯片部门正在加快产品迭代速度。过去，谷歌通常每两年推出一款新的 AI 处理器；今年，该部门一次"
+  },
+  {
+   "title": "1299 → 879~931 元：华为 FreeClip 2 耳夹耳机国补后京东 PLUS 新低",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/024/516.htm",
+   "published": "2026-11-09T12:17:49+00:00",
+   "age_hours": 0.7,
+   "score": 6.5,
+   "summary": "华为 FreeClip 2 耳夹耳机官方定价 1299 元，今日京东自营 PLUS 会员可享： 多城支持立减 150 元 + 支持 15% 国补，折后 879 元。 多城支持立减 150 元 + 支持 10% 国补，折后 931 元。 京东 11.11 红包至高 26888 元无门槛可用，每天可抽一次： 点此抽取 。 京东 华为 FreeClip 2 耳夹耳机 五色可选 国补后 879 元起 直达链接 华为 FreeClip 2 采用了华为第三代自研低功耗芯片，引入 NPU AI 处理器，算力提升 10 倍；支持鸿蒙 AI 耳边助手，支持头动播报、智慧播报、小艺唤醒、小艺翻译。 这款耳机采用了"
+  },
+  {
+   "title": "Instagram’s AI age detection is expanding globally",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
+   "published": "2026-11-09T12:00:00+00:00",
+   "age_hours": 1.0,
+   "score": 6.5,
+   "summary": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen Account protections,\" according to Meta's announcement, after launching the AI-p"
+  },
+  {
+   "title": "漫步者 W900NB 30 周年典藏版头戴蓝牙耳机今晚开售：限量 3000 套，1159 元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/024/505.htm",
+   "published": "2026-11-09T11:49:05+00:00",
+   "age_hours": 1.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 9 日消息，漫步者 W900NB 30 周年典藏版头戴蓝牙耳机今晚 20:00 开售，售价 1159 元。这款耳机提供晨雾白、暗夜黑、深海蓝三种颜色可选，限量 3000 套，每台配备独立蚀刻编号。 这款耳机配备 8 颗高精度广角硅麦，采用 6 颗 FF 前馈麦环形布局 + 2 颗 FB 反馈麦的组合，降噪深度达 -50dB；采用 6nm 制程 6 核异构芯片，集成 Arm Ethos U55 独立 NPU，实现端到端 AI 拾音降噪；搭载六轴传感头部追踪技术，支持杜比全景声。 这款耳机采用 10mm PET 镀钛高音单元 + 40mm 双层 PEEK 复合航空纤维中低音单元"
+  },
+  {
+   "title": "韩国 2026 年高考开考在即：将有专人查 AI 眼镜，任何电子设备禁止进入考场",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/024/502.htm",
+   "published": "2026-11-09T11:43:43+00:00",
+   "age_hours": 1.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 9 日消息，据新华社报道，今年的韩国大学修学能力考试（即高考）定于本月 19 日举行。韩国教育部 9 日发布“考生注意事项指南”，明确 禁止考生携带任何电子设备进入考场 ，尤其是出现在近期多起作弊丑闻的人工智能（AI）眼镜。 指南显示，禁带物品包括 手机、平板电脑、AI 眼镜、智能手表、具备蓝牙通信功能的耳机等 。考生若误将电子设备带入考场，须在第一场考试开始前按监考人员要求上交，所有科目考完后方可领回；若未按要求上交，一经发现将按作弊处理，考试成绩作废。 每个考点将安排一名工作人员 专门检查 AI 眼镜 。考生若佩戴 AI 眼镜，即使没有使用，也将被取消当年考试成绩和下一"
+  },
+  {
+   "title": "国行 iPad、MacBook 用上“Apple 智能”在望，相关生成式 AI 服务完成备案",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/024/499.htm",
+   "published": "2026-11-09T11:32:07+00:00",
+   "age_hours": 1.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 9 日消息，据“网信上海”公众号，根据《生成式人工智能服务管理暂行办法》相关要求，“Apple 智能”生成式人工智能服务新增 苹果平板和苹果笔记本电脑 两类场景，已完成备案。目前适用场景为苹果手机、平板、笔记本电脑。 据IT之家此前报道，苹果多款 iPhone 手机于 9 月 29 日国行备案换证，增加搭载的大模型备案编号： Shanghai-AppleZhiNeng-202506160057 Shanghai-TongYiWanXiang-202410090024 ZheJiang-TongYiQianWen-20230901 据悉， 苹果 iPhone 15 Pro /"
+  },
+  {
+   "title": "挪威出手限制高耗能数据中心扩张，暂停为新建项目预留电网接入容量",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/024/495.htm",
+   "published": "2026-11-09T11:25:57+00:00",
+   "age_hours": 1.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 9 日消息，据路透社报道，挪威政府当地时间周一表示，将限制该国耗电量巨大的数据中心快速扩张。随着全球人工智能产业推动数据中心建设热潮，挪威成为最新一个采取措施限制相关项目发展的国家。 据IT之家了解，挪威目前的发电量高于国内用电量，是电力净出口国。但近期预测显示，新增数据中心带来的电力需求可能在未来几年造成能源供应缺口，并推高电价。 数据中心快速扩张正在多个国家遭遇阻力，近期美国中期选举中出现的相关争议便是一个例子。批评人士认为，数据中心行业创造的就业岗位有限，却会推高电价。 挪威国家电网运营商 Statnett 周一宣布，在政府建立数据中心许可制度、明确项目管理规则之前，"
+  },
+  {
+   "title": "京东 11.11 数码影音巅峰 52 小时即将开启：苹果 AirPods 5 续航增强版 1149 → 793.8 元国补再探底",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/024/488.htm",
+   "published": "2026-11-09T11:04:50+00:00",
+   "age_hours": 1.9,
+   "score": 6.5,
+   "summary": "京东 11.11 数码影音巅峰 52 小时即将在 20:00 开抢，耳机，音箱，相机，无人机，镜头、智能手表、智能眼镜、投影仪、智能门锁、摄像头、游戏机等皆为好价。 京东 · 潮流影音 1111 主会场： 点此查看 京东 · 潮流数码 1111 主会场： 点此查看 今日京东自营 AirPods 大促继续，AirPods 5 无线充电盒版 20:00 起支持使用 800-80 元神券。 官方定价 1149 元，今日 PLUS 券后 923.4 元，国补后低至 793.8 元（本次国补 限地区 ）。 京东 11.11 苹果新品加补券： 点此领券 京东 PLUS 会员 11 月 9 日 20 点可 "
+  },
+  {
+   "title": "Torrent underground",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/cs/features/1027614/torrent-movies-file-sharing-download-piracy",
+   "published": "2026-11-09T11:00:05+00:00",
+   "age_hours": 2.0,
+   "score": 6.5,
+   "summary": "When Jane first heard about Memory and Imagination, a rare 1990s documentary about the Library of Congress, she was intrigued. But the Canadian writer in her 30s couldn’t find the movie anywhere — not on streaming services, not on YouTube, not on pirate sites — and her intrigue turned into obsession"
+  },
+  {
+   "title": "背屏机型首次走向国际舞台：小米 18 Pro 系列将于巴黎时间 11 月 17 日发布",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/024/448.htm",
+   "published": "2026-11-09T10:46:26+00:00",
+   "age_hours": 2.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 9 日消息，今天（9 日）晚间，小米集团合伙人 / 总裁、手机部总裁、小米品牌总经理卢伟冰宣布，小米 18 Pro 系列将于 巴黎时间 11 月 17 日 14 时 发布，届时将面向国际首次发布全新“百变背屏”。此外，多款科技新品也将同场亮相。 小米 18 Pro 系列手机已于 9 月 23 日晚在国内正式发布 ，搭载第六代骁龙 8 至尊版系列移动平台，后置徕卡 2 亿大底主摄 + 2 亿大底长焦，配备 AI 百变背屏， 售价 5,999 元起 。 卢伟冰曾在 9 月 26 日表示，国外媒体和用户，对小米 18 Pro 系列呼声很高，期待早日上市， 系列新机会在今年内登陆国"
+  },
+  {
+   "title": "Google AI 主管展示将《塞尔达传说：时之笛重制版》移植到苹果 iPhone Duo 上运行，招致版权争议最终删帖",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/024/433.htm",
+   "published": "2026-11-09T10:26:33+00:00",
+   "age_hours": 2.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 9 日消息，Google AI Studio 产品与设计主管 Ammaar Reshi 近期在 X 平台发文，展示其利用 AI 成功将任天堂《塞尔达传说：时之笛重制版》移植至 iPhone Duo 平台。 Ammaar Reshi 此次原本是想借此展示 Google 自家 Gemini 4 AI 模型能力，不过这种未经授权便对游戏进行逆向移植的做法本身严重侵犯任天堂版权，视频发布后引发大量用户批评，为了避免争议进一步升级，Ammaar Reshi 随后悄悄删除了相关贴文。 近期，业界已经出现多起利用 AI 对游戏进行逆向工程的案例，甚至有相关成果被用于勒索原开发者，进一步加"
+  },
+  {
+   "title": "瑞银 CEO 安思杰：过去数周 AI 概念股大幅回调，源于投资者此前过高期望",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/024/432.htm",
+   "published": "2026-11-09T10:19:11+00:00",
+   "age_hours": 2.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 9 日消息，瑞银集团 CEO 安思杰今天（9 日）在悉尼举行的瑞银会议上指出，AI 概念股过去几周大幅回调，是因为投资者此前 对 AI 行业的期望过高 。 他表示，美国近期的中期选举结果，以及全球围绕基础设施扩建影响展开的讨论，都可能 拖慢 AI 行业取得预期成果的进程 。“直到不久前，市场定价都建立在 一切尽善尽美的预期 之上。当然，过去几周市场出现了一些回调。” 安思杰看好 AI 发展带来的经济效益，但认为市场对这些成果能够多快实现 过于乐观 。 上周，市场担忧美国民主党在选举中获胜后会推动收紧 AI 行业监管，导致全球股市市值蒸发数万亿美元。不过，美股在当地时间 6 "
+  },
+  {
+   "title": "美国 AI 数据中心反对声浪高涨，软银考虑转向其他国家寻找增长机会",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/024/393.htm",
+   "published": "2026-11-09T10:04:20+00:00",
+   "age_hours": 2.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 9 日消息，据彭博社今天（9 日）下午报道，面对美国 AI 数据中心需求可能放缓的局面，软银集团旗下的电信运营商软银公司 CEO 宫川润一开始考虑 转向其他国家寻找增长机会 。 软银公司原本计划 在美国开展新型 AI 云计算业务 ，但民主党上周在中期选举中大获全胜，加上当地反对数据中心建设的声音日益高涨，公司不得 不重新评估美国市场的前景 。 宫川润一在东京举行的业绩说明会上告诉投资者：“美国发生的重大变化恐怕对 我们不太有利 。不过，全球 AI 数据中心需求依然旺盛，如果美国形势恶化过于严重，我们可能会 先在其他国家开展业务 。” 作为日本第三大移动通信运营商，软银公司也"
+  },
+  {
+   "title": "三星 One UI 9.5 有望将 Bixby 打造成 AI 智能体，真正“代你办事”",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/024/386.htm",
+   "published": "2026-11-09T09:54:51+00:00",
+   "age_hours": 3.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 9 日消息，外媒 Sammobile 今天（9 日）晚间公布了有关 One UI 9.5 的最新发现：三星准备对 Bixby 进行大幅升级，让语音助手进一步变成能够 代用户办事的个人 AI 智能体 。 该媒体在体验尚未发布的新版 Bixby 后发现，三星语音助手可以在后台处理 订酒店、预约等日常事务 。例如，在要求 Bixby 每天早上提供美元兑印度卢比的汇率 后，Bixby 便自动创建了一项每日任务，并将其列在应用的 Actions 栏目中。 ▲ 该媒体的测试截图，下同 用户只需向 Bixby 提出定期执行某项任务的要求，Bixby 便会理解指令并设置相应操作，等待用户确"
+  },
+  {
+   "title": "消息称 Sakana AI 最早 2027 秋 IPO，有望开日本人工智能实验室先河",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/024/383.htm",
+   "published": "2026-11-09T09:46:03+00:00",
+   "age_hours": 3.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 9 日消息，《日经亚洲》当地时间今日报道称， 日本人工智能实验室 Sakana AI 最早将于 2027 年秋季进行 IPO 。该企业近日已委任高盛担任其 IPO 顾问。 Sakana AI 有望成为首家 IPO 的日本 GenAI 开发企业，这次首次公开上市也有望成为日本历史上最大的初创企业 IPO 之一。Sakana AI 计划将募集资金用于模型开发、人才招聘、销售营销。 Sakana AI 于 2023 年创立，聚焦主权人工智能场景，推出了一系列路由模型。该企业于 2025 年 11 月 以 4000 亿日元的估值进行了 B 轮融资 。 报道表示， Sakana 正在"
+  },
+  {
+   "title": "“AI毁了我的计算机学位”",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/508706.html",
+   "published": "2026-11-09T08:57:20+00:00",
+   "age_hours": 4.1,
+   "score": 6.5,
+   "summary": "教授也用Claude糊弄…"
+  },
+  {
+   "title": "Apps to distract you from the endless cycle of doomscrolling",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+   "published": "2026-11-08T22:00:00+00:00",
+   "age_hours": 15.0,
+   "score": 6.5,
+   "summary": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive."
+  },
+  {
+   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+   "published": "2026-11-08T21:00:11+00:00",
+   "age_hours": 16.0,
+   "score": 6.5,
+   "summary": "In a memo to the company, Huang admitted that he had an affair."
+  },
+  {
+   "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+   "published": "2026-11-08T19:51:30+00:00",
+   "age_hours": 17.2,
+   "score": 6.5,
+   "summary": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward."
+  },
+  {
+   "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+   "published": "2026-11-08T17:30:00+00:00",
+   "age_hours": 19.5,
+   "score": 6.5,
+   "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners."
+  }
+ ]
+}

@@ -1,0 +1,233 @@
+{
+ "date": "2026-11-10",
+ "window_hours": 24,
+ "fetched_at": "2026-11-10T13:01:35.549220+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "Helping caregivers use AI in everyday life",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "published": "2026-11-10T12:00:00+00:00",
+   "age_hours": 1.0,
+   "score": 8.0,
+   "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+  },
+  {
+   "title": "Closing the AI guidance gap in education",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "published": "2026-11-10T09:00:00+00:00",
+   "age_hours": 4.0,
+   "score": 8.0,
+   "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning."
+  },
+  {
+   "title": "ChatGPT Enterprise now available in AWS Marketplace",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+   "published": "2026-11-09T19:00:00+00:00",
+   "age_hours": 18.0,
+   "score": 7.5,
+   "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships."
+  },
+  {
+   "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+   "published": "2026-11-10T13:00:00+00:00",
+   "age_hours": 0.0,
+   "score": 7.0,
+   "summary": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide."
+  },
+  {
+   "title": "Figure AI 招聘夜班管理员照看人形机器人，时薪最高 45 美元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/140.htm",
+   "published": "2026-11-10T12:31:17+00:00",
+   "age_hours": 0.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 10 日消息，硅谷正在招聘一种新型“保姆”：机器人夜班管理员。 人形机器人初创公司 Figure AI 正在美国加利福尼亚州圣克拉拉市招聘一名夜班协调员，负责监督公司的人形机器人，以及与机器人协同工作的员工。简单来说，这份工作的核心就是确保机器人在夜间正常运行，出现故障时及时处理。 根据该公司近期发布的招聘信息，这是一份有机会转为正式员工的合同制岗位。应聘者需要负责安排团队工作、指导员工、排查机器人故障和安全问题，有时还需要亲自操作机器人。 该职位时薪为 40 至 45 美元 （IT之家注：现汇率约合 267.5 至 300.9 元人民币） ，工作时间为晚上 10 时 30"
+  },
+  {
+   "title": "Anthropic IPO 每股定价区间 70-78 美元，剑指 1.4 万亿美元完全摊薄估值",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/139.htm",
+   "published": "2026-11-10T12:25:22+00:00",
+   "age_hours": 0.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 10 日消息，据美国 CNBC 今天（10 日）晚间报道，Anthropic 最新更新的上市申请文件显示，公司计划通过首次公开募股（IPO）发行 8.25 亿股股票，发行价定为每股 70 至 78 美元 （现汇率约合 468.1 至 521.6 元人民币） 。 如果按 78 美元 （现汇率约合 521.6 元人民币） 的发行价上限计算，Anthropic 最多可通过 IPO 筹集 643.5 亿美元 （现汇率约合 4,302.82 亿元人民币） ，完全摊薄后的估值 最高可达 1.405 万亿美元 （IT之家注：现汇率约合 9.39 万亿元人民币） 。相比之下，公司今年 5 "
+  },
+  {
+   "title": "曝 Anthropic 拟通过 IPO 筹集最多 644 亿美元，上市推介启动在即",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/127.htm",
+   "published": "2026-11-10T11:40:20+00:00",
+   "age_hours": 1.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 10 日消息，据路透社今天（10 日）晚间公布的最新招股说明书草案，Anthropic 计划通过首次公开募股（IPO）筹集最多 644 亿美元 （IT之家注：现汇率约合 4,306.16 亿元人民币） ，并准备启动上市推介。 招股说明书草案显示，Anthropic 还计划通过另一笔私募配售交易，向谷歌、英伟达和 AMD 等基石投资者 融资 260 亿美元 （现汇率约合 1,738.51 亿元人民币） 。计入博通、美光、微软和台积电等其他基石投资者的出资后，Anthropic 此次股票发行的 募资规模最高可达 904 亿美元 （现汇率约合 6,044.67 亿元人民币） 。 "
+  },
+  {
+   "title": "原生支持 3D 高斯泼溅，免费开源 3D 创作软件 Blender 5.3 发布",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/126.htm",
+   "published": "2026-11-10T11:38:34+00:00",
+   "age_hours": 1.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 10 日消息，免费开源 3D 创作软件 Blender 5.3 现已正式发布。新版本加入了原生 3D 高斯泼溅（Gaussian Splatting）支持，Linux 平台默认图形后端切换为 Vulkan，同时带来了全新的项目管理功能，以及渲染和视频剪辑工具方面的多项改进。 对于 Linux 用户来说，此次更新最显著的变化是 Vulkan 现已取代 OpenGL，成为默认图形后端。Windows 版本也进行了相同调整，但 ARM 设备除外。此外，新版本将 Vulkan 的最低版本要求降低至 1.1，并将部分 GPU 和驱动程序功能调整为可选项，以提升对不同硬件的兼容性。 B"
+  },
+  {
+   "title": "号称行业首个具身全模态端到端交互大模型，智元发布 WITA-Omni",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/122.htm",
+   "published": "2026-11-10T11:24:05+00:00",
+   "age_hours": 1.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 10 日消息，“智元 AGIBOT”公众号今天（10 日）晚间发文宣布，智元正式发布 WITA-Omni（硅光动语全模态大模型）。 根据官方介绍，该模型也是 行业首个具身全模态端到端交互大模型 。WITA-Omni 基于机器人本体感知数据深度训练，除了音视频输入输出，还新增支持 触觉、本体状态等输入 ，以及 机器人动作、表情等输出 ，让机器人第一次拥有为物理世界而生的“交互大脑”。 基于流式全双工架构，WITA-Omni 可做到 边听、边想、边应、边动、边做表情 ，减少传统串行处理中的等待。交互响应最快约 400 毫秒、平均约 600 毫秒，较业内平均水平快近 3 倍。 同"
+  },
+  {
+   "title": "华为：鸿蒙电脑应用数量已突破 2.1 万款，通用办公基本盘稳固、多款专业软件已完成适配",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/121.htm",
+   "published": "2026-11-10T11:22:07+00:00",
+   "age_hours": 1.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 10 日消息，华为宣布旗下鸿蒙电脑应用数量已正式突破 2.1 万款，通用办公基本盘稳固，AI 赛道快速崛起，多款专业电脑应用也逐步向鸿蒙平台延伸，形成兼顾便携与专业的移动办公体验。 华为表示，目前 WPS Office、钉钉、飞书、企业微信等头部应用已全面适配鸿蒙系统，WorkBuddy、豆包、豆包办公、千问等应用陆续上架，千问办公三端一致首发上架鸿蒙电脑，可为鸿蒙电脑带来全场景 AI 体验。 同时，中望 CAD、中望 3D、MWORKS、悟空图像等专业软件已完成适配鸿蒙系统，填补工程设计、科学仿真等国产电脑生态空白，迎来自主工业软件窗口期。 在开源共建层面，华为联合生态伙"
+  },
+  {
+   "title": "东风本田 CR-V 全能荣耀款新车上市：华为云技术赋能云车机应用，现时售价 13.79 万元起",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/076.htm",
+   "published": "2026-11-10T10:54:13+00:00",
+   "age_hours": 2.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 10 日消息，东风本田 CR-V 全能荣耀款新车今晚正式上市， 现时售价 13.79 万元起 ，2,000 元可选价值 5,000 元智享选装包（13 寸 AI 智能屏 + 配套车机、360° 全景影像）。 燃油版 活力版：13.79 万元起 风尚版：15.89 万元起 风尚 7 座版：16.59 万元起 风尚四驱版：17.19 万元起 活力版 + 智享选装包：13.99 万元 混动版 电混活力版：15.69 万元起 电混风尚版：16.69 万元起 电混尊享版：17.69 万元起 电混尊享四驱版：18.69 万元起 电混风尚版 + 智享选装包：16.89 万元 据介绍，新车"
+  },
+  {
+   "title": "禾赛科技 2026 财年第三季度归母净利润 8079 万元，同比增长 13.7%",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/024/957.htm",
+   "published": "2026-11-10T09:33:49+00:00",
+   "age_hours": 3.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 10 日消息，禾赛科技今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：10.7 亿元，同比增长 34.3% 毛利润 ：4.39 亿元 毛利率 ：41% 归母净利润 ：8079 万元，同比增长 13.7% 激光雷达交付量 ：729673 台，同比增长 65.3% 机器人动力模组交付量 ：23405 套，环比增长 96.8% AI 解读 本次禾赛科技 2026 年第三财季营收略高于市场一致预期，业绩表现超出机构预期。 公司与核心业绩概览 禾赛科技是全球领先的激光雷达厂商，面向自动"
+  },
+  {
+   "title": "软银、Grab 签署合作协议，携手砂拉越石油开发马来西亚 AI 基础设施",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/024/938.htm",
+   "published": "2026-11-10T09:26:41+00:00",
+   "age_hours": 3.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 10 日消息，SoftBank（软银）当地时间昨日与东南亚出行平台 Grab 签署合作协议，两方将与砂拉越石油 (PETROS) 合作， 在马来西亚的砂拉越州和马来西亚半岛开发人工智能基础设施 。 双方计划在种子轮中分别向这两个项目分别投资 10 亿美元和 7.5 亿美元，砂拉越石油则将出资 1 亿美元。各方将寻求其它投资者和超大规模数据中心客户，以支持这一总设计规模超 5GW 的多年期项目的开发和扩张。 Grab 联合创始人兼首席执行官陈炳耀 (Anthony Tan) 预计将负责这两个项目的开发，并任命专门的管理团队负责日常运营。此外， 软银原则上同意对其持有的 Gra"
+  },
+  {
+   "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/508996.html",
+   "published": "2026-11-10T07:57:45+00:00",
+   "age_hours": 5.1,
+   "score": 6.5,
+   "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch"
+  },
+  {
+   "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/508998.html",
+   "published": "2026-11-10T07:56:29+00:00",
+   "age_hours": 5.1,
+   "score": 6.5,
+   "summary": "让每一次任务，都成为下一次进步的起点"
+  },
+  {
+   "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/508985.html",
+   "published": "2026-11-10T07:33:19+00:00",
+   "age_hours": 5.5,
+   "score": 6.5,
+   "summary": "加速东部城市型智算中心向E-AIDC演进"
+  },
+  {
+   "title": "Token卷到触觉了！机器人终于有了通用手感",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/508919.html",
+   "published": "2026-11-10T07:26:53+00:00",
+   "age_hours": 5.6,
+   "score": 6.5,
+   "summary": "蚂蚁灵波开源LingBot-Touch"
+  },
+  {
+   "title": "Anthropic reportedly plans to move forward with IPO plans",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+   "published": "2026-11-10T01:27:12+00:00",
+   "age_hours": 11.6,
+   "score": 6.5,
+   "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported."
+  },
+  {
+   "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+   "published": "2026-11-09T20:09:06+00:00",
+   "age_hours": 16.9,
+   "score": 6.5,
+   "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier."
+  },
+  {
+   "title": "The backlash about data centers might really just be about electricity",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+   "published": "2026-11-09T19:35:33+00:00",
+   "age_hours": 17.4,
+   "score": 6.5,
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It"
+  },
+  {
+   "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+   "published": "2026-11-09T19:24:51+00:00",
+   "age_hours": 17.6,
+   "score": 6.5,
+   "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users."
+  },
+  {
+   "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+   "published": "2026-11-09T19:21:46+00:00",
+   "age_hours": 17.7,
+   "score": 6.5,
+   "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation."
+  },
+  {
+   "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+   "published": "2026-11-09T18:09:52+00:00",
+   "age_hours": 18.9,
+   "score": 6.5,
+   "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market."
+  },
+  {
+   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "published": "2026-11-09T18:00:00+00:00",
+   "age_hours": 19.0,
+   "score": 6.5,
+   "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna."
+  },
+  {
+   "title": "Uber launches parking service following SpotHero acquisition, with an eye on robotaxis",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/",
+   "published": "2026-11-09T17:00:00+00:00",
+   "age_hours": 20.0,
+   "score": 6.5,
+   "summary": "Uber Parking is the latest example of the company offering products beyond its core ride-hailing service."
+  }
+ ]
+}

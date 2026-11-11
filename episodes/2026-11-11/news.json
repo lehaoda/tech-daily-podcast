@@ -1,0 +1,233 @@
+{
+ "date": "2026-11-11",
+ "window_hours": 24,
+ "fetched_at": "2026-11-11T13:01:05.743280+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "published": "2026-11-11T08:00:00+00:00",
+   "age_hours": 5.0,
+   "score": 8.0,
+   "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+  },
+  {
+   "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/509085.html",
+   "published": "2026-11-11T06:18:09+00:00",
+   "age_hours": 6.7,
+   "score": 7.0,
+   "summary": "大模型厂商智谱、MiniMax、千问办公、阿里云、Qoder都在天猫打5折。"
+  },
+  {
+   "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+   "source": "Hugging Face Blog",
+   "link": "https://huggingface.co/blog/qvac/botpsy",
+   "published": "2026-11-11T05:01:16+00:00",
+   "age_hours": 8.0,
+   "score": 7.0,
+   "summary": ""
+  },
+  {
+   "title": "I asked every TV manufacturer 17 questions about how they spy on you",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
+   "published": "2026-11-11T13:00:00+00:00",
+   "age_hours": 0.0,
+   "score": 6.5,
+   "summary": "Every TV company is spying on you, not just LG. Like other tech companies, they collect lots of information, and while some is necessary for products to work, not all of it is - and could include details you'd prefer to keep private. Many customers are concerned about how TVs and streaming devices m"
+  },
+  {
+   "title": "Serve Robotics wants to democratize sidewalk delivery robots",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/transportation/1030902/serve-robotics-open-developer-api-sidewalk-delivery",
+   "published": "2026-11-11T12:30:00+00:00",
+   "age_hours": 0.5,
+   "score": 6.5,
+   "summary": "Serve Robotics is opening up its platform to make its autonomous last-mile delivery robots available to anyone who wants to use them. The company is launching a new AV Delivery Developer Portal, enabling third-party software engineers, independent businesses, and even autonomous AI agents to access "
+  },
+  {
+   "title": "统信桌面操作系统 V25（2500u2）发布：新增防卡死保护，AI 助手变身“小 U 同学”",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/762.htm",
+   "published": "2026-11-11T11:40:27+00:00",
+   "age_hours": 1.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，统信桌面操作系统 V25（2500u2）正式发布。本次版本为质量提升更新，围绕系统稳定与性能、智能体验、国产生态适配三大方向升级，全面覆盖 AMD64、ARM64、LoongArch、SW64 架构。 核心亮点方面，系统新增 防卡死保护机制 ，在严重卡顿状态下仍可唤醒任务栏、启动器与系统监视器，强制关闭导致卡顿的应用；原 UOS AI 升级为 “小 U 同学” ，支持全盘知识库检索、多智能体自动调度与任务排队管理；同时集成全新 电脑管家 ，提供检测、清理、修复一站式系统维护能力。 小 U 同学（原 UOS AI） 支持自然语言创建提醒、定时与周期任务，自动执行"
+  },
+  {
+   "title": "Anthropic Claude 仅用 3 天完成 AI 模型适配 AMD GPU，英伟达 CUDA 护城河遇挑战",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/736.htm",
+   "published": "2026-11-11T11:26:23+00:00",
+   "age_hours": 1.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，英伟达 CUDA 生态系统的领先优势，可能正在受到越来越大的挑战。Anthropic IPO 路演材料中的一张幻灯片显示，随着高性能 AI 模型逐渐具备自主适配不同计算平台的能力，GPU 正在变得越来越像可以相互替换的通用算力资源。 IT之家注意到，Anthropic 的 IPO 路演材料披露了一项颇为引人关注的信息：其 Claude Mythos Preview 模型仅用了大约 3 天时间，就摸索出如何让另一个模型在 AMD MI355X GPU 上运行。相比之下，传统情况下，为一个新的计算平台完成推理任务所需的适配工作，通常需要 6 至 12 个月。 这意"
+  },
+  {
+   "title": "欧盟拟出台《数字公平法案》：用户有权关闭易造成“网瘾”的功能",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/735.htm",
+   "published": "2026-11-11T11:21:26+00:00",
+   "age_hours": 1.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，据彭博社今天（11 日）晚间报道，欧盟推出一项新计划，拟加强监管通过诱导和操纵用户行为，让人们在网上花费更多时间和金钱的做法。 欧盟委员会公布了《数字公平法案》提案，计划进一步加强消费者保护。按照提案， 用户将有权关闭容易让人沉迷或过度使用网络服务的功能 ，违规企业则可能被罚款。 欧盟多年来一直围绕反垄断、隐私保护等问题加强科技监管，此次将重点转向网络平台吸引数十亿用户、促使他们持续使用服务的各种手段。 新规定预计对 YouTube、Instagram、TikTok 等大型社交平台产生重大影响 ，电商平台和 AI 聊天机器人也可能受到限制。 《数字公平法案》还"
+  },
+  {
+   "title": "不能再随便用：高盛、思科等企业开始对员工 AI 使用设限",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/734.htm",
+   "published": "2026-11-11T11:18:18+00:00",
+   "age_hours": 1.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，据《商业内幕》报道，在过去几年不断鼓励员工拥抱 AI 技术之后，包括高盛、思科和摩根大通在内的企业，正开始采取更有针对性的 AI 部署策略。从设定使用预算、追踪调用量，到限制特定员工或工具的访问权限，这些不同的管理措施背后，是企业在不断加大 AI 投入的同时，也希望降低相关安全风险。 麦肯锡公司（McKinsey & Company）技术、媒体和电信业务高级合伙人拉里 · 哈马莱宁（Lari Hämäläinen）表示，越来越多的企业意识到，员工使用 AI 的频率正在“大幅上升”，因此有必要为其设定明确的使用规范和限制。 高盛董事长兼首席执行官戴维 · 所罗门"
+  },
+  {
+   "title": "奇瑞瑞虎 9 猎鹰 700 版上市，限时焕新价 17.29 万元起",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/733.htm",
+   "published": "2026-11-11T11:14:14+00:00",
+   "age_hours": 1.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，奇瑞瑞虎 9 猎鹰 700 版今日正式上市，官方指导价 18.99 万元，限时红包价 18.29 万元，叠加置换补贴等 限时焕新价 17.29 万元 。 车身尺寸方面，新车长宽高分别为 4853/1930/1718mm，轴距为 2820mm；IT之家获悉， 新车搭载猎鹰 700 辅助驾驶系统 ，配备激光雷达，拥有 560TOPS 车端算力，支持高速 NOA、城市 NOA、无导航 AI 漫游及全场景泊车。 动力和续航方面，瑞虎 9 猎鹰 700 版搭载新一代超混 DHT 变速箱，搭载 CDC 磁悬浮底盘，电机最大功率 260kW、最大扭矩 330N·m；配备犀牛"
+  },
+  {
+   "title": "彭博测算：AI 贡献英国今年约四分之一经济增长",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/729.htm",
+   "published": "2026-11-11T10:51:55+00:00",
+   "age_hours": 2.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，据彭博经济研究（Bloomberg Economics）经济学家测算，人工智能今年推动了英国约四分之一的经济增长。这也意味着，如果全球 AI 相关资产估值出现大幅回调，英国经济可能面临一定风险。 从数据中心建设到 AI 模型研发，与人工智能相关的经济活动在 2026 年为英国经济增长贡献了 0.45 个百分点。彭博经济研究周三发布的报告显示，今年英国经济整体增幅约为 1.8%，这意味着 AI 相关产业贡献了其中约四分之一。 经济学家安娜 · 安德拉德（Ana Andrade）表示：“这项技术正在为英国经济注入增长动力。” 报告指出，英国受到近期 AI 相关股票"
+  },
+  {
+   "title": "消息称字节跳动发力智能体赛道，计划推出类似 Meta Muse 的 AI 助手",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/726.htm",
+   "published": "2026-11-11T10:45:49+00:00",
+   "age_hours": 2.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，据彭博社报道，字节跳动计划在未来几周内推出一款类似 Meta Muse 的 AI 助手，巩固其在 AI 视频生成领域的领先优势。字节跳动希望借此加快追赶美国顶尖 AI 实验室的步伐，目标是在未来三年左右缩小双方差距。 知情人士透露，字节跳动联合创始人张一鸣近日在一次面向 AI 团队的全员会议上，向研究人员、工程师及相关支持人员介绍了这一计划，并明确了接下来的重点工作。 张一鸣认为，字节跳动有能力在 AI 前沿领域与 Anthropic、OpenAI 等行业领先企业展开竞争。不过，他也提醒团队，真正达到这些公司的水平，至少还需要等到 2029 年或 2030 年"
+  },
+  {
+   "title": "奇瑞捷途环游者 EV 将于 11 月 16 日开启预售，全系 67.2kWh 犀牛电池",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/721.htm",
+   "published": "2026-11-11T10:35:13+00:00",
+   "age_hours": 2.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，据汽车之家消息，捷途环游者 EV 将于 11 月 16 日开启预售。 新车长宽高分别为 4605/1880/1700mm（含小书包），轴距 2735mm，属于紧凑型 SUV。据IT之家此前报道，8 月 24 日， 奇瑞捷途环游者 SUV 开启盲订 。 内饰方面，新车配备带滚轮的两辐式方向盘与悬浮中控屏，中央岛台保留实体按键。车机搭载 Tour OS 3.5 系统，集成讯飞语音与豆包大模型 HMI 交互方案，硬件搭载高通骁龙 8775 舱驾一体芯片。 新车配备猎鹰 500 辅助驾驶系统 ，支持高速辅助驾驶功能。 动力方面，新车提供两驱、四驱两种版本。两驱版电机最"
+  },
+  {
+   "title": "荣耀 Magic9、WIN2 系列手机获 MagicOS 11 新版本推送：新增双卡信号图标堆叠，跨品牌一碰传",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/702.htm",
+   "published": "2026-11-11T10:21:20+00:00",
+   "age_hours": 2.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，荣耀产品维护与升级 @荣耀小芳哥 今日宣布， 荣耀 Magic9 Pro Max 、Magic9、Magic9 超能版、WIN2、WIN RT2、WIN Turbo2 新版本已经推送。 IT之家附主要更新点如下： 双卡信号图标堆叠 跨品牌一碰传，支持与 OPPO、vivo、小米一碰传图和视频 Magic9 系列新增 AI 自动构图 WIN2 系列支持调音大师"
+  },
+  {
+   "title": "联发科“认领”今日宜休 iFlow 智能温控系统芯片平台：全系搭载 Genio 420",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/689.htm",
+   "published": "2026-11-11T10:15:29+00:00",
+   "age_hours": 2.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，今天（11 日）晚间，@联发科技官方微博 发文宣布，MediaTek 赋能 ISHO 今日宜休发布 AI 睡眠科技生态产品 ——ISHO iFlow 智能温控系统和 Pro 版本，两款产品 均采用 MediaTek Genio 420 平台 ，并搭载芯发科技（ZelusTek）自主开发的 Genio 420 系统级模组，以端侧 AI 算力助力打造更智能的睡眠体验。 今年 3 月，联发科发布了 Genio 420。其采用 6nm 制程，提供 7.2 TOPS 系统 AI 算力，整合 16GB LPDDR5X。其与现有 Genio 720、Genio 520 脚位"
+  },
+  {
+   "title": "泰国官员就政客收到间谍软件警告一事与苹果举行会谈",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/686.htm",
+   "published": "2026-11-11T10:14:51+00:00",
+   "age_hours": 2.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，据彭博社报道，泰国政府已与苹果公司的代表举行会议，讨论多名政界人士及其他人员收到的间谍软件攻击警告。这是苹果面向全球 99 个国家用户发出的一轮安全通知。 苹果表示，公司于 10 月 29 日发出了相关通知，此前检测到与雇佣型间谍软件攻击特征相符的活动。IT之家注意到，泰国已有多名政界人士表示收到了这类警告，引发外界对攻击者身份及其攻击动机的关注。 据《曼谷商业报》（Krungthep Turakij）等媒体报道，泰国数字经济与社会部长猜查诺克 · 奇乔布（Chaichanok Chidchob）当地时间周三在与苹果代表会面后表示，收到安全警告并不意味着设备一"
+  },
+  {
+   "title": "漫步者花再推出 Sona Clip 耳夹耳机：支持杜比音效、44 小时综合续航，468 元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/663.htm",
+   "published": "2026-11-11T10:01:08+00:00",
+   "age_hours": 3.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，漫步者旗下花再推出 Sona Clip 耳夹耳机， 到手价 468 元 ，将于 11 月 20 日 20:00 开售。 这款耳机提供清雾白、柔光金、夜雾黑、黑莓粉四款配色，采用新一代 C 桥支撑结构，内置 0.5mm 超细镍钛记忆钢丝，配备双耳四麦通话降噪阵列；蓝牙升级至 6.1，支持双设备无缝连接、智能入耳检测；耳机支持 IP56 防尘防水。 这款耳机单次续航约 11 小时，搭配充电仓综合续航约 44 小时；获得 Hi-Res Wireless + HWA 双金标认证，支持 LDAC 高解析音频解码，支持全新杜比音效；支持 SwiftAgileTouch 迅"
+  },
+  {
+   "title": "神龙科技与字节火山引擎全面战略合作，全新新能源车型将搭载最新一代 AI 座舱解决方案",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/618.htm",
+   "published": "2026-11-11T09:28:29+00:00",
+   "age_hours": 3.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，神龙科技与火山引擎全面战略合作签约仪式今日在北京举行。双方将围绕企业 AI 转型、产品技术共创、用户全周期服务三大维度开展合作。 神龙科技表示， 将在全新新能源车型上搭载火山引擎最新一代 AI 座舱解决方案 ，并成为合资品牌首家与火山引擎全链路深度共创的车企。 神龙科技总经理吕海涛表示：“神龙科技接下来的全新新能源车型，会装上火山引擎最新一代的 AI 座舱系统。经典的 i-Cockpit 将进化为 Ai-Cockpit，我们要给用户的是‘让技术悄悄退到幕后，让体验走到台前’。座舱之外，产品研发、用户体验，到市场营销、企业管理， 甚至海外业务都会引入火山引擎的 "
+  },
+  {
+   "title": "AI 十年内攻克癌症？Anthropic CEO 阿莫迪预测引医学界质疑",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/617.htm",
+   "published": "2026-11-11T09:24:53+00:00",
+   "age_hours": 3.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，“癌症、阿尔茨海默病、心脏病和精神疾病，我认为这些疾病将在不到十年的时间里成为历史。”Claude 开发商 Anthropic 首席执行官达里奥 · 阿莫迪（Dario Amodei）近日作出了这一大胆预测。 这些并非罕见疾病，它们影响着数百万个家庭，其中一些至今仍是医学界最难攻克的挑战。 阿莫迪表示：“我认为，如果我们能正确利用这项技术，就有望开启一个奇迹时代，让人类解决那些数千年来始终无法攻克的难题。” 在他看来，人工智能有望大幅加速生物学研究、药物研发以及医学突破的进程。 IT之家注意到，持有类似观点的并不只有阿莫迪。其他人工智能领域的领军人物，包括埃隆"
+  },
+  {
+   "title": "微软 Project Zenith 正式上线，为 AMD 锐龙 AI Halo 带来开箱即用编程体验",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/613.htm",
+   "published": "2026-11-11T09:17:46+00:00",
+   "age_hours": 3.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，AMD 当地时间 9 日宣布，Microsoft（微软）Project Zenith 率先登陆基于锐龙 AI Max+ PRO 495 处理器的新一代锐龙 AI Halo 开发者平台，其它锐龙 AI Max 设备也即将支持。 Project Zenith 将强大的开发者级硬件与预配置的 Windows 环境相结合， 旨在帮助开发者更快地进入实际工作 。其预装了涵盖各种语言和运行时环境的常用开发工具、源代码控制工具以及生产力工具，还配置了旨在创建优化开发环境的 Windows 设置。 而在 Project Zenith 的基础上，AMD 还为锐龙 AI Halo"
+  },
+  {
+   "title": "IDC：上半年中国液冷服务器收入同比增长 153.1%，开始按“柜”交付",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/025/599.htm",
+   "published": "2026-11-11T09:09:19+00:00",
+   "age_hours": 3.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 11 日消息，IDC 今日发布报告称，过去两年，中国液冷服务器市场快速增长。IDC 中国液冷服务器追踪显示， 2026 年上半年中国液冷服务器市场厂商收入同比增长 153.1%，未来五年出货量年均复合增长率预计接近 49% 。 但比增速更值得注意的，是采购端正在发生的变化：越来越多高密度算力项目不再以“台”为单位选型，而是把计算节点、节点间互联、供电和柜内液冷配套作为一整套系统配置和交付。 机柜，正在从机房里的物理容器，变成算力采购的交付单元。 当整柜成为交付单元，服务器厂商交付的是一套已集成的系统，数据中心承接的也不再是若干台设备，而是一组对供电、冷却和接口条件有明确要求"
+  },
+  {
+   "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "published": "2026-11-10T21:08:52+00:00",
+   "age_hours": 15.9,
+   "score": 6.5,
+   "summary": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry."
+  },
+  {
+   "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+   "published": "2026-11-10T20:52:13+00:00",
+   "age_hours": 16.1,
+   "score": 6.5,
+   "summary": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines."
+  },
+  {
+   "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+   "published": "2026-11-10T20:47:05+00:00",
+   "age_hours": 16.2,
+   "score": 6.5,
+   "summary": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma."
+  },
+  {
+   "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+   "published": "2026-11-10T19:57:52+00:00",
+   "age_hours": 17.1,
+   "score": 6.5,
+   "summary": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company."
+  }
+ ]
+}

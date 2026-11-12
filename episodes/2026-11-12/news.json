@@ -1,0 +1,233 @@
+{
+ "date": "2026-11-12",
+ "window_hours": 24,
+ "fetched_at": "2026-11-12T13:01:07.679849+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/509381.html",
+   "published": "2026-11-12T10:11:29+00:00",
+   "age_hours": 2.8,
+   "score": 7.5,
+   "summary": "全世界都在踩刹车，达里奥一个人踩油门"
+  },
+  {
+   "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/509355.html",
+   "published": "2026-11-12T10:08:24+00:00",
+   "age_hours": 2.9,
+   "score": 7.5,
+   "summary": "Grok在让人破绷这件事上，从来不会让人失望。"
+  },
+  {
+   "title": "Supporting research on AI and children’s safety",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/index/children-first-declaration",
+   "published": "2026-11-12T00:00:00+00:00",
+   "age_hours": 13.0,
+   "score": 7.5,
+   "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+  },
+  {
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "published": "2026-11-12T00:00:00+00:00",
+   "age_hours": 13.0,
+   "score": 7.5,
+   "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin."
+  },
+  {
+   "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/509281.html",
+   "published": "2026-11-12T01:45:04+00:00",
+   "age_hours": 11.3,
+   "score": 7.0,
+   "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布"
+  },
+  {
+   "title": "预售先享价 15.77 万元起，吉利星越 L PLUS 开启预售",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/382.htm",
+   "published": "2026-11-12T12:45:42+00:00",
+   "age_hours": 0.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 12 日消息，吉利汽车旗下全新中型 SUV 星越 L PLUS 正式启动预售。新车共推出五款配置车型，预售先享价区间为 15.77 万元至 19.97 万元。该车在现款星越 L 的基础上进一步放大了车身尺寸，并支持选装 EVA 实体机器人；预售发布会现场，官方还同步推出了定位顶配的“大师典藏版”车型。 据IT之家了解，星越 L PLUS 的车身长度达到 4955mm，轴距增至 2900mm，整体规格相比现款星越 L 有明显提升。外观方面，新车采用吉利最新的家族化设计语言：前脸为大尺寸盾形格栅，内部以直瀑式镀铬饰条填充，中央镶嵌品牌标识，两侧搭配造型狭长的大灯组；隆起的机舱盖"
+  },
+  {
+   "title": "出轨丑闻爆发前黄仁勋曾谈及接班安排：希望下一任 CEO 来自英伟达内部",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/381.htm",
+   "published": "2026-11-12T12:39:57+00:00",
+   "age_hours": 0.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 12 日消息，英伟达 CEO 黄仁勋在婚外情风波震动公司前数周， 曾谈到自己的接班问题 。在 10 月 14 日录制、今天发布的彭博社《The Circuit》节目采访中，黄仁勋谈及自己的继任安排：“ 就像我可能被解雇一样，下一任 CEO 也得由公司聘请 。” 执掌英伟达 33 年的黄仁勋有一双儿女，且都在英伟达从事工作。女儿黄敏珊担任具身智能产品营销高级总监，儿子黄胜斌则担任机器人产品总监。 在被问及女儿是否会接自己的班时，黄仁勋回答：“首先，我并不希望她接手这份工作。因为如果黄胜斌或黄敏珊有这样的志向， 就必须靠自己去争取 。” 综合IT之家近期的报道，这段采访内容公开"
+  },
+  {
+   "title": "西门子 CEO 博乐仁：无论黄仁勋是否离职，与英伟达的合作都不会受影响",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/374.htm",
+   "published": "2026-11-12T12:10:00+00:00",
+   "age_hours": 0.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 12 日消息，据路透社报道，西门子 CEO 博乐仁（Roland Busch）表示，无论英伟达最终如何决定其创始人兼 CEO 黄仁勋（Jensen Huang）的去留，西门子都将继续与这家 AI 芯片巨头保持合作。 此前，有报道称黄仁勋涉及两起婚外情。面对相关风波，英伟达董事会正在考虑是否解除黄仁勋的 CEO 职务。 IT之家注意到，博乐仁在西门子公布第四季度业绩后接受记者采访时表示：“我们讨论的是一家规模相当大的企业，拥有一支庞大的团队。因此，我们正在推进的项目不会因为英伟达内部发生什么变化而停止。” 博乐仁强调，西门子与全球领先的 AI 芯片供应商英伟达之间的合作，包括"
+  },
+  {
+   "title": "上下水版 2999 → 718 元：科沃斯全能基站扫拖机器人“地宝 mini2”破冰新低",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/367.htm",
+   "published": "2026-11-12T11:58:23+00:00",
+   "age_hours": 1.0,
+   "score": 6.5,
+   "summary": "科沃斯 2025 年 4 月发布了 科沃斯地宝 mini 2 ，水箱版定价 2199 元，上下水版定价 2999 元。 今日上下水版按下方步骤下单， 仅需 718 元破冰新低 。 先领 9 折券： 点此领券 点击下方卡片加购物车 1 件 进入 “京东购物”微信小程序 购物车 → 点击此商品 → 进入宝贝页面 下单 → 下单页面选择“以旧换新”实付 818 元 返 100 元后，仅需 718 元： 京东 科沃斯 mini 2 扫地机器人 上下水版 加购物车 1 件 直达链接 地宝 mini 机身尺寸 28.6cm ，拥有五种配色可以选择，能钻到更多的死角进行清洁，号称可清洁覆盖面积较一般的扫地机"
+  },
+  {
+   "title": "消息称 2027 年安卓旗舰手机在重新评估双层 OLED 屏幕",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/364.htm",
+   "published": "2026-11-12T11:51:43+00:00",
+   "age_hours": 1.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 12 日消息，博主 @数码闲聊站 今日爆料， 2027 年安卓旗舰在重新评估双层 OLED 屏幕 。 有网友表示“目前只有京东方和维信诺能做吧”，博主在评论区进一步补充称“华星和天马也有了”。 IT之家注：荣耀 Magic6 RSR 保时捷设计是全球首款在手机端量产商用双层 OLED 的机型（此外还有荣耀 Magic6 至臻版），这块屏幕与京东方联合研发，命名为“叠光绿洲护眼屏”，HDR 峰值亮度可达 5000nits，屏幕寿命提升至 600%。 而到了下一代的荣耀 Magic7 RSR，荣耀取消了双层 OLED 方案，采用单层 绿洲护眼屏 。 此外，本月发布的 摩托罗拉 "
+  },
+  {
+   "title": "Epic CEO 斯威尼力挺黄仁勋：英伟达若罢免他，堪比当年苹果解雇乔布斯",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/363.htm",
+   "published": "2026-11-12T11:48:31+00:00",
+   "age_hours": 1.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 12 日消息，继不久前承认有过一段婚外情后，英伟达 CEO 黄仁勋又传出另一起婚外情的疑云，英伟达董事会因此考虑将他解职。 消息一出，科技界多位重量级人物在 X 上纷纷发声。这其中，Epic Games CEO 蒂姆 · 斯威尼的态度尤为鲜明。 斯威尼在推文中呼吁“救救黄仁勋”。“如果英伟达董事会真的这么做，那就跟当年 苹果解雇史蒂夫 · 乔布斯 一样愚蠢，还会严重损害美国的利益。从游戏 GPU 时代到 CUDA，再到 AI 超级计算机，老黄始终是一位 富有远见、引领科技未来发展 的人物。” 同一天，有 X 用户向埃隆 · 马斯克提议聘用黄仁勋。马斯克回应：“那将是我的荣幸"
+  },
+  {
+   "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/509440.html",
+   "published": "2026-11-12T11:36:20+00:00",
+   "age_hours": 1.4,
+   "score": 6.5,
+   "summary": "「CAD拆解」"
+  },
+  {
+   "title": "AWS 首席 AI 和技术官马特 · 伍德：优秀的工程师要爱上问题，而非现成解法",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/359.htm",
+   "published": "2026-11-12T11:31:53+00:00",
+   "age_hours": 1.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 12 日消息，据《商业内幕》今天（12 日）晚间报道，亚马逊云科技（AWS）首席 AI 与技术官马特 · 伍德认为，真正优秀的工程师应该更关注要解决的问题，而不是执着于某一种解决办法。“我们希望工程师 不要太迷恋自己提出的具体方案，而是把更多热情放在问题本身 。” 在他看来，优秀工程师不会只用 AI 写代码， 还会利用 AI 深入分析问题，并尝试不同的解决思路 。 过去，软件开发成本较高，团队集中资源实施一种解决方案往往更划算。借助 AI， 开发者不仅能把问题研究得更透彻，还能同时尝试多种解决办法 。 亚马逊也在重新调整对软件工程师的要求。上个月，公司发布备忘录公布新版岗位"
+  },
+  {
+   "title": "《艾尔登法环》战鬼 1/6 雕像开启预订：售价 469.99 美元，明年春季发售",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/358.htm",
+   "published": "2026-11-12T11:23:35+00:00",
+   "age_hours": 1.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 12 日消息，FromSoftware 旗下人气动作 RPG《艾尔登法环》（Elden Ring）将在 2027 年迎来一款新的重磅周边，为这款自 2022 年发售以来大获成功的游戏粉丝带来新的收藏选择。此周边是游戏中最具辨识度的经典装备之一 —— 战鬼铠甲（Raging Wolf Armor）。 《艾尔登法环》为玩家提供了丰富的角色自定义选项，冒险过程中可以收集和装备数十套不同的盔甲。不过，很少有装备能像战鬼铠甲一样令人印象深刻。这套盔甲曾多次出现在游戏最初的宣传材料中，其独特的头盔、磨损的金属护甲以及红色装饰，已经成为褪色者形象的重要标志。 如今，这套经典造型将以全新的"
+  },
+  {
+   "title": "Ring confirms its camera drone won’t have manual controls after crashing on CBS News",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls",
+   "published": "2026-11-12T11:12:32+00:00",
+   "age_hours": 1.8,
+   "score": 6.5,
+   "summary": "When (or if) Ring's security camera drone flies into our homes in January, you won't get the option to pilot it yourself. The Ring Drone Cam relies entirely on an \"AI Pilot\" system to follow pre-programmed routes and navigate autonomously around obstacles, with no manual control option available - a"
+  },
+  {
+   "title": "OpenAI CEO 奥尔特曼现身超跑聚会，身旁停着数百万美元柯尼塞格",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/355.htm",
+   "published": "2026-11-12T11:08:23+00:00",
+   "age_hours": 1.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 12 日消息，萨姆 · 奥尔特曼（Sam Altman）不仅是硅谷科技圈的风云人物，也是一位不折不扣的汽车发烧友。 上周日，一名 TikTok 用户发布了一段视频，展示了一场颇为壮观的跑车聚会。视频中，大量跑车和豪华超跑停在一条蜿蜒的公路旁，车型从福特 Mustang、讴歌 NSX，到帕加尼 Utopia 和柯尼塞格 Regera。 而就在一辆银色雷克萨斯 LFA 旁边，站着一位意想不到的人物：OpenAI CEO 萨姆 · 奥尔特曼。 据视频发布者米格尔 · 戈迪内斯（Miguel Godinez）向 Business Insider 透露，这场聚会完全是偶然发生的。 当"
+  },
+  {
+   "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/509404.html",
+   "published": "2026-11-12T10:45:33+00:00",
+   "age_hours": 2.3,
+   "score": 6.5,
+   "summary": "银河智学首席科学家邓澍军博士发表主题演讲"
+  },
+  {
+   "title": "摩根大通：到 2030 年，美国人形机器人产量将达 30 万至 40 万台",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/334.htm",
+   "published": "2026-11-12T10:21:04+00:00",
+   "age_hours": 2.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 12 日消息，据路透社今天（12 日）报道，摩根大通最新预测显示，随着人形机器人从技术展示走向商业化应用，美国人形机器人产量 到 2030 年将达到 30 万至 40 万台 ，2035 年进一步增至约 150 万台。 劳动力短缺、使用成本下降和产能扩大，正推动制造、物流和仓储企业采用人形机器人，以替代重复性人工劳动。 不过，人形机器人的大规模应用仍面临 硬件、AI 训练数据、算力和产能 等方面的限制。除特斯拉外，美国大多数厂商的年产量目标 仅为 1 万至 3 万台 。 摩根大通估计，人形机器人的使用成本已逐渐接近人工成本。如果安排机器人多班次作业，每家客户每年可节省约 10"
+  },
+  {
+   "title": "Dbrand 推出首款经谷歌认证的 Fitbit Air 第三方表带 Pulse Band，采用“医疗级”硅胶材质",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/327.htm",
+   "published": "2026-11-12T10:19:12+00:00",
+   "age_hours": 2.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 12 日消息，外设品牌 Dbrand 宣布与谷歌合作，推出首款专为 Fitbit Air 手环设计的第三方表带 Pulse Band，售价为 34.95 美元 （IT之家注：现汇率约合 233.7 元人民币） 。 Pulse Band 采用简约的哑光黑色外观，内侧设有排汗导流槽，配备扁平式扣具和双重收纳卡槽。腕带采用“医疗级”硅胶材质，重量为 14.8 克，并使用模压纸浆包装。产品提供两种尺寸，配有多档调节孔位，可适配腕围 130 至 210 毫米的用户。 作为参考，目前谷歌提供多款腕带配件。其中，Performance Loop 随售价 99.99 美元 （现汇率约合 6"
+  },
+  {
+   "title": "联想拯救者公布游戏《燕云十六声》定制版 Y700 五代平板电脑",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/302.htm",
+   "published": "2026-11-12T10:10:35+00:00",
+   "age_hours": 2.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 12 日消息，联想 (Lenovo) 拯救者 (Legion) 官方刚刚确认将同游戏《燕云十六声》展开联动， 携手推出联想 AI 平板拯救者 Y700 五代燕云定制版 。 IT之家注意到，这款联名定制设备似乎拥有独特后盖，装饰以叶脉、扇面，扇面上则有文字和花卉点缀。 Y700 五代平板电脑发布于 2026 年 3 月，基于高通第 5 代骁龙 8 至尊版移动平台，配备 8.8\" 3040×1904 165Hz 屏幕，拥有 2640Hz 瞬时采样率、480Hz 多指采样率。 相关阅读： 《 联想 AI 平板拯救者 Y700 五代发布：骁龙 8 Elite Gen5 + 8.8 "
+  },
+  {
+   "title": "“行业 AI 梦工厂”首款昇腾原生世界模型，华为云 CloudRobo 具身世界模型发布会定档 11 月 16 日",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/288.htm",
+   "published": "2026-11-12T09:37:33+00:00",
+   "age_hours": 3.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 12 日消息，华为云今日宣布，华为云 CloudRobo 具身世界模型发布会将于 11 月 16 日 14:00-15:30 在线上直播。 海报显示，届时将发布“行业 AI 梦工厂”首款昇腾原生世界模型，具体名称为 CloudRobo-WM1.2 。 IT之家注：行业 AI 梦工厂是华为推出的行业 AI 平台，设计用于降低各行业应用 AI 的门槛。 2026 年 2 月 1 日，华为云发布“行业 AI 梦工厂”首个落地专区 —— 智慧医疗专区，并于 2026 年 6 月 5 日在华为云 INSPIRE 创想者大会上正式上线智慧医疗、具身智能、智能制造、科学计算四大专区。 2"
+  },
+  {
+   "title": "迪拜富豪萨基瓦尼：光是投资 OpenAI、SpaceX 和 Anthropic，我们就赚了几十亿美元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/286.htm",
+   "published": "2026-11-12T09:35:59+00:00",
+   "age_hours": 3.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 12 日消息，据彭博社今天（12 日）报道，迪拜富豪、达马克集团创始人侯赛因 · 萨基瓦尼预计，投资 Anthropic 等 AI 公司有望带来数十亿美元收益。 近年来押注科技巨头的部分投资者，正从中获得丰厚回报。萨基瓦尼在彭博迪拜投资论坛上说：“光是 OpenAI、SpaceX 和 Anthropic 这三家公司， 我们就赚了数十亿美元 。” 达马克集团以迪拜房地产业务起家，近年来逐步将投资范围扩大到科技和数据中心领域。此前消息称，Anthropic 的 IPO 获得数倍超额认购，市场对这场有望成为史上最大规模 IPO 的交易热情持续高涨。 迪拜房地产市场多年来的繁荣，也"
+  },
+  {
+   "title": "韩国公布端侧 AI 半导体路线图，计划到 2030 年完成 10 款芯片开发验证",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/284.htm",
+   "published": "2026-11-12T09:30:31+00:00",
+   "age_hours": 3.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 12 日消息，韩国产业通商资源部当地时间今日公布了该国端侧 AI 半导体技术开发项目的路线图，目标通过这一总额 8,002 亿韩元 （IT之家注：现汇率约合 39.93 亿元人民币） 的项目 到 2030 年完成 10 款 AI 芯片的开发和验证 。 这十款芯片中 3 款面向智能家电，自动驾驶、协作机器人、类人机器人、农业机器人、无人机领域各一款，还有先进制程和极端场景项目。 图源：Pexels 根据这一路线图，三星电子等晶圆代工企业将 优先向本国项目分配 MPW（多用途晶圆）等测试流片机会资源 ， IP 企业将通过灵活的方式降低韩国芯片设计者的 IP 使用成本 。此外，芯"
+  },
+  {
+   "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/509349.html",
+   "published": "2026-11-12T09:34:06+00:00",
+   "age_hours": 3.5,
+   "score": 6.5,
+   "summary": "企业 AI 的难题，不只是模型够不够强"
+  },
+  {
+   "title": "大唐推出基于海光 1400 系列处理器的 FX1400 迷你主机",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/278.htm",
+   "published": "2026-11-12T09:17:42+00:00",
+   "age_hours": 3.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 12 日消息，大唐计算机 (Maxtang) 今日宣布推出基于 海光 1400 新品处理器 的 FX1400 迷你主机。其内置 M.2 2280 PCIe 插槽， 支持 NVMe SSD 存储或 M.2 外形规格的 AI 加速卡 ；工作温度 -10~+50℃。 FX1400 三维 208×190×45 (mm)， 配备 4 核 3.0GHz 15W 处理器 ，拥有 1 个 DDR4 SO-DIMM 内存插槽、1 个 M.2 SATA SSD 盘位，可选板载 eMMC 5.0，提供 1 个 Mini PCIe 插槽。 而在外部，这一迷你主机提供 6 个 USB-A 接口、2 "
+  }
+ ]
+}

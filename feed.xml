@@ -5,7 +5,7 @@
     <description>每天 5 分钟的科技与 AI 新闻节目「乐见未来」:主播 Adam 和你聊大模型发布、芯片硬件、大厂动态、融资监管与科学突破。新闻选自 OpenAI 官方博客、量子位、IT之家、TechCrunch、The Verge 等正规媒体,每集描述附原始来源链接。每天早上 7 点更新。</description>
     <link>https://lehaoda.github.io/tech-daily-podcast</link>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 11 Nov 2026 07:06:35 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 07:12:04 -0600</lastBuildDate>
     <image>
       <url>https://lehaoda.github.io/tech-daily-podcast/cover.png</url>
       <title>乐见未来</title>
@@ -22,6 +22,16 @@
     </itunes:owner>
     <itunes:category text="Technology"/><itunes:category text="IT &amp; Software"/>
     <itunes:image href="https://lehaoda.github.io/tech-daily-podcast/cover.png"/>
+  <item>
+    <title>乐见未来 2026-11-12 · 第9期</title>
+    <description><![CDATA[<p>本期报道的原始来源:</p><ul><li>出轨丑闻爆发前黄仁勋曾谈及接班安排:希望下一任 CEO 来自英伟达内部 | IT之家 <a href="https://www.ithome.com/1/026/381.htm">出轨丑闻爆发前黄仁勋曾谈及接班安排:希望下一任 CEO 来自英伟达内部 | IT之家</a></li><li>Epic CEO 斯威尼力挺黄仁勋:英伟达若罢免他,堪比当年苹果解雇乔布斯 | IT之家 <a href="https://www.ithome.com/1/026/363.htm">Epic CEO 斯威尼力挺黄仁勋:英伟达若罢免他,堪比当年苹果解雇乔布斯 | IT之家</a></li><li>西门子 CEO 博乐仁:无论黄仁勋是否离职,与英伟达的合作都不会受影响 | IT之家 <a href="https://www.ithome.com/1/026/374.htm">西门子 CEO 博乐仁:无论黄仁勋是否离职,与英伟达的合作都不会受影响 | IT之家</a></li><li>Anthropic启动IPO路演,认购数倍超额,有望成史上最大规模 IPO | 量子位 <a href="https://www.qbitai.com/2026/11/509381.html">Anthropic启动IPO路演,认购数倍超额,有望成史上最大规模 IPO | 量子位</a></li><li>迪拜富豪萨基瓦尼:光是投资 OpenAI、SpaceX 和 Anthropic,我们就赚了几十亿美元 | IT之家 <a href="https://www.ithome.com/1/026/286.htm">迪拜富豪萨基瓦尼:光是投资 OpenAI、SpaceX 和 Anthropic,我们就赚了几十亿美元 | IT之家</a></li><li>马斯克Grok泄露自家机密!SpaceX特斯拉工资绩效全曝光 | 量子位 <a href="https://www.qbitai.com/2026/11/509355.html">马斯克Grok泄露自家机密!SpaceX特斯拉工资绩效全曝光 | 量子位</a></li><li>多模态"源神"!MiniMax开源SOTA生图模型,原生4K,一张两毛 | 量子位 <a href="https://www.qbitai.com/2026/11/509440.html">多模态"源神"!MiniMax开源SOTA生图模型,原生4K,一张两毛 | 量子位</a></li><li>摩根大通:到 2030 年,美国人形机器人产量将达 30 万至 40 万台 | IT之家 <a href="https://www.ithome.com/1/026/334.htm">摩根大通:到 2030 年,美国人形机器人产量将达 30 万至 40 万台 | IT之家</a></li><li>Ring confirms its camera drone won't have manual controls after crashing on CBS News | The Verge <a href="https://www.theverge.com/tech/1031817/ring-drone-cam-manual-flight-controls">Ring confirms its camera drone won't have manual controls af</a></li><li>OpenAI CEO 奥尔特曼现身超跑聚会,身旁停着数百万美元柯尼塞格 | IT之家 <a href="https://www.ithome.com/1/026/355.htm">OpenAI CEO 奥尔特曼现身超跑聚会,身旁停着数百万美元柯尼塞格 | IT之家</a></li></ul>]]></description>
+    <link>https://lehaoda.github.io/tech-daily-podcast/#2026-11-12</link>
+    <guid isPermaLink="true">https://lehaoda.github.io/tech-daily-podcast/#2026-11-12</guid>
+    <pubDate>Thu, 12 Nov 2026 07:12:04 -0600</pubDate>
+    <enclosure url="https://podcast.lehaoda.com/episodes/2026-11-12.m4a" type="audio/mp4" length="2331574"/>
+    <itunes:duration>268</itunes:duration>
+    <itunes:image href="https://lehaoda.github.io/tech-daily-podcast/cover.png"/>
+  </item>
   <item>
     <title>乐见未来 2026-11-11 · 第8期</title>
     <description><![CDATA[<p>本期报道的原始来源:</p><ul><li>AI 十年内攻克癌症？Anthropic CEO 阿莫迪预测引医学界质疑 | IT之家 <a href="https://www.ithome.com/1/025/617.htm">AI 十年内攻克癌症？Anthropic CEO 阿莫迪预测引医学界质疑 | IT之家</a></li><li>Anthropic Claude 仅用 3 天完成 AI 模型适配 AMD GPU，英伟达 CUDA 护城河遇挑战 | IT之家 <a href="https://www.ithome.com/1/025/736.htm">Anthropic Claude 仅用 3 天完成 AI 模型适配 AMD GPU，英伟达 CUDA 护城河遇挑战 | </a></li><li>All 7 Anthropic founders will each cash out about $250M in IPO | TechCrunch <a href="https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/">All 7 Anthropic founders will each cash out about $250M in I</a></li><li>消息称字节跳动发力智能体赛道，计划推出类似 Meta Muse 的 AI 助手 | IT之家 <a href="https://www.ithome.com/1/025/726.htm">消息称字节跳动发力智能体赛道，计划推出类似 Meta Muse 的 AI 助手 | IT之家</a></li><li>彭博测算：AI 贡献英国今年约四分之一经济增长 | IT之家 <a href="https://www.ithome.com/1/025/729.htm">彭博测算：AI 贡献英国今年约四分之一经济增长 | IT之家</a></li><li>欧盟拟出台《数字公平法案》：用户有权关闭易造成"网瘾"的功能 | IT之家 <a href="https://www.ithome.com/1/025/735.htm">欧盟拟出台《数字公平法案》：用户有权关闭易造成"网瘾"的功能 | IT之家</a></li><li>不能再随便用：高盛、思科等企业开始对员工 AI 使用设限 | IT之家 <a href="https://www.ithome.com/1/025/734.htm">不能再随便用：高盛、思科等企业开始对员工 AI 使用设限 | IT之家</a></li><li>ChatGPT Plus for veterans and servicemembers | OpenAI Blog <a href="https://openai.com/index/chatgpt-plus-for-veterans">ChatGPT Plus for veterans and servicemembers | OpenAI Blog</a></li><li>OpenAI acquires Odessia, travel startup created by Sonder founder | TechCrunch <a href="https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/">OpenAI acquires Odessia, travel startup created by Sonder fo</a></li><li>I asked every TV manufacturer 17 questions about how they spy on you | The Verge <a href="https://www.theverge.com/tech/1012372/tv-privacy-acr-questions">I asked every TV manufacturer 17 questions about how they sp</a></li><li>OpenAI, Anthropic face new oversight as New York's AI safety law takes effect | TechCrunch <a href="https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/">OpenAI, Anthropic face new oversight as New York's AI safety</a></li></ul>]]></description>

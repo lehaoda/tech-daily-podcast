@@ -21,7 +21,7 @@
 3. `pipeline/tts_episode.py` — edge-tts 逐句合成(男声 `zh-CN-YunyangNeural`),
    ffmpeg 拼接 + 句间停顿 → `episodes/<日期>/episode.mp3`。(脚本仍兼容 `F：` 行。)
 4. `pipeline/publish.py` — 音频写入 Mac Studio 硬盘
-   `/Volumes/Immich-HDD-Temp/podcast/episodes/<日期>.mp3 | .m4a`,
+   `/Volumes/DataVault/podcast/episodes/<日期>.mp3 | .m4a`,
    经 `https://podcast.lehaoda.com/episodes/` 对外(docker nginx 只读挂载
    + cloudflared 隧道,配置在 `~/docker/podcast-server/`;nginx.conf 已配
    mp3→audio/mpeg、m4a→audio/mp4);仓库不存音频。
@@ -42,7 +42,7 @@ episodes/<日期>/    news.json / script.txt / summary.md / episode.mp3
 pipeline/           流水线脚本
 data/               metadata.json(频道元数据) / seen.json(去重历史) / episodes.json
 .venv/              make_cover.py 用的 Pillow(仅封面生成一次需要)
-# 音频不在仓库: /Volumes/Immich-HDD-Temp/podcast/episodes/ (Mac Studio 硬盘)
+# 音频不在仓库: /Volumes/DataVault/podcast/episodes/ (Mac Studio 硬盘)
 ```
 
 ## 入驻播客平台

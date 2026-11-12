@@ -21,7 +21,7 @@ EPISODES_JSON = os.path.join(DATA_DIR, "episodes.json")
 
 # 音频存 Mac Studio 外挂硬盘, 由 docker/nginx 只读挂载后经 cloudflared 隧道对外:
 # docker pod: ~/docker/podcast-server (nginx.conf 配了 mp3→audio/mpeg, m4a→audio/mp4)
-PODCAST_HDD_DIR = "/Volumes/Immich-HDD-Temp/podcast/episodes"
+PODCAST_HDD_DIR = "/Volumes/DataVault/podcast/episodes"
 AUDIO_BASE = "https://podcast.lehaoda.com/episodes"
 
 

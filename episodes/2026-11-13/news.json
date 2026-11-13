@@ -1,0 +1,233 @@
+{
+ "date": "2026-11-13",
+ "window_hours": 24,
+ "fetched_at": "2026-11-13T13:00:52.363769+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/business/customer-stories/amplitude",
+   "published": "2026-11-12T20:00:00+00:00",
+   "age_hours": 17.0,
+   "score": 7.5,
+   "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+  },
+  {
+   "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+   "published": "2026-11-13T12:52:19+00:00",
+   "age_hours": 0.1,
+   "score": 7.0,
+   "summary": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure."
+  },
+  {
+   "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+   "published": "2026-11-13T10:00:00+00:00",
+   "age_hours": 3.0,
+   "score": 7.0,
+   "summary": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those devices play a vital role in that research, and they ought to be r"
+  },
+  {
+   "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+   "published": "2026-11-13T10:00:00+00:00",
+   "age_hours": 3.0,
+   "score": 7.0,
+   "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told investo"
+  },
+  {
+   "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+   "source": "Hugging Face Blog",
+   "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+   "published": "2026-11-12T19:07:35+00:00",
+   "age_hours": 17.9,
+   "score": 7.0,
+   "summary": ""
+  },
+  {
+   "title": "Microsoft’s massive Outlook outage continues",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+   "published": "2026-11-13T12:48:03+00:00",
+   "age_hours": 0.2,
+   "score": 6.5,
+   "summary": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degradated state, some people (including Verge staffers) are reporting that access to their emails h"
+  },
+  {
+   "title": "亚马逊秘密构想曝光：欲打造“世界商品图谱”，包揽全网商品数据",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/945.htm",
+   "published": "2026-11-13T12:37:16+00:00",
+   "age_hours": 0.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，据路透社报道，亚马逊有一项秘密计划，旨在让消费者从此无需离开其平台，拥有世界上的商品信息。 据该媒体审阅的一份内部文件及知情人士透露，这项名为“世界商品图谱”（World Product Graph）的计划， 试图将全球几乎所有在售商品的数据悉数收入囊中 —— 无论亚马逊是否备有这些商品的库存。 借此，亚马逊可以真正成为“万货商店”，不仅能提供海量商品的深度数据、切入谷歌在在线搜索领域的腹地，还能有效抵御竞争对手沃尔玛不断扩张的电商业务。 这一举措也是为了应对 AI 购物智能体的持续崛起。该内部文件指出，亚马逊自家的 AI 搜索智能体目前经常提供不准确的信息。"
+  },
+  {
+   "title": "马斯克转发《气垫传奇》电影片段致敬黄仁勋：有些事物是永恒的",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/944.htm",
+   "published": "2026-11-13T12:31:13+00:00",
+   "age_hours": 0.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，黄仁勋离任英伟达 CEO 后，全球首富埃隆 · 马斯克在社交媒体上发文向他致敬。 今天下午，马斯克在 X 上转发了一段两分钟的电影片段，出自 2023 年上映的《气垫传奇》。影片讲述了耐克与迈克尔 · 乔丹合作，以及 Air Jordan 品牌诞生的故事。 片段中，马特 · 达蒙饰演的耐克高管桑尼 · 瓦卡罗试图说服年轻的乔丹签下球鞋代言合同，并发表了一段仿佛预见未来的独白。“当他们把你捧到最高处，接下来就会把你拉下来。 你能不能鼓起勇气，忍受所有痛苦，继续奋战，再次站起来？ ” 这段视频最早由风险投资公司 Andreessen Horowitz 于周四晚间发"
+  },
+  {
+   "title": "谷歌开源 WeatherNext 3 气象模型所用数据集：含 SatWeave 卫星影像拼接数据集与 PARDIG 全球降水信息",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/939.htm",
+   "published": "2026-11-13T12:04:49+00:00",
+   "age_hours": 0.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，谷歌 DeepMind 今天正式开放 WeatherNext 3 气象模型所依托的两大基础数据集 SatWeave 与 PARDIG，相应数据集面向全球研究者与开发者提供实时数据流及历史归档，可用于天气、水文、气候及相关下游应用建模。 据介绍，SatWeave 是一套整合多颗静止气象卫星的全球影像拼接产品，聚合了 GOES-East、GOES-West、Meteosat 0、Meteosat 印度洋星以及 Himawari 共 5 颗卫星的观测数据，解决了不同卫星在地图投影、文件格式、传感器与扫描节奏上的差异难题。该数据集每小时更新一次，并提供跨越十年以上的历"
+  },
+  {
+   "title": "Let’s talk about Jensen Huang’s many affairs!",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+   "published": "2026-11-13T12:00:00+00:00",
+   "age_hours": 1.0,
+   "score": 6.5,
+   "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia. I can't speak for Nilay but at the rate Jensen Huang's new mistresses are dropping, I am concerned we are approaching an affair Singula"
+  },
+  {
+   "title": "R 星放出《GTA6》新实机画面，展示了多辆豪华跑车在街道上行驶",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/937.htm",
+   "published": "2026-11-13T11:55:29+00:00",
+   "age_hours": 1.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，据 IGN 报道，Rockstar 今天再次于 Instagram 平台“Only in Dade”小号中更新《GTA 6》实机视频，主要展示了多辆豪华跑车在街道上行驶的视频，其画面表现力再次体现了《GTA 6》出色的图形保真度。 昨天首段视频曝光时，许多玩家一度认为画面由 AI 生成。直到 Rockstar 官方在 Instagram 上转发了相关内容后，玩家才发现这是真正的《GTA 6》游戏实机画面。 按照官方预热节奏，预计后续我们还能看到更多《GTA 6》实机视频，目前本作已经开放预载，玩家可以提前下载游戏以便届时快速开玩。"
+  },
+  {
+   "title": "成品晶圆从下线至包装 100% 全自动化，京东推出半导体行业首个智能物流解决方案",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/936.htm",
+   "published": "2026-11-13T11:50:41+00:00",
+   "age_hours": 1.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，第二十三届中国国际半导体博览会 IC China 2026 昨日（12 日）在北京国家会议中心开幕。 京东物流参展并提出半导体行业首个智能物流解决方案，可实现半导体材料从仓储、分拣、出库、包装环节 100% 无人化 ，标志着高价值精密物料物流从单点自动化迈向系统级无人化。 官方表示，半导体正处在 AI 算力、汽车电子需求带动的扩产周期，物流效率直接影响产能释放。 行业里对稳定和安全性的要求极其苛刻 ：成品晶圆单件价值可达 50 万美元 （IT之家注：现汇率约合 334.3 万元人民币） ，一个仓库可存放数万件货品，金额高达数十亿美元；存储环境苛刻，需高度无尘、"
+  },
+  {
+   "title": "爱好者将诺基亚 N-Gage 平台 2004 年游戏《上古卷轴旅行：暗影之钥》移植到 PC 平台，支持 4K 分辨率运行",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/933.htm",
+   "published": "2026-11-13T11:24:14+00:00",
+   "age_hours": 1.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，据外媒 arstechnica 报道，一位爱好者 Dan Whelan 将诺基亚 N-Gage 平台 2004 年发售的《上古卷轴旅行：暗影之钥（The Elder Scrolls Travels：Shadowkey）》游戏移植到了 PC 平台。 据报道，相应项目名为《Shadowkey: Reforged》，保留了原版游戏文件和脚本，引入全新编写的 PC 图形引擎，支持最高 4K 分辨率运行。 除了重新制作角色和环境模型的高分辨率贴图外，该版本还加入了泛光照明、动态水面等视觉效果，并升级了游戏界面和文字渲染效果，使其不再受到早期手机屏幕显示能力的限制。 从画"
+  },
+  {
+   "title": "Gentle Monster / Warby Parker 将于下月推出 Android XR 智能眼镜：均搭载高通 AR1 芯片，接入谷歌 Gemini",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/931.htm",
+   "published": "2026-11-13T11:07:01+00:00",
+   "age_hours": 1.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，知名眼镜品牌 Gentle Monster 和 Warby Parker 各自宣布将于下月推出首款基于 Android XR 平台打造的智能眼镜，产品由三星与谷歌联合参与开发。目前，两大品牌的相关产品均已开启预订，预计将于 12 月 10 日正式在线上及指定线下门店发售。 据介绍，Gentle Monster 和 Warby Parker 的新品均搭载高通 Snapdragon AR1 Gen 1 芯片，均配备一颗 1,200 万像素摄像头，除了能够拍摄照片 / 视频外，还能借助 AI 实现实时翻译、逐向导航、接打电话和播放音乐等功能。不过，两款产品并未采用 "
+  },
+  {
+   "title": "Blackmagic Ambisonic Microphone 专业麦克风发布：内置 108 个 MEMS 单元，主打空间音频采集，1695 美元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/929.htm",
+   "published": "2026-11-13T10:52:36+00:00",
+   "age_hours": 2.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，Blackmagic Design 今日发布了一款面向专业影视制作领域的全新麦克风 Blackmagic Ambisonic Microphone，主打空间音频采集，支持为沉浸式视频内容录制音频，并原生兼容苹果 Vision Pro 头显，售价为 1,695 美元 （IT之家注：现汇率约合 11,331 元人民币） ，将于 12 月上市。 据介绍，Blackmagic Ambisonic Microphone 定位专业市场。采用 Ambisonics 全景声麦克风阵列设计，内置多达 108 个数字 MEMS 麦克风，可用于采集完整的声场信息。 该设备内置处理单"
+  },
+  {
+   "title": "韩国有关部门：黄仁勋离任 CEO 不影响英伟达 26 万块 GPU 供应计划",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/927.htm",
+   "published": "2026-11-13T10:51:53+00:00",
+   "age_hours": 2.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，据路透社报道，韩国科学技术信息通信部部长裴庆勋表示，英伟达确认将按计划向韩国供应 26 万块先进 GPU，履行此前作出的承诺。 裴庆勋在 X 上发文称，英伟达 CEO 黄仁勋的辞职不会影响上述供应计划。 ▲ IT之家注：第二段首句应为“自从黄仁勋宣布辞职以来” 去年，黄仁勋访韩出席亚太经合组织（APEC）会议期间， 英伟达与韩国达成了 26 万块 GPU 的供应协议 。双方还将继续推进多项合作，包括将韩国生产的 AI 芯片与英伟达平台对接、建设 AI 算力基础设施，以及联合开展物理 AI 研究和人才培养。 相关阅读： 《 韩国政府牵头成立 GPU 工作组，联合"
+  },
+  {
+   "title": "开源欧拉 openEuler 发布面向 Agentic Infra 的操作系统，国内累计装机量预计超 2200 万套",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/911.htm",
+   "published": "2026-11-13T10:47:18+00:00",
+   "age_hours": 2.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，在今日举行的 Agentic Infra 操作系统大会 & openEuler Summit 2026 上，开源欧拉 openEuler 正式发布面向 Agentic Infra（IT之家注：Agentic Infrastructure， 智能体基础设施 ）的操作系统。 据介绍，openEuler 升级为面向 Agentic Infra 的操作系统，提供沙箱、KV Cache、记忆系统与 Agent 安全等关键能力，支持 AI 推理、Agent 应用等场景，已经在互联网，金融等行业头部用户商用落地。 开放原子开源基金会理事长谢少锋现场披露， openEuler"
+  },
+  {
+   "title": "微软 XBOX 25 周年，CEO 夏尔马称个人将能掌握过去需“举国之力”获得的能力",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/885.htm",
+   "published": "2026-11-13T09:52:15+00:00",
+   "age_hours": 3.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，当地时间 12 日下午，微软 XBOX 负责人阿莎 · 夏尔马发布了一份备忘录， 暗示未来可能利用生成式 AI 辅助游戏开发 。 备忘录的标题为《XBOX 的 25 年》，回顾了微软从创立初期的小规模企业发展为拥有数千名员工的公司的历程。不过，真正值得关注的是夏尔马在结尾对未来的展望。 IT之家从备忘录内容获悉，谈及 XBOX 未来 25 年的发展时，夏尔马感叹， 太多游戏创意未能付诸实现 ，即使最终做成游戏，也有不少作品没能达到创作者的预期。“几十年来，想要实现宏大的目标，就只能接受这样的取舍。我们必须改变这种局面。” “纵观人类历史，创作规模始终受制于能够"
+  },
+  {
+   "title": "英国在数据中心上对自由放任说不，避免重演美国式争议",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/875.htm",
+   "published": "2026-11-13T09:41:14+00:00",
+   "age_hours": 3.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，据彭博社当地时间 11 日报道，英国财政大臣 John Healey 在同日进行的财政部特别委员会上表示， 该国在数据中心监管上不会采用美国式的自由放任策略 ，“不想看到美国的数据中心辩论在英国重演”。 整体上来看，美国对数据中心项目的监管相对粗放，这与容量不足的水电基础设施一道造成了一系列问题，引发公众和政界的强烈反对，已开始反过来阻碍对 AI 的投资。 图源：Pexels John Healey“准备对那些不能带来社区利益的数据中心说不”。他同时强调了主权 AI 基础设施对该国韧性与独立性的重要性。英国计划到 2030 年实现 6GW 的算力容量，这一水平"
+  },
+  {
+   "title": "腾讯混元发布实时语音模型 Hy Realtime：能说会唱、还能调用工具，已在元宝语音通话、腾讯客服等上线",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/825.htm",
+   "published": "2026-11-13T08:41:34+00:00",
+   "age_hours": 4.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，腾讯混元今日发布全新实时语音模型 Hy Realtime。该模型在语音理解、指令遵循、拟人化表达等基础对话能力上有优异表现，同时新增 Agentic 工具调用与唱歌能力。 Hy Realtime 已在元宝语音通话、腾讯客服等产品上线 ，近期也将上线腾讯云，对外提供 API 服务。 官方表示，Hy Realtime 仍在不断迭代，下一步将重点在双工交互、长期个性化记忆、前后台 Agent 交互上等方面不断提升，为用户带来更好的交互体验。 当前版本可通过最新版元宝 App 体验，在语音通话功能中选择“初语”音色；也可访问网页 Demo 进行部分能力体验。 http"
+  },
+  {
+   "title": "Whoop Humans 社交平台公布，号称“基于可穿戴健康数据的真实用户网络”",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/815.htm",
+   "published": "2026-11-13T08:35:09+00:00",
+   "age_hours": 4.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，可穿戴设备厂商 Whoop 宣布将推出全新社交网络平台 Whoop Humans，允许用户在应用内分享旗下可穿戴设备采集的健康与运动数据，并与其他用户互动。用户可以选择公开自己的身体指标、运动记录及个人成就，还能像 Instagram Stories 一样发布带有照片和文字说明的动态（Moments），并对其他用户的内容发表评论或点赞。 Whoop 表示，与充斥着人工智能生成内容、自动化账号及机器人的其他社交平台不同，Whoop Humans 是一个完全由真实用户组成的社交网络。Whoop 首席执行官 Will Ahmed 称，这是有史以来最容易验证用户真实性"
+  },
+  {
+   "title": "消息称字节跳动规划新一轮股票回购，4000 亿美元估值较去年增长两成",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/803.htm",
+   "published": "2026-11-13T08:05:53+00:00",
+   "age_hours": 4.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，彭博社北京时间今日援引 The Information 报道称，字节跳动在致投资者信中表示， 该企业计划进行新一轮 60 亿美元股票回购 。 字节跳动此轮回购价为每股 241.35 美元，对应 4,000 亿美元 （IT之家注：现汇率约合 2.67 万亿元人民币） 的整体估值。 这一数额相较一年前上轮回购时的水平高出 20% 。 知情人士透露，字节跳动还提议将“上市或授予外部股东出售全部持股的权利”的截止日期推迟四年至 2030 年 12 月 11 日；该企业还在文件中详细描述了向 AI 部门员工提供总计 3 亿股与 AI 业务价值挂钩的股份的计划。"
+  },
+  {
+   "title": "国际中文教育垂直大模型亮相，为全球中文学习者等群体提供智能化服务",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/801.htm",
+   "published": "2026-11-13T08:01:08+00:00",
+   "age_hours": 5.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，据央视新闻报道，11 月 13 日，2026 世界中文大会在北京开幕，会上发布语飞国际中文教育垂直大模型，为全球中文学习者、教师和教育机构提供智能化服务。 面向全球中文学习者，模型可提供 即时反馈的学习评测、随问随答的个性化辅导 ；面向教师，支持在多轮对话中快速生成覆盖 课前备课、课堂互动、课后巩固 的教学素材，提升教学效率；面向全球中文教育机构，提供标准化接口，连接各方、赋能应用，让数智化创新在更多教学场景落地生根。 IT之家从该报道中获悉，该模型将人工智能技术与国际中文教育实际需求相结合，深度融入专业知识、教学规律与真实场景，专项适配教与学各个环节，推动优"
+  },
+  {
+   "title": "演示时连续 2 次撞墙：亚马逊 Ring 安防无人机取消手动控制，让 AI 全权接管",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/026/791.htm",
+   "published": "2026-11-13T07:37:18+00:00",
+   "age_hours": 5.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 13 日消息，科技媒体 Android Headline 昨日（11 月 12 日）发布博文， 报道称由于在演示过程中连续出现 2 次撞墙故障，亚马逊旗下智能家居品牌 Ring 确认其首款安防无人机摄像头 Drone Cam 不再开放手动操控功能。 IT之家曾于 11 月 10 日报道，亚马逊 Ring 推出 Drone Cam 家用安防无人机，配备 2K 摄像头，支持 148 度视角和 360 度旋转，弱光下可自动开启 LED 灯。用户可通过应用设置飞行路线、安排巡逻，或派它前往指定位置查看。 不过在此前 CBS News 的公开演示中，Ring 创始人 Jamie Si"
+  },
+  {
+   "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+   "published": "2026-11-12T22:42:51+00:00",
+   "age_hours": 14.3,
+   "score": 6.5,
+   "summary": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair broke."
+  }
+ ]
+}

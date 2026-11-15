@@ -1,0 +1,233 @@
+{
+ "date": "2026-11-15",
+ "window_hours": 24,
+ "fetched_at": "2026-11-15T13:00:56.103457+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "疑似英伟达 GeForce RTX 4090 Ti 显卡“非 FE 版”工程样品现身网络",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/441.htm",
+   "published": "2026-11-15T12:32:03+00:00",
+   "age_hours": 0.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，用户 @哟哟涛来喽 在闲鱼平台分享了一款 NVIDIA 工程样品的多张图片。 这一显卡 在 GPU-Z 中被识别为 GeForce RTX 4090 Ti ，CUDA 数量（18176 核心）、显存规格（384bit 24GB 24Gbps）均符合爆料。 ▲ 图源：哟哟涛来喽 ▲ 图源：哟哟涛来喽 IT之家注意到，该工程样品的 PCB 与部分市售第三方 GeForce RTX 4090 产品高度相似 ；且 其 显示输出接口为与常规显卡相同的水平放置 ，而 此前泄露的 GeForce RTX 4090 Ti 显卡 FE 样品 则是接口竖置。 从这两方面来看， 此"
+  },
+  {
+   "title": "初代 XBOX 游戏机迎上市 25 周年：奠定微软主机业务根基，未来平台发展方向仍不明朗",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/435.htm",
+   "published": "2026-11-15T11:38:04+00:00",
+   "age_hours": 1.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，据 Tom’s Hardware 报道，微软初代 XBOX 于 2001 年 11 月 15 日在北美市场正式发售，如今已迎来上市 25 周年。 这款主机本质上是一台采用定制硬件的 PC，搭载英特尔 Pentium III 处理器和英伟达 GPU，机身采用体积庞大的黑绿色外壳，主要竞争对手包括索尼 PlayStation 2、任天堂 GameCube 和世嘉 Dreamcast。 尽管面对实力强劲的对手，XBOX 凭借出色的硬件配置，以及《光环：战斗进化》（Halo: Combat Evolved）这款独占游戏，成功在主机市场站稳脚跟，最终销量达到 2400 "
+  },
+  {
+   "title": "黄仁勋卸任后，英伟达新任 CEO 面临重建员工信任难题",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/433.htm",
+   "published": "2026-11-15T11:19:40+00:00",
+   "age_hours": 1.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，据 Business Insider 报道，去年在一场 NBA 科技峰会上，时任英伟达首席执行官黄仁勋曾谈到自己的管理风格，称公司内部一直坚持开放、透明的沟通方式。 “我所有的时间都花在保持透明上。”黄仁勋当时表示。长期以来，他因带领英伟达实现惊人增长而备受赞誉。 然而，如今有关黄仁勋婚外情的报道，却暴露出他所宣称的坦诚原则与其私下行为之间可能存在的巨大落差。据报道，黄仁勋涉嫌与公司一名直接下属、另一名员工以及一名客户发生婚外情。 黄仁勋离职后，英伟达下一任首席执行官将面临一项艰巨任务：重新赢得数万名员工的信任。作为当前 AI 热潮的核心企业之一，英伟达内部的"
+  },
+  {
+   "title": "澳大利亚央行研究：AI 最先冲击年轻劳动者，尤其是软件、客服岗位",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/432.htm",
+   "published": "2026-11-15T11:03:53+00:00",
+   "age_hours": 2.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，据 THE DECODER 报道，目前，人工智能（AI）对澳大利亚整体就业市场的冲击仍然有限，但对于刚刚进入软件开发等受 AI 影响较大行业的年轻劳动者来说，就业形势已经开始变得严峻。 澳大利亚储备银行（RBA）的迈克 · 梅杰（Mike Major）开展了一项研究，并建立了一套就业市场监测系统，重点关注最有可能率先受到 AI 影响的群体，包括职场新人，以及编程、文职工作和客户服务等 AI 影响程度较高的职业。 根据这项研究，自 2022 年底 ChatGPT 推出以来，各类职业的招聘岗位数量均有所下降，其中 AI 影响程度最高的职业降幅最大。在这一群体中，1"
+  },
+  {
+   "title": "世界首颗：单次矩阵方程求解时间小于 100 纳秒，国产新型模拟计算芯片问世",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/430.htm",
+   "published": "2026-11-15T10:53:47+00:00",
+   "age_hours": 2.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，据科技日报从模拟计算芯片公司安纳智芯了解到，该公司自主研发的 AX100 芯片已于 10 月完成流片，这是 世界首颗全集成一步求解矩阵方程模拟计算芯片 。 经测试， 该芯片单次矩阵方程求解时间小于 100 纳秒 ，单次计算功耗约为 80 毫瓦，完全符合理论仿真与设计预期。 据介绍，我们熟悉的 AI 大模型训练参数优化、机器人动作控制和空间规划、通信基站信号处理等， 本质上都是在解复杂的矩阵方程 。数字芯片的做法，是把“求解”转化成海量乘加迭代，计算量随矩阵规模呈立方级增长 —— 以 512 阶矩阵方程求解为例，约需 5 亿次乘加，耗时数十至上百微秒。 模拟计算"
+  },
+  {
+   "title": "Gartner 预测：到 2030 年全球将因 AI 净增加约 170 万个工作岗位",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/427.htm",
+   "published": "2026-11-15T10:27:59+00:00",
+   "age_hours": 2.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，人工智能可能引发的就业危机，或许并不像人们想象的那样。 商业与科技研究机构 Gartner 预测，2025 年至 2030 年间，AI 将在全球创造 1060 万个新工作岗位，同时导致 890 万个岗位消失。两者相抵，到 2030 年前，全球就业市场预计将因 AI 净增加约 170 万个岗位。 Gartner 杰出副总裁分析师兼研究主管约翰 · 洛夫洛克（John Lovelock）在接受 Business Insider 采访时表示，人们目前真正感受到的，是企业正处于观望阶段，等待 AI 对工作方式和就业市场的影响逐渐明朗。 洛夫洛克解释称：“在 AI 应用"
+  },
+  {
+   "title": "应对 AI 漏洞挖掘挑战：谷歌 Project Zero 计划将逐步缩短漏洞公开披露期限至 30 天",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/423.htm",
+   "published": "2026-11-15T10:12:07+00:00",
+   "age_hours": 2.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，自 2021 年以来，谷歌漏洞挖掘计划 Project Zero 一直奉行“90 + 30”漏洞披露政策，即允许厂商在最多 90 天内修复漏洞，并额外提供 30 天的“缓冲期”用于补丁推送。 当地时间 11 月 13 日，谷歌宣布，随着人工智能辅助漏洞挖掘与利用技术的兴起，当前形势已发生根本性变化，现有披露政策所设定的修复周期已难以适应需求。 IT之家获悉，为推动厂商更快速地修复漏洞、促使厂商缩短“补丁空窗期”，谷歌发布了全新的漏洞披露政策，新政策规定，无论厂商是否完成修复，漏洞均在报告给厂商后的 X 天 直接公开披露，并分阶段逐步收紧时间限制。 2026 年"
+  },
+  {
+   "title": "前 OpenAI 研究员：当前活着的人最有可能死于 AI 失控",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/419.htm",
+   "published": "2026-11-15T10:09:15+00:00",
+   "age_hours": 2.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，人工智能失控导致人类灭绝，听起来或许像科幻电影中的情节，但前 OpenAI 研究员保罗 · 克里斯蒂亚诺（Paul Christiano）认为，这可能成为当今在世人群最有可能面临的死亡原因。 当地时间周一，克里斯蒂亚诺在希尔顿讲座（The Hinton Lectures）上表示：“我认为，在座的大多数人，最有可能的死亡原因将是一次 AI 意外事故。” 克里斯蒂亚诺目前担任人工智能对齐研究中心（Alignment Research Center）负责人。他警告称，随着 AI 智能体的能力不断增强，它们可能学会欺骗负责监督它们的人类、破坏用于评估自身表现的系统，最"
+  },
+  {
+   "title": "宝马称若消费者有需求，将考虑在新世代车型上带回更多实体按键",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/415.htm",
+   "published": "2026-11-15T09:28:27+00:00",
+   "age_hours": 3.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，宝马近年来对新世代（Neue Klasse）车型的内饰设计进行了大幅调整，大量取消传统实体按键，转而采用触控面板和触摸屏操作，以取代上一代车型上的各种开关和旋钮。 不过，宝马并不打算永远坚持这种极简设计。如果有足够多的消费者希望重新使用实体按键，宝马愿意听取意见。 据澳大利亚汽车媒体 Carsales 报道，宝马新世代车型数字技术负责人克劳迪娅 · 迈尔（Claudia Maier）在新款 3 系和 i3 的全球发布活动期间接受采访时，谈到了这一问题。 IT之家注意到，从 i3、iX3、iX4，到 X5/iX5 以及 7 系 / i7 等新车型，都能看出宝马座"
+  },
+  {
+   "title": "利用 Claude 辅助编程：爱好者将 Seeed Studio“电子墨水屏便利贴”改造为苹果 Apple TV 遥控器",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/414.htm",
+   "published": "2026-11-15T09:26:41+00:00",
+   "age_hours": 3.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，据 XDA 报道，一位 Reddit 用户 Frankynov 将自己的 Seeed Studio reTerminal Sticky“电子墨水屏便利贴”改造为了苹果 Apple TV 遥控器。 Frankynov 透露，整个项目基于 Home Assistant 构建，利用了 Claude 进行辅助编程，不仅能够控制 Apple TV 播放内容，还可以通过触摸屏调节家中的灯光等智能家居设备。 目前，相应项目仍处于初期阶段，开发者表示后续还需要进一步调整设计，并修复测试过程中发现的问题。不过，从目前展示的效果来看，该设备已经具备相当不错的实用性，兼具了触控操作"
+  },
+  {
+   "title": "开发者借助 Claude 开发出体积仅 97KB 水下探索模拟项目 Abyssal Garden",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/406.htm",
+   "published": "2026-11-15T08:58:39+00:00",
+   "age_hours": 4.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，据 XDA 报道，一位开发者 Any-Reputation8118 利用 Anthropic Claude 编写代码，开发出一款名为“Abyssal Garden”的浏览器水下探索模拟项目，相应项目体积仅 97 KB，场景中的所有视觉元素均由代码在页面加载时实时生成。 从演示视频来看，Abyssal Garden 的项目完成度相当高，包含海带森林、沉船、石制鲸鱼尾雕塑、蝠鲼、鱼群，以及从水面照射下来的光束等元素，整体视觉效果相当出色，IT之家附项目 GitHub 地址（ 点此访问 ）。 开发者表示，项目中的全部代码均由 Claude 编写，AI 甚至会自行检查"
+  },
+  {
+   "title": "消息称 SK 海力士加快设备投资进度，进一步扩大 HBM4 产能",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/392.htm",
+   "published": "2026-11-15T08:15:09+00:00",
+   "age_hours": 4.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，据韩媒 Etnews 今天报道，尽管英伟达 CEO 更替等因素加剧 AI 行业不确定性，但 SK 海力士仍认为 HBM（IT之家注：高带宽内存）需求强劲。该公司计划重点投资 HBM 封装和测试环节的设备， 并计划于明年上半年正式投入使用 。 据多位半导体设备行业人士透露，SK 海力士正与合作伙伴商讨采购 HBM4 生产设备。该公司主要与负责 HBM 键合、切割和检测等后道工序的设备供应商协调采购时间和数量。 一位熟悉相关情况的 SK 海力士合作伙伴表示：“SK 海力士正推进 HBM4 生产设备的追加投资，正加快相关安排，目标是在明年上半年完成设备进场和安装调试"
+  },
+  {
+   "title": "大众 ID.Buzz 变身自动驾驶出租车，May Mobility 计划到 2031 年投放 1 万辆",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/358.htm",
+   "published": "2026-11-15T07:56:03+00:00",
+   "age_hours": 5.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，当地时间周四，自动驾驶技术公司 May Mobility 宣布，计划将自家的自动驾驶系统整合到大众 ID. Buzz 上，让这款电动面包车进入允许无人驾驶出租车运营的市场。 May Mobility 希望利用现有技术平台，为 ID. Buzz 加装相应的硬件和软件，使车辆具备“提前 10 秒预判未来路况”的能力。 这并不意味着车辆真的能够预知未来，May Mobility 的技术主要依靠车载预测模型，提前判断周围环境中其他交通参与者可能采取的行动，原理与人类驾驶员观察周围车辆、预判其行驶轨迹类似。 具体来说，系统会在数字模型中模拟多种可能出现的场景，再通过模型"
+  },
+  {
+   "title": "韩国税务师“状元”考生 160 题仅错 1 题，利用 AI 作弊惊动青瓦台",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/357.htm",
+   "published": "2026-11-15T07:55:52+00:00",
+   "age_hours": 5.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，据韩联社今日报道，韩国总统秘书室长（幕僚长）林光铉 15 日表示，针对今年税务师考试第一名利用微型摄像头和人工智能（AI）作弊一事，青瓦台将于当天下午召开由政策室长主持的会议，商讨应对措施。 这名考生此前因成绩异常突出受到质疑。税务师第一阶段考试共 160 道题， 他仅错一题 ，四门科目中三门满分。15 日，他向警方自首并承认，在税务师一、二试及注册会计师一试中，曾用微型摄像头拍摄考题传输给生成式 AI，再借助智能手机获取答案。 林光铉表示，青瓦台对此事高度重视。 鉴于韩国高考将于 19 日举行 ，有关部门正全力研究制定相关防范措施。 IT之家注意到，韩国第 "
+  },
+  {
+   "title": "消息称科技界预期黄仁勋将在硅谷“东山再起”，业内高管称多家公司有意伸出橄榄枝",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/354.htm",
+   "published": "2026-11-15T07:47:49+00:00",
+   "age_hours": 5.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，据美媒 Politico 引述多位硅谷高管及行业内部人士报道称，科技界普遍预期黄仁勋将在硅谷“东山再起”。 国防科技巨头 Anduril 创始人帕尔默 · 拉奇（Palmer Luckey）与 Perplexity AI 首席执行官阿拉温德 · 斯里尼瓦斯（Aravind Srinivas）已率先发声为黄仁勋辩护，埃隆 · 马斯克（Elon Musk）甚至放风称考虑将其招致麾下。 另有五名科技行业内部人士也向该媒体透露， 他们预计黄仁勋最终将以重磅姿态重返硅谷领导层 ；此外还有三人虽未如此笃定，但也表示若此事成真，他们丝毫不会感到意外。 “凭借他所创造的巨大价"
+  },
+  {
+   "title": "消息称三星 One UI 9.5 系统将为多数自带应用带来智能体 AI 功能",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/349.htm",
+   "published": "2026-11-15T07:35:42+00:00",
+   "age_hours": 5.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，据科技媒体 Sammobile 昨天报道，三星 One UI 9.5 系统将为高端 Galaxy 手机和平板电脑带来系统级 AI 智能体， 进一步拓展 Galaxy AI 的能力 。 IT之家从原报道获悉，三星已在设计 Personal Agent Core 功能，旨在将 AI 助手与系统自带应用深度整合。与传统语音助手不同，它能够通过自然语言对话管理多步骤工作流程，并主动提供后续跟进服务。 例如，该功能可以将电子邮件、快递配送、预订信息整合在一个中心界面，为用户提供统一的每日信息概览，看起来像是 Now Brief 功能的自然延伸。用户不再只是查看日程安排，"
+  },
+  {
+   "title": "爱好者将索尼 PS5 独占的 TGA 2024 年度游戏《宇宙机器人》移植到 PC 平台",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/027/343.htm",
+   "published": "2026-11-15T07:16:23+00:00",
+   "age_hours": 5.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 15 日消息，据外媒 ComputerBase 报道，近期有爱好者 imnotsharingmyname 将索尼 PS5 独占的 TGA 2024 年度游戏 《宇宙机器人（Astro Bot）》移植到 PC 平台，同时为相应版本加入了英伟达 DLSS、帧生成和 Reflex 等技术。 与近期出现的部分主机游戏 PC 移植项目类似，该项目并未通过模拟器运行游戏，而是将主机代码重新编译为原生 PC 代码运行，其中图形处理部分采用了从 KytyPS5 项目移植而来的 GPU 组件，负责处理 AGC 命令数据、着色器和 VideoOut 等内容，并将图形指令转换为 Vulkan 指"
+  },
+  {
+   "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+   "published": "2026-11-14T20:04:44+00:00",
+   "age_hours": 16.9,
+   "score": 6.5,
+   "summary": "Even Elon Musk said the monthly fee is \"too high.\""
+  },
+  {
+   "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
+   "published": "2026-11-14T17:45:04+00:00",
+   "age_hours": 19.3,
+   "score": 6.5,
+   "summary": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\""
+  },
+  {
+   "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+   "published": "2026-11-14T17:30:00+00:00",
+   "age_hours": 19.5,
+   "score": 6.5,
+   "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+  },
+  {
+   "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+   "published": "2026-11-14T19:47:40+00:00",
+   "age_hours": 17.2,
+   "score": 6.0,
+   "summary": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: The Gathering series was first teased back in 2019 w"
+  },
+  {
+   "title": "Work to replace old copper wire led to the FAA’s ground stop",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
+   "published": "2026-11-14T17:44:28+00:00",
+   "age_hours": 19.3,
+   "score": 6.0,
+   "summary": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said that this was \"routine maintenance,\" rather than the"
+  },
+  {
+   "title": "Here are our favorite deals from REI’s giant Holiday Sale",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
+   "published": "2026-11-14T15:00:00+00:00",
+   "age_hours": 22.0,
+   "score": 6.0,
+   "summary": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking to save on outdoor gear or pick up something for a"
+  },
+  {
+   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "published": "2026-11-14T15:00:00+00:00",
+   "age_hours": 22.0,
+   "score": 6.0,
+   "summary": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for"
+  },
+  {
+   "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
+   "published": "2026-11-14T14:18:36+00:00",
+   "age_hours": 22.7,
+   "score": 6.0,
+   "summary": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported service areas\" - meaning you'll only be able to b"
+  }
+ ]
+}

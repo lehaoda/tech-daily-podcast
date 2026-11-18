@@ -10823,7 +10823,895 @@
    "source": "爱范儿",
    "published": "2026-11-17T03:22:08+00:00",
    "first_seen": "2026-11-17T13:00:58.438826+00:00"
+  },
+  "562a86071bdf0d729608b81402ce0295f30a3865": {
+   "title": "GPT-6.2难产！OpenAI怕了",
+   "source": "量子位",
+   "published": "2026-11-18T07:53:29+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "0c0b4de74169fa56265e44b98c568c6e34e1c3ca": {
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "source": "OpenAI Blog",
+   "published": "2026-11-18T00:00:00+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "66db9f43e534e7bcba082de2a12270d0167274c7": {
+   "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+   "source": "TechCrunch",
+   "published": "2026-11-18T13:00:00+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "3774a52813e95b6868ac3f0a03c16980adc7d649": {
+   "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+   "source": "TechCrunch",
+   "published": "2026-11-18T12:00:00+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "6d087dd2b08ac5071079ffc407e5ccb5b163c0b9": {
+   "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+   "source": "TechCrunch",
+   "published": "2026-11-18T11:30:00+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "a8c3f8a22e5dcaa3f285559291cd3630b340c731": {
+   "title": "China dominates battery graphite, but this startup could break the monopoly",
+   "source": "TechCrunch",
+   "published": "2026-11-18T11:00:00+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "bcfa989cdeb4da366febdb0bccc404d0ebbfe261": {
+   "title": "This smell startup says its AI nose is as good as a human’s",
+   "source": "MIT Technology Review",
+   "published": "2026-11-18T10:20:30+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "46e7b2939b5187e92ccf21c30ff239f7a0840c30": {
+   "title": "腾讯刘炽平：微信“小微”全面上线后季度成本将低于今年早些时候的元宝",
+   "source": "IT之家",
+   "published": "2026-11-18T12:48:54+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "a4629455bdcc17fa550381919b162c71e1b1c8e5": {
+   "title": "DeepSeek API 定价调整：调用模型时触发服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费",
+   "source": "IT之家",
+   "published": "2026-11-18T12:33:53+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "5624efffa305ebbb3135b403d49edba56923409a": {
+   "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+   "source": "Ars Technica",
+   "published": "2026-11-18T12:15:44+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "9a48f66c2c7a7183066b0cf325ad5410e523b606": {
+   "title": "Grand Theft Auto VI has arrived",
+   "source": "The Verge",
+   "published": "2026-11-18T11:06:16+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "f06d2d7b3d4142b41cdf9e22cc3ca18553a32f2f": {
+   "title": "‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet",
+   "source": "The Verge",
+   "published": "2026-11-18T11:00:00+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "e3b3ec2d74499c32b7fe169df8d7b4e4dcd19ca7": {
+   "title": "微信：私人 AI 助理“小微”日活跃用户数已达 3000 万，预计未来部分推理任务在设备端运行",
+   "source": "IT之家",
+   "published": "2026-11-18T10:54:58+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "69ae3eab7c361f748f6af0d93797317d3d47273c": {
+   "title": "腾讯公布 2026 年 Q3 财报：微信及 WeChat 合并月活跃账户数 14.49 亿，同比增长 2%",
+   "source": "IT之家",
+   "published": "2026-11-18T10:48:00+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "8e5e4f93f4cc7d467e9718ab385bc744e19b29d1": {
+   "title": "华尔街为 Anthropic“史上最大 IPO”造势，散户争抢热情或超 SpaceX",
+   "source": "IT之家",
+   "published": "2026-11-18T10:45:07+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "ef0bbbbb2f4d67593493f3659f3d9d44802f3bed": {
+   "title": "零刻推出 192GB 内存版 GTR9 Pro 495 迷你主机，48999 元起",
+   "source": "IT之家",
+   "published": "2026-11-18T10:29:37+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "7dba5b1a9298039fb24c2fbedf75855a28229cf0": {
+   "title": "当贝推出 H5 Pro 第二代电视盒子：全志 H626 处理器、4GB+32GB 售价 499 元",
+   "source": "IT之家",
+   "published": "2026-11-18T10:18:16+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "3479256caff43a79d4da7ffeeba2fa3634dcdd1a": {
+   "title": "微软商业业务 CEO：黄仁勋辞任英伟达 CEO，或促使客户寻求 AI 芯片替代方案",
+   "source": "IT之家",
+   "published": "2026-11-18T09:57:57+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "bc8389690bcbacf99a51c2fbb761bb2cf90f78bd": {
+   "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+   "source": "量子位",
+   "published": "2026-11-18T09:41:55+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "7d05023ab54e1a704a854b454376347f6b5ca4ce": {
+   "title": "亚马逊不排除放行外部 AI 购物智能体，前提是带来优质用户体验",
+   "source": "IT之家",
+   "published": "2026-11-18T09:23:01+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "f4efe5340f53d3bdca74b734f059a9c4134a1668": {
+   "title": "理想汽车 CTO 谢炎台积电 OIP 论坛开讲，解读马赫 M100 从技术到应用全流程",
+   "source": "IT之家",
+   "published": "2026-11-18T09:01:20+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "41510742fdc6eb607cb12149b56a13b9b2ef5e18": {
+   "title": "腾讯 WorkBuddy 日活跃用户数超 1000 万，成为中国大语言模型日均 Token 用量最高 AI 产品",
+   "source": "IT之家",
+   "published": "2026-11-18T08:52:45+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "c7d13b1623c87894fa7c34581b8a164fca213312": {
+   "title": "消息称黄仁勋曾力推 RTX 5080 24GB 显卡安抚游戏玩家，如今英伟达或将其取消",
+   "source": "IT之家",
+   "published": "2026-11-18T08:27:16+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "aa4e4df17b7aeef7de046b19464f3bc7262094d1": {
+   "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+   "source": "量子位",
+   "published": "2026-11-18T07:24:50+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "d7bbad66c376d04253e904431684cc4ce1bfc854": {
+   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+   "source": "TechCrunch",
+   "published": "2026-11-17T23:04:35+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "526b4db24432d9c8d5a26dfde78dc811ad73b7f6": {
+   "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+   "source": "TechCrunch",
+   "published": "2026-11-17T22:29:05+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "9dc2fb8fb95902af857ffcb3d2c3fc65b35e8f69": {
+   "title": "SEC reportedly investigating Nvidia amid Huang exit",
+   "source": "TechCrunch",
+   "published": "2026-11-17T21:48:07+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "98e0a760b5cda8f40706becaab951455cf5c32e5": {
+   "title": "Google joins the tech outage trend by announcing it’s not having one",
+   "source": "TechCrunch",
+   "published": "2026-11-17T21:34:50+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "f1954b5e38ac1418ca2fe83b31b835c53dcff015": {
+   "title": "Waymo suspends freeway rides nationwide after California DMV order",
+   "source": "TechCrunch",
+   "published": "2026-11-17T19:49:41+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "564c609ea873a8d22b8a57ff5470de9a63e5257f": {
+   "title": "Model ML raises $250M to automate investment banking grunt work",
+   "source": "TechCrunch",
+   "published": "2026-11-17T19:32:11+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "8ef964ef9690857efe8aa3acc208c1e4af65a4a2": {
+   "title": "Google expands access to Gemini Tasks, which can help with calls, purchases",
+   "source": "TechCrunch",
+   "published": "2026-11-17T19:02:20+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "ebbc5a6e1d8ab7691f50e208ab2c01ae32acb926": {
+   "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+   "source": "TechCrunch",
+   "published": "2026-11-17T18:48:23+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "a4900720e0170af75521accfb7c9d1f336c4034f": {
+   "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+   "source": "MIT Technology Review",
+   "published": "2026-11-17T18:46:47+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "bffe6a2fa54e6bf5ca55e353cdf7694fda7d1e26": {
+   "title": "Introducing GPT-6.2 Astra and Sol",
+   "source": "OpenAI Blog",
+   "published": "2026-11-17T17:45:00+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "2cbcced9d6190f8b51f23e511e7baf0a6011f01f": {
+   "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+   "source": "MIT Technology Review",
+   "published": "2026-11-17T13:10:00+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "85554748c440527935c9dc1613cb2795e0f10d7f": {
+   "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+   "source": "量子位",
+   "published": "2026-11-18T02:49:23+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "450ce3162ba22f6df99618a790bc5b63df9487a8": {
+   "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+   "source": "量子位",
+   "published": "2026-11-18T00:49:14+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "618c3b53290dd89fc59452aeefa0fd44a2bdc7ad": {
+   "title": "Copilot is \"the new OS for work,\" and now Office runs inside of it",
+   "source": "Ars Technica",
+   "published": "2026-11-18T00:27:29+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "5e3681bf8236e8f7f6c318f690074e034337ba98": {
+   "title": "Satya Nadella says he’s AGI-pilled now",
+   "source": "The Verge",
+   "published": "2026-11-17T23:41:18+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "93e8cd33d8c054c1b25b65e944e1ee9df5698e31": {
+   "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+   "source": "Ars Technica",
+   "published": "2026-11-17T22:32:16+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "8f8a246c65d94ec2db9ba4690e8b9b19df7f82f1": {
+   "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+   "source": "The Verge",
+   "published": "2026-11-17T22:32:50+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "f93c3c93ff0008d10569fb728add3cdb9a9e8ba4": {
+   "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+   "source": "The Verge",
+   "published": "2026-11-17T22:25:41+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "7139a6ef1fb80e3f88e31ff128cd1b1ab8e97045": {
+   "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
+   "source": "The Verge",
+   "published": "2026-11-17T22:05:05+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "a1084803ae1a18aa32c6641e33877c29ed958ee5": {
+   "title": "The data is very preliminary, but Vulcan failure may not be due to BE-4 engines",
+   "source": "Ars Technica",
+   "published": "2026-11-17T18:00:51+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "b6d5735a7ed3a94702f7fcb776177e4c822c189b": {
+   "title": "Google makes it easier to use Gemini without training AI on your data",
+   "source": "Ars Technica",
+   "published": "2026-11-17T16:50:10+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "4dbcb46e2af591edf1991f56d86eaf01559909c4": {
+   "title": "I had AI read my entire field, Theoretical Astrophysics",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-18T11:45:02+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "ddda98c31dfe8fef457b739cbf8f4d173b8a10fd": {
+   "title": "Suno now lets you make AI videos for your AI music",
+   "source": "The Verge",
+   "published": "2026-11-18T11:16:53+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "beebdfce964d69d01221e98191326594552a59cd": {
+   "title": "AI 引发人类身份焦虑，剑桥词典将“Human”评为 2026 年度词汇",
+   "source": "IT之家",
+   "published": "2026-11-18T11:00:19+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "dc0d7354213538389ee8b032e0b77059e0287030": {
+   "title": "智元王闯：会干活才是人形机器人的真本事，长隆具身智能乐园已部署近 500 台机器人",
+   "source": "IT之家",
+   "published": "2026-11-18T10:07:11+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "08dfeac8d2e3bbcf04918fa07704cf50e57037c0": {
+   "title": "孙正义坦言未投资 Anthropic 是个“错误”，软银对此深感遗憾",
+   "source": "IT之家",
+   "published": "2026-11-18T08:25:03+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "69ea7ed814777fa7b6b950635495b846a08d37d0": {
+   "title": "GPT-6.2 Astra 刚发布即遭大量差评，实测后我觉得它有点冤",
+   "source": "爱范儿",
+   "published": "2026-11-18T02:39:15+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "b7c103059fa8a134fd6708eae234fad808f5fd11": {
+   "title": "As decision model use skyrockets, is customization the next frontier?",
+   "source": "TechCrunch",
+   "published": "2026-11-17T18:10:00+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "c0810a1067d2e116ab74cb2164480ce93b60ec6a": {
+   "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+   "source": "TechCrunch",
+   "published": "2026-11-17T18:04:16+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "aae9690bb1d40e17275203173d3e912664e8cb1f": {
+   "title": "深度实测 GPT-6.2：强是真强，难用也是真难用",
+   "source": "爱范儿",
+   "published": "2026-11-18T10:01:23+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "7d34083434127673651e241b8f29685b1619b04b": {
+   "title": "AI is killing All About Berlin",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-18T06:47:26+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "9e794f40dbf0d92d4f9d39d693ec36698deb53d7": {
+   "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+   "source": "量子位",
+   "published": "2026-11-18T04:49:51+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "62c23ec5cbf2ce3fc4766f1636d6a8e5834b590b": {
+   "title": "英伟达AMD首次联手押注！Genesis完成A轮融资，估值超230亿",
+   "source": "量子位",
+   "published": "2026-11-18T04:28:57+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "babf53b46357eefd028ec6a62fbbcd1de5fde33f": {
+   "title": "Why is Gemini 4 Carbon taking so long?",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-18T04:14:04+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "1a9939be7094d0fa955100135f2d655c1c712d2b": {
+   "title": "Claude was trained on protein sequences at scale",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-18T03:47:43+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "ac34e0e1a44ad4b497363f49713604662ed29869": {
+   "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+   "source": "量子位",
+   "published": "2026-11-18T01:03:42+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "da793ab503853b4fd41235eab338506b4c56302f": {
+   "title": "Google's AI answers reducing search traffic by 40%",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-18T00:17:58+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "8266830bc0d930abe843258dcf2c11314f16b18e": {
+   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-17T21:16:12+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "e1ae57040ccc72fa068708c66dadb8f97c536f2c": {
+   "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-17T19:01:43+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "6ac9811ebfc0ad3a008511d6904006c1e6066359": {
+   "title": "OpenAI sued by California after admitting to 80 loss-of-control incidents",
+   "source": "Ars Technica",
+   "published": "2026-11-17T18:13:34+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "d242ee4406d57eb3dc848967625b9c00e14f59fa": {
+   "title": "House Democrats promise a US return to global climate talks",
+   "source": "Ars Technica",
+   "published": "2026-11-17T15:32:43+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "dd698a57483ff67adccf7f19c4ec7136c79d0da0": {
+   "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
+   "source": "量子位",
+   "published": "2026-11-17T14:15:20+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "56b95dacf0f7d021e7517c742025d6f5ddcd1bfc": {
+   "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
+   "source": "Ars Technica",
+   "published": "2026-11-17T14:00:29+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "080a0d77e21cfdb2010754325506a63d806d097b": {
+   "title": "旅行者 1 号抵达距地球一光日位置，NASA 金唱片尘封细节被揭开",
+   "source": "IT之家",
+   "published": "2026-11-18T12:46:44+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "d46fab3672f7946c898e62541ef6bc372821684e": {
+   "title": "Face ID 存疑：消息称苹果 iPhone Duo 2 工程机沿用侧边指纹设计",
+   "source": "IT之家",
+   "published": "2026-11-18T12:45:11+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "d9305dd1310a0daa8f9dfcdf80d0eaf6bfe838c8": {
+   "title": "苹果地图在印度全面升级：针对当地道路特点专门优化，新增超 300 处 3D 地标",
+   "source": "IT之家",
+   "published": "2026-11-18T12:40:16+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "7baa831848e717f82a7d6815500b1adf637b9c74": {
+   "title": "数毛社实测《GTA 6》：PS5 爆炸场景跌至 23 帧，PS5 Pro 近乎稳定 30 帧",
+   "source": "IT之家",
+   "published": "2026-11-18T12:24:18+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "0f6eaec8409c276548a5e1e8bbc4745ea7d14262": {
+   "title": "IGN 长文揭秘：R 星是如何打造出《GTA 6》的",
+   "source": "IT之家",
+   "published": "2026-11-18T12:20:09+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "976ac72da21c7510e10b5a0d3434d4164c02cd9f": {
+   "title": "NASA’s Voyager 1 probe is now one light-day away",
+   "source": "The Verge",
+   "published": "2026-11-18T12:03:36+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "252982870ef29d5f863f0f0ad3f4c00773df90ed": {
+   "title": "三星推出 One UI 9.5 测试版：升级相机控制、无障碍、隐私保护等",
+   "source": "IT之家",
+   "published": "2026-11-18T12:01:39+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "4f8cba2c167671697054bef5cc499db87266193c": {
+   "title": "广汽传祺越 7 两驱激光雷达版官宣 11 月 20 日上市",
+   "source": "IT之家",
+   "published": "2026-11-18T11:58:50+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "e702ed754f181e1c2b1f58855e2386b6ea7b4f79": {
+   "title": "《GTA 6》地图究竟有多大？实测步行横穿要 3 小时 21 分钟，开车近 11 分钟",
+   "source": "IT之家",
+   "published": "2026-11-18T11:54:48+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "8ce30abb8329bef1626648035bf5e790dce3263f": {
+   "title": "蓝箭航天：朱雀三号遥二运载火箭回收的一子级 9 台液氧甲烷发动机，已全部完成地面验收和试车",
+   "source": "IT之家",
+   "published": "2026-11-18T11:53:54+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "aa538a2fdde9cf7ea136ad3e6de8a2b62dac0edb": {
+   "title": "Java 语言曝出安全漏洞，美国、韩国紧急呼吁用户安装安全更新",
+   "source": "IT之家",
+   "published": "2026-11-18T11:52:02+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "96ebbc65d5b92382f71e56e19e0674f01fc4c8f8": {
+   "title": "华境 S 五座版 SUV 新车官宣将至：现款累计交付破 4 万台，标配华为乾崑智驾",
+   "source": "IT之家",
+   "published": "2026-11-18T11:48:28+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "34f0aa6fec9b6ca52360c1bdedff322bcf2e049e": {
+   "title": "奔驰 2026 广州车展阵容：VLE MPV、智混 CLA 等领衔，全新 G 400 首发上市",
+   "source": "IT之家",
+   "published": "2026-11-18T11:36:09+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "f84297fa3ed1b3910f0be596393182b02c9b5e7d": {
+   "title": "R 星确认《GTA 6》在 PS5 Pro 上不会推出 60 帧模式，原因是硬件性能不足",
+   "source": "IT之家",
+   "published": "2026-11-18T11:32:24+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "7b23035c01bb4faa17dd37fa911fa27936a08deb": {
+   "title": "智界成鸿蒙智行首个独立整车生产资质品牌，郭锐回应称将聚焦智能驾驶与整车驾乘体验",
+   "source": "IT之家",
+   "published": "2026-11-18T11:22:21+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "ea29c3c6527d0a1f7a8c99f49612d67f4515a0b3": {
+   "title": "《GTA 6》M 站均分 99 分，追平《塞尔达传说：时之笛》并列史上第一",
+   "source": "IT之家",
+   "published": "2026-11-18T11:21:05+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "a25b091a22a7f04d48bc995fe04f90275f8f2966": {
+   "title": "IGN 给《GTA 6》打出 10 分满分：史无前例，难以置信，不容错过",
+   "source": "IT之家",
+   "published": "2026-11-18T11:10:15+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "9dad31ea06014a3b20e9979b4c7f5820494cd27a": {
+   "title": "Grand Theft Auto VI: The Ars Technica review",
+   "source": "Ars Technica",
+   "published": "2026-11-18T11:00:27+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "977043d084b70865eedd1907d27946450f9468e5": {
+   "title": "Grand Theft Auto VI does something impossible — it lives up to the hype",
+   "source": "The Verge",
+   "published": "2026-11-18T11:00:00+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "a90a47f1a278491ef029ed8d3029932e886ba3bd": {
+   "title": "13 年等待结束：《侠盗猎车手 6》今明日正式发售，登陆 PS5、Xbox Series X|S 平台",
+   "source": "IT之家",
+   "published": "2026-11-18T10:59:10+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "4497b2562edc78376e3f5b7f13985543dc801b06": {
+   "title": "美团“无人机外卖”加速出海，索降版航线落地迪拜",
+   "source": "IT之家",
+   "published": "2026-11-18T10:44:51+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "df6069ab6642a97eab3e44de3333c9f7768d38fe": {
+   "title": "天马推出 17.3 英寸窄边框车载座舱显示屏，集成环境光传感器",
+   "source": "IT之家",
+   "published": "2026-11-18T10:37:34+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "e2315ed52e59700b286bcee52ed132f3f1c2286e": {
+   "title": "华为星芒 OSTA O1 Pro 手机设置页截屏流出，“实锤”搭载麒麟 9030S 处理器",
+   "source": "IT之家",
+   "published": "2026-11-18T10:35:10+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "0bb2b2405f6dffbcb71271365795f66072638278": {
+   "title": "小米春节前待发新机曝光，含 Xiaomi 18 标准版、REDMI Note18 / Turbo6 系列等",
+   "source": "IT之家",
+   "published": "2026-11-18T10:06:25+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "ac8bd881f7ca73f5dc718dc6673f014169076b21": {
+   "title": "暴力熊推出 PC DIY 小工具 TG PadMate，用于量测导热垫厚度",
+   "source": "IT之家",
+   "published": "2026-11-18T09:56:34+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "ceccc5a1d8f40d5362fe2746a9e856aa63dc214f": {
+   "title": "2026 小米精英驾驶 · 赛照培训正式收官，162 位小米车主成为国家 B 级赛车手",
+   "source": "IT之家",
+   "published": "2026-11-18T09:43:02+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "7855060a15693962e42927a5a47226d5e487357b": {
+   "title": "苹果前董事长莱文森拟出售 9 万股苹果股票，价值约 3180 万美元",
+   "source": "IT之家",
+   "published": "2026-11-18T09:35:46+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "154ca649186023574f5a638c752e320423c3e5df": {
+   "title": "日产确认 R36 将回归圆形头灯，致敬早期 GT-R 经典设计",
+   "source": "IT之家",
+   "published": "2026-11-18T09:34:18+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "c98c6569961523988696c2d49eac17798d20cd27": {
+   "title": "李云飞：比亚迪今年已打二代刀片电池闪充 + 智驾兜底两张技术牌，年内第三个黑科技方程豹钛 9 首搭",
+   "source": "IT之家",
+   "published": "2026-11-18T09:22:31+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "57c7d5cc9cd70a6ad1c8e2564e1266cf46f6062e": {
+   "title": "曝英特尔启动新一轮裁员，波及全球 IT 部门",
+   "source": "IT之家",
+   "published": "2026-11-18T09:04:34+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "13d112438e2f8bd05405ac441ba3d23df8eda15f": {
+   "title": "消息称荣耀明年没有常规大折叠手机，取而代之的是阔折叠",
+   "source": "IT之家",
+   "published": "2026-11-18T09:03:56+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "96df0ccb4e0df05459dd63291224763a9af1df6a": {
+   "title": "海韵预告：PRIME ENTERPRISE PX-3200 电源即将上市",
+   "source": "IT之家",
+   "published": "2026-11-18T09:02:14+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "f94449cde5f1a2be3090d1efc7dfe07a78a7bf85": {
+   "title": "贝索斯：把科技巨头当替罪羊，并不能解决美国经济问题",
+   "source": "IT之家",
+   "published": "2026-11-18T08:56:05+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "3ca073549b847b1402e303fb12d1b86ce946b44b": {
+   "title": "华为麒麟 9050 系列新一代芯片级安全架构公开：双芯协同，首批获权威检测的抗量子攻击移动 SoC",
+   "source": "IT之家",
+   "published": "2026-11-18T08:46:50+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "7dbdd6a4d40ac36d90e348054b0b566dfdb40a25": {
+   "title": "黄仁勋离职风波引发诉讼风险：英伟达高管有保险，公司自身却未投保",
+   "source": "IT之家",
+   "published": "2026-11-18T08:43:24+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "5af39a1c95107f0cd2a0a748fba15f5487a618ac": {
+   "title": "腾讯控股 2026 年前三季度归母净利润 1777.27 亿元，同比增长 7%",
+   "source": "IT之家",
+   "published": "2026-11-18T08:36:37+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "ad0d3c7d797897f9e46d5aeb90ec5b1a110336e3": {
+   "title": "CoreWeave CEO 因特拉托尔：黄仁勋离开英伟达，我不担心会影响业务",
+   "source": "IT之家",
+   "published": "2026-11-18T08:28:54+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "436c487fa3bf21bd6fbe790dd9bc2470618012ae": {
+   "title": "华为鸿蒙系统装机量被曝破亿后，HarmonyOS 7 设备占比突破 82%",
+   "source": "IT之家",
+   "published": "2026-11-18T08:26:22+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "d388486959bc634bfa35a3ad82ee1e0120281493": {
+   "title": "dynabook 推出笔电新品 M6、C9/C8，分别基于英特尔 \"WCL\"、\"PTL\" 处理器",
+   "source": "IT之家",
+   "published": "2026-11-18T08:23:10+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "18f8ce3980cf5cb5a81a7a80f129b21ffcfb25bc": {
+   "title": "英伟达非上市股权投资价值飙升至 655 亿美元，黄仁勋不再掌舵后投资策略成谜",
+   "source": "IT之家",
+   "published": "2026-11-18T08:14:29+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "3599c38b375629c73986b031d8fe107d360057d5": {
+   "title": "一汽拟利用欧洲闲置产能生产红旗，大众回应称未与一汽讨论欧洲造车合作",
+   "source": "IT之家",
+   "published": "2026-11-18T08:10:45+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "aa2189ebb247730cc36cdb461f0f174cd6561f82": {
+   "title": "即梦 Seedance 2.5 大升级，AI 视频生成终于有了自己的 4K 生产线",
+   "source": "爱范儿",
+   "published": "2026-11-18T04:00:43+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "6b00a9931dd15383b44fcf3419e91011b6519db1": {
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "source": "TechCrunch",
+   "published": "2026-11-18T01:44:21+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "572e90e3a27bc34fd05b03604acf311b8ade688d": {
+   "title": "Nvidia promises that revenue will keep soaring — for now",
+   "source": "TechCrunch",
+   "published": "2026-11-18T00:16:50+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "46cf388b56ea7221e4b49b089d34246161a9f169": {
+   "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+   "source": "TechCrunch",
+   "published": "2026-11-17T23:37:48+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "cfb6ea1e60ec0f63581d6a1cbd9c3372a53c9467": {
+   "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+   "source": "TechCrunch",
+   "published": "2026-11-17T22:42:27+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "940efc306c9a8ceb193a662c335809ab82bf83fd": {
+   "title": "Apple services, including iCloud, App Store, Apple Music, and more, hit by outage",
+   "source": "TechCrunch",
+   "published": "2026-11-17T18:55:40+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "85839ba432be60be1c2dd640bd112f3b18faad5e": {
+   "title": "Hydropower hit record lows in the US Southwest this summer",
+   "source": "MIT Technology Review",
+   "published": "2026-11-17T17:52:10+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "f6559537c693ac271eb3f4e117fc76b02766c7b0": {
+   "title": "Research Reports",
+   "source": "MIT Technology Review",
+   "published": "2026-11-17T14:39:46+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "29cfdfc729076f5233ef404cebca0003dc5ba05d": {
+   "title": "San Diego dumps both Flock cameras and smart streetlights",
+   "source": "Ars Technica",
+   "published": "2026-11-17T23:09:09+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "acbaf2ae0be19c7b3ca13a9d7867f652b985723a": {
+   "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+   "source": "The Verge",
+   "published": "2026-11-17T22:38:41+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "ccaf4cd682f8aad0539fb2c56f361a8ea744d33d": {
+   "title": "“Trump was in bed with Jensen”: Critics balk at Huang’s wish to return to Nvidia",
+   "source": "Ars Technica",
+   "published": "2026-11-17T20:32:55+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "d04196d152c03a5c2cf2aad52ff25d4f9c61555c": {
+   "title": "Civilization studio Firaxis Games lays off a third of staff",
+   "source": "Ars Technica",
+   "published": "2026-11-17T19:45:25+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "7ea16d31601453c9a97c9a51cacba9441baf338c": {
+   "title": "Humanity braces for an alien invasion in 3 Body Problem S2 teaser",
+   "source": "Ars Technica",
+   "published": "2026-11-17T18:26:26+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "756bc2ecd3c54cde9d2c5e174f9ee64ded205dfc": {
+   "title": "Ars Live: What do drone strikes on data centers mean for the future? Talk at 1 pm EST today",
+   "source": "Ars Technica",
+   "published": "2026-11-17T15:28:59+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "51defdce0ac7f299361803ad2c987432fd8bc668": {
+   "title": "张雪有了新目标，立志培养中国冠军车手",
+   "source": "IT之家",
+   "published": "2026-11-18T12:25:42+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "43333d615fe20f8abda3db4bdda654a680f61a78": {
+   "title": "《GTA 6》车辆续航实测：皮卡 29 分钟，跑车 18 分钟",
+   "source": "IT之家",
+   "published": "2026-11-18T12:13:06+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "e1e2fa21f5fdd22598c199baf1104f017d4a9fbc": {
+   "title": "索尼 PlayStation 遭土耳其反垄断调查：数字商店抽成与渠道限制成焦点",
+   "source": "IT之家",
+   "published": "2026-11-18T11:17:27+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "dafaa416da21eaab91f5c11d514bb45450eb6e8a": {
+   "title": "四位外媒编辑《GTA 6》主线通关时长一览：最快 42 小时，最慢 115 小时",
+   "source": "IT之家",
+   "published": "2026-11-18T11:13:59+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "f6b72844783da3fb25b14f4837b727e49e345dea": {
+   "title": "填补国内空白：“吉祥鸟”AC311A 国产轻型直升机完成应急漂浮装置验证试飞",
+   "source": "IT之家",
+   "published": "2026-11-18T11:09:47+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "5415d5e33412cb682ce4e653ad1dfe6a030ab803": {
+   "title": "新西兰旅游局喊话“切区”玩家：我们能率先玩上《GTA 6》，非常欢迎你们",
+   "source": "IT之家",
+   "published": "2026-11-18T10:20:27+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "1de3d3da80084080ea3c8d487cdf3f8af451a4bd": {
+   "title": "Codeberg.org Not Reachable",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-18T10:02:17+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "435ae9e4a9bb5875ea51ab31c76a12678004ee37": {
+   "title": "Energy-Based Reasoners: 385x more efficient inference",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-18T09:29:32+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "80c1863e627815d03d1c0314dde8168082d577af": {
+   "title": "11 年纪录就此中断，索尼发行游戏无缘今年 TGA 年度游戏奖提名",
+   "source": "IT之家",
+   "published": "2026-11-18T09:16:23+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "58ff8abf6f24a64cb343b2920c43fe4b54e5a667": {
+   "title": "Talos Linux",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-18T08:17:44+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "c23a3aa1e49311dec166a45a23b5019da301d765": {
+   "title": "Australia's full national topographic library at your fingertips",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-18T07:10:46+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "32076728a01686b460321f6ed573bcc03be26677": {
+   "title": "黄仁勋官宣愿意回归，英伟达董事会：不考虑！",
+   "source": "爱范儿",
+   "published": "2026-11-18T00:39:56+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "5023d0f83c5780ce2024c5c15a46a32dbf603213": {
+   "title": "早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权",
+   "source": "爱范儿",
+   "published": "2026-11-18T00:32:49+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "cbbc8c24df29d02d63be4124859a3bd4571919f5": {
+   "title": "Stripe backer Atomico calls for Europe to own its success stories",
+   "source": "TechCrunch",
+   "published": "2026-11-18T00:01:00+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "f08091303f3276e1dbdf3851d1a5e8dfcd965ce0": {
+   "title": "这届高校学生，为何选择用鸿蒙创新？",
+   "source": "爱范儿",
+   "published": "2026-11-18T10:45:36+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "48114d42d537d3c502fca309a9dc81544e5471b6": {
+   "title": "Why Fibonacci?",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-18T05:35:02+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "db122ae69e1cb8e54906a5b5e083a3934a1060b2": {
+   "title": "ID.me terms required for IRS sign-in",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-18T00:51:45+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "34dc781ab28cc78fba77505d209139794fa4a428": {
+   "title": "Archive Team is archiving the Apple Support Community",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-17T23:32:58+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "a417ed4b7d08df89c8b0a102ce031f37eaa389c3": {
+   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-17T23:18:49+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "1584fb9ac1889ab448a65f7c3796768679c3cf99": {
+   "title": "Yet another satellite company is jockeying for a rocket—but this one makes sense",
+   "source": "Ars Technica",
+   "published": "2026-11-17T22:44:46+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "f60c174e62e3a746be96fff87d5a8d13d42cd836": {
+   "title": "Quad9's withdrawal from France: A canary in the coal mine",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-17T22:13:34+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "8fa1eeb736eb62c8cdb91f38ec2ffade14549bb2": {
+   "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-17T21:11:28+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "6a61f808b89b328c64d973b4ae95c0f618bd3788": {
+   "title": "jQuery 4.1.0",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-17T19:50:40+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "1def4b2568298ec83a8f8c16f795899a2c1f2b45": {
+   "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-17T19:25:27+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "8659d499afac3e9efa2708ebd5c3ed82ef706378": {
+   "title": "Solid 2.0",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-17T18:56:17+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
+  },
+  "8fcb004e7d3b1bb420d4d1e01695b7db43d094d1": {
+   "title": "曾经的纯电超跑之王 Rimac Nevera 宣布停产，CEO 转头造出了 16 缸的布加迪新旗舰",
+   "source": "爱范儿",
+   "published": "2026-11-18T03:40:19+00:00",
+   "first_seen": "2026-11-18T13:01:00.278463+00:00"
   }
  },
- "updated": "2026-11-17T13:00:58.438826+00:00"
+ "updated": "2026-11-18T13:01:00.278463+00:00"
 }

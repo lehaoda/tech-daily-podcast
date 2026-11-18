@@ -1,0 +1,233 @@
+{
+ "date": "2026-11-18",
+ "window_hours": 24,
+ "fetched_at": "2026-11-18T13:01:00.278463+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "GPT-6.2难产！OpenAI怕了",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/510914.html",
+   "published": "2026-11-18T07:53:29+00:00",
+   "age_hours": 5.1,
+   "score": 7.5,
+   "summary": "OpenAI也终于活成了2022年谷歌的样子"
+  },
+  {
+   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+   "published": "2026-11-18T00:00:00+00:00",
+   "age_hours": 13.0,
+   "score": 7.5,
+   "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+  },
+  {
+   "title": "Nvidia clarifies when it will — and won’t —keep financing neoclouds",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
+   "published": "2026-11-18T13:00:00+00:00",
+   "age_hours": 0.0,
+   "score": 7.0,
+   "summary": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained."
+  },
+  {
+   "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+   "published": "2026-11-18T12:00:00+00:00",
+   "age_hours": 1.0,
+   "score": 7.0,
+   "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market."
+  },
+  {
+   "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+   "published": "2026-11-18T11:30:00+00:00",
+   "age_hours": 1.5,
+   "score": 7.0,
+   "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S."
+  },
+  {
+   "title": "China dominates battery graphite, but this startup could break the monopoly",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+   "published": "2026-11-18T11:00:00+00:00",
+   "age_hours": 2.0,
+   "score": 7.0,
+   "summary": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly."
+  },
+  {
+   "title": "This smell startup says its AI nose is as good as a human’s",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
+   "published": "2026-11-18T10:20:30+00:00",
+   "age_hours": 2.7,
+   "score": 7.0,
+   "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup"
+  },
+  {
+   "title": "腾讯刘炽平：微信“小微”全面上线后季度成本将低于今年早些时候的元宝",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/063.htm",
+   "published": "2026-11-18T12:48:54+00:00",
+   "age_hours": 0.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 18 日消息，据科创板日报报道，腾讯总裁刘炽平在业绩会上表示，腾讯正持续扩大微信“小微”的用户测试池，目前日活用户已达 3000 万。 同时， 小微全面上线后的季度成本，将低于今年早些时候元宝的季度成本 。 IT之家注意到，今年春节，腾讯元宝曾推出“分 10 亿现金红包”活动，2 月 18 日活动结束后， 腾讯宣布元宝 日活跃用户超 5000 万 ，月活跃用户达 1.14 亿 。 微信官方今日表示，小微采用 WeLM 模型，这是一款针对成本效率及小微易用性进行优化的定制模型， 因此推理成本极低且持续下降 。未来， 官方预计部分推理任务将在用户设备端运行 。 根据官方此前披露"
+  },
+  {
+   "title": "DeepSeek API 定价调整：调用模型时触发服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/058.htm",
+   "published": "2026-11-18T12:33:53+00:00",
+   "age_hours": 0.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 18 日消息，DeepSeek 官网显示，自北京时间 2026 年 11 月 18 日 12:00 起， 调用模型时触发的服务端搜索、网页抓取不再计费，仅按模型 Token 用量计费 。 使用以下接口时会触发服务端搜索：联网工具、Anthropic API 的 web_search 工具、Responses API 的 web_search 工具。 据IT之家此前报道，10 月 17 日，DeepSeek 官方宣布 Search / Fetch API 正式上线，两项接口均使用 DeepSeek 自研搜索引擎，为 Agent 与 RAG 应用提供实时网页内容，按请求次数计费"
+  },
+  {
+   "title": "Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/space/2026/11/voyager-1-at-one-light-day-historian-revisits-golden-records-forgotten-details/",
+   "published": "2026-11-18T12:15:44+00:00",
+   "age_hours": 0.8,
+   "score": 6.5,
+   "summary": "\"They are pretty confident that it's going to last a long, long, long time...\""
+  },
+  {
+   "title": "Grand Theft Auto VI has arrived",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/entertainment/1035847/grand-theft-auto-6-launch-review-news",
+   "published": "2026-11-18T11:06:16+00:00",
+   "age_hours": 1.9,
+   "score": 6.5,
+   "summary": "More than a decade after Grand Theft Auto V was first released, its sequel is finally launching. On November 19th, GTA VI will be available on both the PS5 and Xbox Series X / S, and it’s quite possibly the most anticipated video game launch of all time. Part of this has to do with […]"
+  },
+  {
+   "title": "‘It’s a risk’: How Rockstar built the most detailed (and romantic) GTA yet",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/entertainment/1035806/grand-theft-auto-6-rob-nelson-interview",
+   "published": "2026-11-18T11:00:00+00:00",
+   "age_hours": 2.0,
+   "score": 6.5,
+   "summary": "Grand Theft Auto VI isn't just the biggest GTA game to date; it's also the most romantic. Though the series is well known for its sordid assortment of criminal leads, GTA VI switches things up by starring a pair of thieves who also happen to fall in love after meeting while stealing a car. It's […]"
+  },
+  {
+   "title": "微信：私人 AI 助理“小微”日活跃用户数已达 3000 万，预计未来部分推理任务在设备端运行",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/018.htm",
+   "published": "2026-11-18T10:54:58+00:00",
+   "age_hours": 2.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 18 日消息，腾讯今日发布 2026 年第三季度财报，称正加速推进 AI 化变革，向 AI 引领的科技公司迈进。 微信官方今日宣布，小微用户测试范围扩大， 日活跃用户数 （DAU） 已达 3000 万 ，逐步融入微信聊天、朋友圈、公众号、视频号等高频场景。 据介绍，小微是 每个人的私人 AI 助理 （ personal assistant for everyone ），在微信生态内即可即时使用，从设计之初便注重隐私保护， 使用及运营成本低 。 IT之家获悉，小微采用 WeLM 模型，一款针对成本效率及小微易用性进行优化的定制模型，因此推理成本极低且持续下降。未来， 官方预计"
+  },
+  {
+   "title": "腾讯公布 2026 年 Q3 财报：微信及 WeChat 合并月活跃账户数 14.49 亿，同比增长 2%",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/017.htm",
+   "published": "2026-11-18T10:48:00+00:00",
+   "age_hours": 2.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 18 日消息，腾讯今日公布了 2026 年 Q3 财报。据“微信派”公众号介绍，腾讯正加速推进 AI 化变革，向 AI 引领的科技公司迈进。 “微信派”还提到， 微信及 WeChat 的合并月活跃账户 14.49 亿，同比增长 2% 。 据IT之家今日早些时候报道，腾讯控股发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）及第三财季（2026 年 7 月～2026 年 9 月）报告。数据显示， 2026 年前三季度营业总收入 6085.79 亿元，同比增长 9% ；归母净利润 1777.27 亿元，同比"
+  },
+  {
+   "title": "华尔街为 Anthropic“史上最大 IPO”造势，散户争抢热情或超 SpaceX",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/015.htm",
+   "published": "2026-11-18T10:45:07+00:00",
+   "age_hours": 2.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 18 日消息，据路透社今天（18 日）晚间报道，华尔街正为 Anthropic 可能创下纪录的 IPO 提前造势。金融机构不仅推出了挂钩 Anthropic 股票的投资产品，还举办客户活动、派发周边商品。 市场预计，高净值投资者和散户届时将展开激烈的股票争夺。 尽管过去几周超大规模云服务商和其他 AI 概念股遭遇大幅抛售，投资者对 Anthropic 上市的热情仍在升温。按照预期，Anthropic 将于当地时间 19 日登陆公开市场。 Anthropic 此次 IPO 估值最高可能达到 1.4 万亿美元 （IT之家注：现汇率约合 9.35 万亿元人民币） 。不过，今年早些"
+  },
+  {
+   "title": "零刻推出 192GB 内存版 GTR9 Pro 495 迷你主机，48999 元起",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/011.htm",
+   "published": "2026-11-18T10:29:37+00:00",
+   "age_hours": 2.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 18 日消息，零刻今日宣布推出 192GB 内存版 GTR9 Pro 495 迷你主机，搭载 AMD Ryzen AI Max+ PRO 495 处理器，内存从原有的 128GB 提升至 192GB LPDDR5x， 售价 48999 元起 。 192GB+2TB：48999 元 192GB+4TB：49999 元 GTR9 Pro 495 搭载 AMD Ryzen AI Max+ PRO 495 处理器，采用 Zen 5 架构，拥有 16 核 32 线程；集成 Radeon 8065S 核显，拥有 40 个 RDNA 3.5 计算单元，最高频率 3000MHz。 GTR9"
+  },
+  {
+   "title": "当贝推出 H5 Pro 第二代电视盒子：全志 H626 处理器、4GB+32GB 售价 499 元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/009.htm",
+   "published": "2026-11-18T10:18:16+00:00",
+   "age_hours": 2.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 18 日消息，当贝现已推出 H5 Pro 第二代电视盒子， 到手价 499 元 。 当贝 H5 Pro 第二代搭载 全志 H626 处理器 ，相较上一代 H618 平台 CPU 性能提升 30%，GPU 性能提升 20%，支持 AV1 硬件解码，开机时间比上一代缩短 20%。 当贝 H5 Pro 第二代配备 4GB 运行内存与 32GB 存储空间 ，相比基础版 H5 第二代翻倍；搭载基于 Android 14 深度优化的当贝 OS，彻底去除开机广告，开机即可直接进入主界面。 当贝 H5 Pro 第二代采用纯白色机身，接口配备 AV、HDMI 2.1、USB、DC 电源接口，"
+  },
+  {
+   "title": "微软商业业务 CEO：黄仁勋辞任英伟达 CEO，或促使客户寻求 AI 芯片替代方案",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/028/968.htm",
+   "published": "2026-11-18T09:57:57+00:00",
+   "age_hours": 3.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 18 日消息，据彭博社今天（18 日）早间报道，微软商业业务 CEO 贾德森 · 阿尔托夫认为，黄仁勋辞职引发的英伟达人事风波，可能促使客户寻找英伟达 AI 芯片之外的选择。 阿尔托夫透露，早在黄仁勋辞职之前，客户就已经表达了希望拥有更多选择的意愿，而最近的消息确实让人们更加确信，多一些选择是件好事。 微软、亚马逊和谷歌都在开发自研 AI 芯片，希望借此 降低对英伟达的依赖 。微软上个月还透露，计划让旗下 AI 软件主要依靠自研硬件运行。至于 Anthropic 和 OpenAI，也在寻找英伟达芯片的替代方案。 阿尔托夫过去一年一直在强调，未来将由多样化的 AI 模型和芯片"
+  },
+  {
+   "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/510922.html",
+   "published": "2026-11-18T09:41:55+00:00",
+   "age_hours": 3.3,
+   "score": 6.5,
+   "summary": "氖人寻味！"
+  },
+  {
+   "title": "亚马逊不排除放行外部 AI 购物智能体，前提是带来优质用户体验",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/028/933.htm",
+   "published": "2026-11-18T09:23:01+00:00",
+   "age_hours": 3.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 18 日消息，亚马逊此前关闭了外部 AI 购物智能体在其平台上直接下单的权限，但 CEO 安迪 · 贾西（Andy Jassy）表示，公司并没有彻底关上这扇门，未来仍有可能重新开放。 贾西当地时间周二在 Semafor 举办的“硅谷与世界”大会上表示：“我认为，我们从来没有说过绝对不会开放。 这件事的前提是必须为消费者提供良好的体验，而目前还没有做到这一点，同时双方也必须实现公平的价值交换 。” 以 Meta 的 Muse、Instinct AI 和 OpenAI 的 Dots 为代表的 AI 智能体，正在给美国零售商的 IT 和安全部门带来新的挑战。这些 AI 工具宣称能"
+  },
+  {
+   "title": "理想汽车 CTO 谢炎台积电 OIP 论坛开讲，解读马赫 M100 从技术到应用全流程",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/028/924.htm",
+   "published": "2026-11-18T09:01:20+00:00",
+   "age_hours": 4.0,
+   "score": 6.5,
+   "summary": "2026 年 11 月 17 日，台积电 OIP（Open Innovation Platform，开放创新平台）生态系统论坛在北京举行。作为全球半导体设计、EDA、IP 及封装测试领域最具影响力的年度技术盛会之一，本届论坛汇聚了芯片架构、AI 计算与系统创新方向的顶尖企业与专家。理想汽车首席技术官谢炎受邀发表主题演讲，成为本次论坛唯一的特邀演讲嘉宾，理想汽车也成为台积电 OIP 生态系统论坛举办以来首家进行特邀演讲的大陆企业。 谢炎演讲的题目为《高效 AI 推理系统的设计思考与实践》，核心内容围绕理想汽车自研的马赫 M100 芯片展开。从架构设计到量产装车，这颗芯片完整走过了从原创技术到规模"
+  },
+  {
+   "title": "腾讯 WorkBuddy 日活跃用户数超 1000 万，成为中国大语言模型日均 Token 用量最高 AI 产品",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/028/914.htm",
+   "published": "2026-11-18T08:52:45+00:00",
+   "age_hours": 4.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 18 日消息，腾讯今日发布 2026 年第三季度财报，截至 11 月初， WorkBuddy 日活跃用户数超过 1000 万，日均 Token 调用量超过 100 万亿 ，成为中国大语言模型日均 Token 用量最高的 AI 产品。 官方表示，自今年 3 月发布以来， WorkBuddy 已完成 100 多个大版本更新 。开放平台上线两个月以来，Buddy 应用已覆盖 55 个专业场景、超 30 个垂直领域，包括金融、法律、医疗、教育、公益、设计、SaaS 等。 IT之家获悉，目前 WorkBuddy 企业版已落地 50 多个行业， 覆盖中国企业 500 强中的 50% 。"
+  },
+  {
+   "title": "消息称黄仁勋曾力推 RTX 5080 24GB 显卡安抚游戏玩家，如今英伟达或将其取消",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/028/908.htm",
+   "published": "2026-11-18T08:27:16+00:00",
+   "age_hours": 4.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 18 日消息，黄仁勋突然离职后，许多玩家担心，失去黄仁勋掌舵的英伟达可能会进一步向 AI 业务倾斜，而牺牲游戏显卡业务。 爆料人士 Moore's Law Is Dead（以下简称 MLID）最新披露的一则消息，似乎印证了玩家的担忧：黄仁勋此前曾希望推出一款高端 RTX 5080 显卡，作为给游戏玩家的“安慰”，以弥补 RTX 5090 价格过高、普通玩家难以负担的问题。 MLID 在 YouTube 最新一期《Broken Silicon》播客节目中透露了这一消息，他讨论了近期有关 RTX 5080 24GB 显卡可能取消的传闻。据称，由于 GDDR7 显存芯片价格高昂，"
+  },
+  {
+   "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/510916.html",
+   "published": "2026-11-18T07:24:50+00:00",
+   "age_hours": 5.6,
+   "score": 6.5,
+   "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线"
+  },
+  {
+   "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+   "published": "2026-11-17T23:04:35+00:00",
+   "age_hours": 13.9,
+   "score": 6.5,
+   "summary": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure."
+  }
+ ]
+}

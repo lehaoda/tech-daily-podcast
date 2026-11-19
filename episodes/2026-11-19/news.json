@@ -1,0 +1,234 @@
+{
+ "date": "2026-11-19",
+ "weekday": "星期四",
+ "window_hours": 24,
+ "fetched_at": "2026-11-19T13:01:02.481766+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "A human liver has been kept alive outside the body for a record seven weeks",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
+   "published": "2026-11-19T12:00:00+00:00",
+   "age_hours": 1.0,
+   "score": 7.0,
+   "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor "
+  },
+  {
+   "title": "What a billion-dollar deal says about the US battery market",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
+   "published": "2026-11-19T11:00:00+00:00",
+   "age_hours": 2.0,
+   "score": 7.0,
+   "summary": "After a tough few years littered with some high-profile failures, there’s some positive news for next-generation batteries in the US. Sila just signed an agreement with Panasonic Energy, a global battery manufacturer, to supply silicon-carbon anode material, a possible key to smaller, lighter batter"
+  },
+  {
+   "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/511079.html",
+   "published": "2026-11-19T04:02:39+00:00",
+   "age_hours": 9.0,
+   "score": 7.0,
+   "summary": "11月18日，安谋科技（中国）有限公司举办Arm® Cortex®-M CPU新品说明会"
+  },
+  {
+   "title": "I let Apple’s always-listening AI summarize my life for two weeks",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1037100/apple-siri-recap-audio-intelligence-hands-on",
+   "published": "2026-11-19T13:00:00+00:00",
+   "age_hours": 0.0,
+   "score": 6.5,
+   "summary": "Was it worth it? I've been asking myself this quite a bit over the last month or so while testing both the Amazon Bee Frontier and Siri Recap on the Apple Watch Ultra 4. Both enable a wearable to ambiently listen to your conversations and, using AI, summarize them for you. Why? So you can […]"
+  },
+  {
+   "title": "Canva adds an AI ‘off’ button",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1037126/canva-ai-features-off-button",
+   "published": "2026-11-19T12:30:00+00:00",
+   "age_hours": 0.5,
+   "score": 6.5,
+   "summary": "Canva will now allow you to turn off its generative AI features. With this change, you can disable the graphic design platform's array of AI tools, such as its AI photo-extending Magic Expand feature, as well as turn off the ability to generate images with its Canva chatbot. This toggle doesn't turn"
+  },
+  {
+   "title": "Roblox money is pushing a controversial anorexia treatment",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/features/1034740/ketogenic-diet-anorexia-roblox-medical-funding",
+   "published": "2026-11-19T12:00:00+00:00",
+   "age_hours": 1.0,
+   "score": 6.5,
+   "summary": "In a dark room, a man with a camera makes his pitch: Therapy isn't the first treatment you should get if you have anorexia or bulimia, he says. He's in his late 20s, wearing a backward camo baseball cap and a silver chain. \"Instead of going straight to the therapy, let's do a keto diet […]"
+  },
+  {
+   "title": "Counterpoint：存储成本飙涨，印度高端旗舰手机 2026 年底将较 2025 年涨价超 30%",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/653.htm",
+   "published": "2026-11-19T11:45:02+00:00",
+   "age_hours": 1.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，Counterpoint Research 报告显示，受 AI 数据中心需求拉动 DRAM、NAND 价格持续上涨影响，印度高端旗舰智能手机的价格门槛正从原先的 5 万至 7 万卢比 （IT之家注：现汇率约合 3,566 至 4,993 元人民币） 区间，被迫上移至 10 万卢比 （现汇率约合 7,132 元人民币） 及以上。 存储在智能手机物料成本（BOM）中的占比已从 2025 年初的约 13% 攀升至 40% 以上，迫使手机厂商重新调整产品规格、元器件选型与整体定价策略。 几年前，印度市场定价 10 万卢比以上的旗舰手机仍属少数，如今随着旗舰价格持续走高"
+  },
+  {
+   "title": "马斯克：目前 SpaceX 每个月约新增 0.5GW 算力，明年底将提速至每月 1GW",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/649.htm",
+   "published": "2026-11-19T11:17:43+00:00",
+   "age_hours": 1.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，据《科创板日报》今天报道，马斯克在视频连线采访中表示，目前 SpaceX 每个月大约新增 0.5GW AI 算力。 这大致相当于部署 22 万颗 GB300 芯片 ，以及与之配套的 CPU、网络设备、冷却系统等一整套基础设施。 马斯克认为 SpaceX 真正的扩张瓶颈在发电端，公司明年将进一步提速： 到明年年底 ， 每月新增 AI 算力超 1GW（IT之家注：吉瓦） ，“届时，这些算力或许已经可以名副其实地称为‘超级智能算力’（superintelligence compute）了”。"
+  },
+  {
+   "title": "博帝推出 AI Matrix 系列 DDR5 内存、M.2 SSD，专为端侧 AI 设计",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/645.htm",
+   "published": "2026-11-19T10:58:27+00:00",
+   "age_hours": 2.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，博帝（Patriot）今日宣布推出 AI Matrix 系列 DDR5 内存和 PCIe M.2 2280 NVMe SSD，专为端侧运行大语言模型设计。 IT之家附该系列产品详情如下： PRO 档（适用于 34B 至 70B 参数模型）： AI Matrix MS560 SSD：PCIe Gen 5 x4 M.2 2280 接口，提供 1TB、2TB 和 4TB 容量版本；4TB 版本顺序读取和写入速度最高分别为 14000MB/s 和 11000MB/s。 AI Matrix MD57N DRAM：DDR5 内存，超频状态下速度最高可达 6000MT/s；"
+  },
+  {
+   "title": "零刻上新龙芯 2K3000 版 ME Pro 四盘位 NAS，2015 元起",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/636.htm",
+   "published": "2026-11-19T10:05:48+00:00",
+   "age_hours": 2.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，零刻 (Beelink) 今日推出了 ME Pro 四盘位 NAS 的 龙芯 2K3000 版本 。其预装 Loongnix 操作系统，板载 64GB eMMC，无 DDR4 内存版为 2,015 元。 龙芯 2K3000 提供 8 核 2.2GHz LA364E CPU、LG200 GPU 拥有≥6TOPS 的 INT8 AI 算力，VPU 支持 4K 60FPS。 该 NAS 提供 2 个 M.2 2280 盘位（ 分别支持 PCIe Gen3 ×1 和 SATA ），另有 4 个 3.5\"/2.5\" SATA 盘位；配备瑞昱 RTL8852BE 无线网卡"
+  },
+  {
+   "title": "马斯克：预计未来 12-18 个月 Optimus 人形机器人能做家务劳动",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/616.htm",
+   "published": "2026-11-19T10:01:52+00:00",
+   "age_hours": 3.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，特斯拉 CEO 埃隆 · 马斯克（Elon Musk）今日在视频连线采访中表示，预计未来 12-18 个月，Optimus（擎天柱）人形机器人就能做到倒垃圾、洗碗并将碗碟收进橱柜等家务劳动。 马斯克表示，Optimus 有望在 12 至 18 个月内完成多步骤复杂操作，先用于重工业，再进入家庭。 此外马斯克透露，新一轮 Optimus 人形机器人演示即将到来，预计将在未来一到两个月内举行。与以往不同的是，马斯克特别强调，这次演示必须足够“真实”，让外界看到机器人在日常互动中的实际表现，而不是经过精心编排的展示片段。 马斯克在采访中表示：“Optimus 的进展"
+  },
+  {
+   "title": "德国将网络威胁评估上调为“严峻至危急”：AI 智能体降低攻击门槛",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/609.htm",
+   "published": "2026-11-19T10:00:25+00:00",
+   "age_hours": 3.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，据路透社今天（19 日）下午报道，德国联邦信息安全局（BSI）将信息技术系统面临的威胁上调至“严峻至危急”。该局指出， 智能体 AI 系统让攻击者有了更多可乘之机 。 当地时间 19 日，该局发布的报告称，许多企业和消费者以为自身很安全，低估了实际面临的风险。这项评估每年发布一次，去年该局对形势的判断是“严峻”。 近几个月， 欧洲多地超市的制冷系统、法国的血库和德国的医院 先后因网络攻击而出现运行问题。这些事件凸显了支撑现代经济的各类互联系统面临的威胁。 近几周又一起备受关注的网络安全事件涉及常用编程语言 Java。周三，德国联邦信息安全局和其他国家的政府发出"
+  },
+  {
+   "title": "LG 公布 Smart Monitor Swing AI 可移动智能显示器，升级 AI 处理器",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/562.htm",
+   "published": "2026-11-19T09:47:56+00:00",
+   "age_hours": 3.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，LG 电子当地时间今日面向日本市场公布了新款可移动智能显示器 Smart Monitor Swing AI。这一型号搭载 Alpha 8 AI Processor 4K Gen3 处理器， 支持 AI 驱动音视频优化 。 Smart Monitor Swing AI 基于 31.5\" UHD IPS 显示面板 ，色域 95% DCI-P3，支持 HDR10 规范，允许触控；提供 3 个 USB-C、2 个 HDMI，支持蓝牙连接；运行 webOS 操作系统，提供由 Google Gemini 驱动的 AI 智能体功能。 LG 计划在日本众筹平台 Makuake"
+  },
+  {
+   "title": "荣耀 MagicOS 11 第三批内测机型今启全网升级尝鲜，含 Robot Phone、Magic5 系列等",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/549.htm",
+   "published": "2026-11-19T09:34:41+00:00",
+   "age_hours": 3.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，荣耀产品维护与升级工作人员 @荣耀小芳哥 刚刚宣布，今天 20 点开始，MagicOS 11 第三批内测机型将开启全网升级尝鲜， 无需报名即可升级 。 ▲ IT之家图赏： 荣耀 Robot Phone 机器人手机实拍 IT之家附推送机型如下（升级路径：设置 > 系统和更新 > 软件更新 > 右上角三个点 > 升级尝鲜）： 手机： 荣耀 Robot Phone、Magic Vs3、Magic V2 RSR 保时捷设计、Magic V2 至臻版、Magic V2、Magic5 至臻版、Magic5 Pro、Magic5、GT、300 Ultra、300 Pro、3"
+  },
+  {
+   "title": "Gartner 预测：2027 年全球人工智能支出将突破 4 万亿美元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/546.htm",
+   "published": "2026-11-19T09:26:02+00:00",
+   "age_hours": 3.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，机构 Gartner（高德纳）当地时间本月 12 日发布预测： 全 球人工智能支出将在 2027 年突破四万亿美元关口 ，达到 4.05 万亿美元 （IT之家注：现汇率约合 27.06 万亿元人民币） ，同比增长 47.5%。 这四万亿美元中， 份额最大的是人工智能基础设施支出 ，接近 2.4 万亿美元，增幅 53%；而人工智能基础设施支出中最主要的是人工智能优化服务器的支出，2027 年的水平为 9572 亿美元，对应 81% 同比提升。 与此同时，全球人工智能服务支出将同比增长 29.5%，而人工智能软件支出也将扩大 42%；生成式人工智能模型支出整体将提"
+  },
+  {
+   "title": "AI 是移动网络未来十年最大战略机遇：华为发布下一代核心网演进白皮书，提出 AgenticCore 解决方案",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/540.htm",
+   "published": "2026-11-19T09:02:41+00:00",
+   "age_hours": 4.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，今日，由 Informa Tech 主办的第十一届全球核心网峰会上，华为云核心网产品线总裁高治国发表主题演讲。同时，华为发布《 下一代核心网演进白皮书 》， 提出下一代核心网目标架构与演进路径 。 ▲ 华为云核心网产品线总裁高治国发表主题演讲 高治国指出，未来 5 至 10 年，Agentic AI 将跨越式演进，向全终端、全业务、全场景深度渗透。 移动网络联接对象从人和物拓展至智能体，推动网络服务从基础联接走向智能联接、超越联接 。核心网向下联接终端、向上使能业务，打造先进的下一代核心网，是移动网络把握智能体时代机遇的关键抓手。 华为提出 NGC（Next-"
+  },
+  {
+   "title": "遏制 AI 作弊：韩国安防企业竞相开发智能眼镜探测仪",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/539.htm",
+   "published": "2026-11-19T09:01:42+00:00",
+   "age_hours": 4.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，据韩媒 Etnews 今天报道，随着 AI 智能眼镜作弊逐渐成为社会问题，韩国安防企业开始研发相关探测设备。 据业内消息，韩国两家安防领域企业 K&Us、Gison 正在开发用于查处智能眼镜作弊行为的无线电探测设备。其中，K&Us 计划明年年初完成原型机开发。该设备能够分析蓝牙和 Wi-Fi 信号，识别疑似佩戴智能眼镜的人员。当监考人员打开探测仪并捕捉到可疑信号时，设备便会发出警报。 Gison 则计划在现有无线电检测仪的基础上，开发出分析蓝牙、Wi-Fi 和移动数据的软件。该软件将通过增强现实（AR）技术对可疑无线电信号的位置进行可视化处理，帮助监考人员更轻"
+  },
+  {
+   "title": "全新零跑 Lafa5 开启预售：10.58 万元起，升级全域 800V+3C 快充",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/522.htm",
+   "published": "2026-11-19T08:24:47+00:00",
+   "age_hours": 4.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，@零跑汽车 今天下午宣布，全新零跑 Lafa5 正式开启预售， 预售价为 10.58 万元起 。 新车将迎来多项升级，拥有全域 800V+3C 快充、50 英寸虚实融合 AR-HUD、前排双零重力座椅、标配 FSD 可变阻尼减振等配置。 该车升级 69.7kWh 大电池， 实现 640km CLTC 纯电长续航 ；配备激光雷达 + 高通 8650 高阶辅助驾驶，拥有 28 个智能感知硬件、端到端大模型、40 项辅助驾驶功能；全域 800V 高压平台 +3C 快充，SOC 30-80% 快充仅需 16 分钟。 该车标配 FSD 可变阻尼减振 ，兼顾滤震舒适与过弯"
+  },
+  {
+   "title": "微软高管：Claude 和 ChatGPT 能做的，Copilot 能做的更好且更便宜",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/520.htm",
+   "published": "2026-11-19T08:19:14+00:00",
+   "age_hours": 4.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，据彭博社报道，微软表示，企业客户之所以选择旗下 Copilot 人工智能助手，而不是 Anthropic 的 Claude 和 OpenAI 的 ChatGPT，一个重要原因是 Copilot 的使用成本更低。 微软商业业务首席执行官贾德森 · 阿尔索夫（Judson Althoff）周二在公司年度用户大会 Ignite 的主题演讲中表示：“Claude 或 ChatGPT 能完成的任何任务，Copilot 都能做得更好，而且成本更低。” 今年以来，人工智能成本快速攀升，已成为大型企业重点关注的问题。微软正试图通过降低 Copilot 的使用成本应对这一挑战，"
+  },
+  {
+   "title": "英伟达确认：黄仁勋时代“T5T 邮件”企业文化将继续保留",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/519.htm",
+   "published": "2026-11-19T08:16:27+00:00",
+   "age_hours": 4.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，据《商业内幕》今天（19 日）清晨报道，英伟达员工早已习惯每天收到大量邮件，而前 CEO 黄仁勋更是以每天阅读数千封邮件闻名，一旦发现问题，还会直接参与邮件讨论。 根据英伟达 GPU 工程高级副总裁乔纳 · 阿尔本在内部会议上的发言，黄仁勋离任后， 公司将保留这一传统 。 据IT之家了解，英伟达有一项名为 T5T 的邮件制度，意为“最重要的五件事（Top 5 Things）”，也是公司文化的重要组成部分。员工需要通过邮件向其他团队和高管广泛 分享自己的工作进展、关注的问题以及遇到的困难 ，以减少管理层级带来的沟通障碍，让公司日常运营更加透明。 在当地时间 18"
+  },
+  {
+   "title": "联想杨元庆：终端市场有巨大增长机会，80% 算力将产生于“端边”",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/518.htm",
+   "published": "2026-11-19T08:16:05+00:00",
+   "age_hours": 4.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，据新浪科技今天报道，联想集团董事长兼 CEO 杨元庆在公司 2026/27 财年第二季度业绩沟通会上，谈到终端设备市场的长期趋势。他表示：“ 我们认为普惠的阶段刚刚开始 ，终端设备市场孕育着巨大的增长机会。” IT之家从原报道获悉，杨元庆认为，人们现在已经进入智能体时代。在这个时代，终端设备是 AI 数据和场景的发生地，同时也是端侧算力的承载者。未来海量的算力将不仅仅产生于云端， 预计多达 80% 的算力将产生于端侧和边缘侧 。 杨元庆表示，AI 原生终端设备将层出不穷，如 AI 眼镜、智能指环等新形态产品，有望以 AI 技术优化体验，成为个人或家庭的智能中心"
+  },
+  {
+   "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/511180.html",
+   "published": "2026-11-19T08:18:30+00:00",
+   "age_hours": 4.7,
+   "score": 6.5,
+   "summary": "媒体均分登顶历史第一，细节多到爆炸"
+  },
+  {
+   "title": "曝华为 Mate 90 Air 新机支持三摄全焦段红枫影像，“6 开头”厚度刷纪录",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/517.htm",
+   "published": "2026-11-19T08:12:55+00:00",
+   "age_hours": 4.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，华为今日官宣旗下最薄 Mate 直板机 —— 华为 Mate 90 Air 轻薄旗舰，新机将于 11 月 24 日 14:30 举行的 HUAWEI Mate X8 及全场景新品发布会亮相。 博主 @数码闲聊站 今日发文透露， 华为 Mate 90 Air 新机配备一块 7 英寸等深四曲屏 ，后置居中大圆 Deco， 支持三摄全焦段红枫影像 。 博主表示，该机采用侧边指纹设计， 厚度来到了“6 开头”刷新纪录 ，并配备有 66W 快充头，提供 12GB+256GB 和 12GB+512GB 规格。 据IT之家了解，目前华为 Mate 90 Air 已上线官网，"
+  },
+  {
+   "title": "12 月 10 日上市，三星 AI 眼镜 Intelligent Eyewear 预售数小时便售罄",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/515.htm",
+   "published": "2026-11-19T08:07:54+00:00",
+   "age_hours": 4.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，三星电子与谷歌、Gentle Monster 联合推出的人工智能眼镜“Intelligent Eyewear”，尚未正式上市便取得了不错的市场反响，关键型号在预售开启后数小时内便售罄。 韩国眼镜品牌 Gentle Monster 宣布，“Intelligent Eyewear”的核心款式在韩国、美国及其他市场开启预售数小时内便售罄。目前，消费者可在官方线上店铺预约，以便在第二轮预售开启时收到通知。 这款产品最大的亮点，是将谷歌最新的人工智能模型 Gemini 引入眼镜这一产品形态。 Intelligent Eyewear 重量约为 41 克，镜框内置摄像头、扬"
+  },
+  {
+   "title": "史上最大 IPO 带来新一轮造富神话：Anthropic 上市或催生数千名百万富翁",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/029/509.htm",
+   "published": "2026-11-19T07:43:22+00:00",
+   "age_hours": 5.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 19 日消息，据路透社今天（19 日）上午报道，随着 AI 初创企业 Anthropic 的上市，数千名现任和前员工有望 凭借手中的公司股票成为百万美元富翁 ，就算这些财富暂时还停留在账面上也无妨。此次 IPO 有望成为硅谷历史上规模最大的员工造富事件之一。 Anthropic 的员工有望迎来巨额财富增长，受益者不仅包括早期研究人员和工程师，还包括获得股权激励的行政人员。 Anthropic 招股书披露了员工股权奖励的整体价值，却没有说明这些财富具体如何分配，因此外界对于员工能够获得多少财富，估算结果差异很大。 旧金山非上市公司股权交易平台 Hill 预计，Anthropi"
+  }
+ ]
+}

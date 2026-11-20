@@ -1,0 +1,234 @@
+{
+ "date": "2026-11-20",
+ "weekday": "星期五",
+ "window_hours": 24,
+ "fetched_at": "2026-11-20T13:01:02.774742+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/511610.html",
+   "published": "2026-11-20T08:04:58+00:00",
+   "age_hours": 4.9,
+   "score": 7.5,
+   "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。"
+  },
+  {
+   "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/511582.html",
+   "published": "2026-11-20T05:24:11+00:00",
+   "age_hours": 7.6,
+   "score": 7.0,
+   "summary": "已开源Agnes Harness"
+  },
+  {
+   "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/511426.html",
+   "published": "2026-11-20T01:07:38+00:00",
+   "age_hours": 11.9,
+   "score": 7.0,
+   "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。"
+  },
+  {
+   "title": "Signal is blocking Gemini and Siri AI from reading your screen",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
+   "published": "2026-11-20T12:30:47+00:00",
+   "age_hours": 0.5,
+   "score": 6.5,
+   "summary": "Signal is restricting the ability to take screenshots on Android and iOS devices in an effort to prevent AI agents from reading users' messages and other data. The agentic AI capabilities built into operating systems that analyze on-screen information to learn more about the user are \"undermining Si"
+  },
+  {
+   "title": "滑雪逃离北极熊追杀：极地末日生存游戏《POLYARIS》宣布明年 1 月 20 日登陆 Steam",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/233.htm",
+   "published": "2026-11-20T12:21:00+00:00",
+   "age_hours": 0.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，独立开发团队 Magic Pie 宣布旗下开放世界生存游戏《POLYARIS》将于 2027 年 1 月 20 日登陆 Steam 平台，IT之家附游戏商品页（ https://store.steampowered.com/app/2979810/POLYARIS/ ?snr=1_5_1100__1100&utm_source=steamwidget ）。 据介绍，《POLYARIS》是一款融合滑雪、制作与生存玩法的开放世界游戏。故事发生在一场核弹袭击后的世界，主角乘坐的飞机意外坠毁，被困在挪威与俄罗斯边境的极寒地带，却也因此侥幸躲过了核爆的直接冲击。 由于与"
+  },
+  {
+   "title": "玩家在《极限竞速：地平线 6》中偶遇已故好友 Drivatar AI 车手，得以再次“并肩驾车”重温昨日时光",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/231.htm",
+   "published": "2026-11-20T12:14:02+00:00",
+   "age_hours": 0.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，《极限竞速：地平线 6（Forza Horizon 6）》玩家 Samohteht 近日分享了一段令人动容的游戏经历。他在游戏中意外遇见了 4 个月前离世的好友留在游戏里的 Drivatar AI 车手，两人得以再次并肩驾车巡航，这段视频在社交平台引发广泛关注，也让不少玩家想起了自己曾通过游戏与故人重逢的经历。 参考 Samohteht 在 Instagram 发布的视频。画面中，他驾车时遇见了好友 Mabel1411 留在游戏里的 Drivatar。随后，两辆车并排行驶，仿佛两人从未天人永隔。 Samohteht 表示：“我最好的朋友在 4 个月前离开了。每"
+  },
+  {
+   "title": "开发者将櫻井政博游戏制作教程整合为 Skill 技能，可供各类 AI 智能体调用",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/228.htm",
+   "published": "2026-11-20T11:55:46+00:00",
+   "age_hours": 1.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，日本开发者 kociden 近日在 GitHub 上公开了一款名为「sakurai-skill」的非官方项目，将知名游戏制作人樱井政博 YouTube 频道《樱井政博的游戏制作》（桜井政博のゲーム作るには）全 257 集正片及特别合作视频的字幕内容，整理为 AI 智能体 Skill 技能文件，用于辅助开发。 公开信息显示，《樱井政博的游戏制作》是《星之卡比》和《任天堂明星大乱斗》系列制作人樱井政博开设的 YouTube 频道，于 2024 年 10 月 22 日结束更新。频道主要分享樱井政博多年积累的游戏开发经验与设计理论，共推出 256 集正片及 3 集特别"
+  },
+  {
+   "title": "三年销售目标 700 亿，京东与华为 OSTA 星芒达成战略合作",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/227.htm",
+   "published": "2026-11-20T11:51:33+00:00",
+   "age_hours": 1.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，华为全新子品牌“OSTA 星芒”今日正式亮相，“首款为 AI 而生的鸿蒙手机”OSTA O1 Pro 同步发布，首发价 5499 元起。 IT之家获悉，近日，京东与华为 OSTA 星芒签署战略合作协议， 明确未来三年华为 OSTA 星芒在京东实现全品类销售额 700 亿的目标 。 根据协议，双方将围绕产品服务、用户运营、AI 生态协同三大维度深化合作，助力华为 OSTA 星芒加速市场拓展，推动智能终端产品与 AI 服务创新，为消费者带来更丰富的产品与服务体验。 此外，双方将 共创更多基于鸿蒙操作系统的 AI 创新产品 ，并通过一体化供应链能力与全渠道服务场景协"
+  },
+  {
+   "title": "影石 Mic Pro、Wave 两款麦克风获升级，可原生接入腾讯 WorkBuddy",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/221.htm",
+   "published": "2026-11-20T11:19:32+00:00",
+   "age_hours": 1.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，影石官方宣布，即日起，影石 Insta360 旗下旗舰级无线麦克风 Mic Pro 与 AI 录音全向麦克风 Wave 完成免费固件升级，原生接入腾讯 WorkBuddy。 升级后，Mic Pro 的录音可 直接进入 AI 工作流 ，影石的音频产品也从「记录工具」延伸为 AI 办公的语音入口。 影石方面称，Mic Pro 和 Wave 凭借专业拾音与 AI 降噪能力，帮助用户清晰捕捉真实工作场景中的声音。WorkBuddy 则 进一步理解录音内容，调用 AI Agent 完成信息整理与任务处理 。AI 不再局限于电脑中的文字输入，更能自然地参与现实世界的沟通与"
+  },
+  {
+   "title": "DeepSeek 新一轮千亿级融资落地，梁文锋保留绝对控制权",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/199.htm",
+   "published": "2026-11-20T10:47:45+00:00",
+   "age_hours": 2.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，工商信息显示，DeepSeek 运营主体杭州深度求索人工智能基础技术研究有限公司近日完成工商变更，新增股东杭州程砚企业管理咨询合伙企业（有限合伙）。 IT之家查询国家企业信用信息公示系统获悉，杭州深度求索注册资本由 1644.7496 万元增至 1991.8707 万元，增加 347.1211 万元，增幅约 21.1%。 据证券时报援引知情交易人士消息， DeepSeek 本轮融资募资规模区间在 1000 亿元至 1055 亿元 ，投后估值约 6155 亿元。叠加 2026 年 6 月首轮约 510 亿元融资，市场测算其短时间内两轮累计吸纳资金将超 1500 "
+  },
+  {
+   "title": "自家人都看不下去了？数百谷歌员工要求公司允许中小学使用不含 AI 的谷歌搜索",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/197.htm",
+   "published": "2026-11-20T10:42:22+00:00",
+   "age_hours": 2.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，当地时间 19 日，据彭博社报道，超过 500 名谷歌员工和合同工联名请愿，要求公司允许中小学继续使用不含 AI 功能的谷歌搜索。 请愿书致谷歌 CEO 桑达尔 · 皮查伊、搜索业务负责人伊丽莎白 · 里德和教育业务负责人克里斯 · 菲利普斯。活动由 Alphabet 员工工会发起，其代表着 Alphabet 及旗下谷歌、YouTube 等公司的全职员工、临时工、供应商人员和合同工。 员工在请愿书中警告：如果学校不愿使用 AI，就不让它们使用谷歌搜索， 只会让谷歌更难说服用户 ，学校甚至可能因此彻底弃用谷歌产品。 此前，谷歌决定扩大校园 AI 服务的覆盖范围，"
+  },
+  {
+   "title": "小米 MiMo：Token Plan 的 Pro / Max 套餐限时支持 UltraSpeed 超高速推理模型",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/193.htm",
+   "published": "2026-11-20T10:11:05+00:00",
+   "age_hours": 2.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，小米 MiMo 官方文档显示，11 月 19 日起， Token Plan 限时支持 UltraSpeed 超高速旗舰推理模型 。 Token Plan 的 Pro / Max 套餐现已限时开放和支持 MiMo-V2.6-Pro-UltraSpeed 超高速推理模型，兼具旗舰级智能与更快的响应速度，模型调用更高效、交互体验更流畅。 据介绍，MiMo-V2.6-Pro-UltraSpeed 兼顾 V2.6-Pro 性能， 提供最高 20 倍输出速度 ；适合量化交易、实时风控、科学研究、实时编程辅助等场景。 IT之家附小米 MiMo Token Plan 个人版价"
+  },
+  {
+   "title": "消息称林俊旸从阿里离职后创办的 AI 公司语用科技完成新一轮融资，估值达 50 亿美元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/176.htm",
+   "published": "2026-11-20T09:59:30+00:00",
+   "age_hours": 3.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，据彭博社报道，林俊旸（yáng）从阿里离职后，今年夏天创立的语用科技 Pragmatik Labs 已完成新一轮融资， 估值达 50 亿美元 （IT之家注：现汇率约合 334.6 亿元人民币） 。 知情人士透露，语用科技在近期完成的一轮融资中筹集了数千万美元。今年 8 月，该公司在数亿美元的首轮融资中获得 20 亿美元 （现汇率约合 133.84 亿元人民币） 估值。 知情人士称，新晋投资方包括华业天成资本（HyT Capital）、鼎晖投资（CDH Investments）以及汽车制造商吉利汽车控股有限公司。 公开资料显示，出生于 1993 年的林俊旸，曾是"
+  },
+  {
+   "title": "法院批准交易，谷歌 1000 万美元收购精神航空数据过关",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/137.htm",
+   "published": "2026-11-20T09:40:55+00:00",
+   "age_hours": 3.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，据外媒 The Record 报道，美国纽约联邦破产法官当地时间 17 日批准 Google（谷歌）收购破产廉价航空公司 Spirit Airlines（精神航空）企业数据。 该交易价值 1,000 万美元 （IT之家注：现汇率约合 6,692 万元人民币） 。 这些数据将用于改进谷歌的产品与人工智能模型 。 图源：Pexels 虽然谷歌在交易伊始就表示将对该批数据进行匿名化处理，但该交易仍一度遭遇空乘工会和美国国会议员的强烈反对。 为使这项交易被放行，谷歌表示将排除精神航空员工的医疗健康数据、安全纪律记录、身份证明文件等敏感信息，严格进行去标识化处理并需通过"
+  },
+  {
+   "title": "今年前三季度我国数字产业收入超 32 万亿元，同比增长 14.8%",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/135.htm",
+   "published": "2026-11-20T09:34:36+00:00",
+   "age_hours": 3.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，据央视新闻今天（20 日）下午报道，前三季度，我国数字产业整体延续向优向好发展态势，收入增速加快，盈利水平持续提升，电子产品对外出口延续强劲增势，人工智能创新迭代提速，智能终端产品密集发布，产业新动能加速积蓄，为稳定经济增长、培育发展新质生产力、赋能千行百业数智转型提供有力支撑。 一、发展质效持续提升 IT之家从数据中获悉， 前三季度，数字产业实现收入 32.41 万亿元，同比增长 14.8%，增速较上年同期加快 5.2 个百分点。 其中，制造业部分实现收入 19.32 万亿元，同比增长 20.5%，服务业部分实现收入 13.09 万亿元，同比增长 7.3%。"
+  },
+  {
+   "title": "群联推出 Pascari Space：为太空存储打造定制固态硬盘",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/134.htm",
+   "published": "2026-11-20T09:25:17+00:00",
+   "age_hours": 3.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，固态硬盘与其控制器制造商群联 (Phison) 近日在 SC26 上推出了 Pascari Space。这一全新的产品类别旨在 为商业航天和轨道基础设施打造满足严苛环境要求的存储解决方案 。 群联表示，通过其 IMAGIN+ 设计服务定制的 Pascari SSD 已经达到 TRL-9 级别，成功完成了发射、地月运输，并作为商业月球有效载荷的一部分抵达月球表面。而 Pascari Space 产品线也将基于相同的工程技术。 Pascari Space 大致可划分为飞行关键、主存储、轨道数据中心三条产品线，额定温度范围依次收缩。群联可根据每次任务的内容 定制存储"
+  },
+  {
+   "title": "AMD XDNA2 NPU 率先获得 Unsloth Desktop 适配，支持超百款智能体",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/131.htm",
+   "published": "2026-11-20T09:13:35+00:00",
+   "age_hours": 3.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，AMD 当地时间 19 日宣布，其锐龙 AI 处理器上的 \"XDNA 2\" NPU 成为 首款获得 Unsloth Desktop 本地界面支持的神经网络处理器 。 具体来看，兼容的应用程序向 Unsloth Desktop API 发送模型请求，而 Lemonade 和 FastFlowLM 则在 AMD XDNA 2 NPU 上处理模型服务和推理。模型的响应返回给应用程序，供其工作流程使用。 这意味着 OpenClaw、Hermes 等超百款智能体可通过 Unsloth Desktop 在锐龙 AI 处理器的 NPU 上本地运行， 从 CPU 和 GPU "
+  },
+  {
+   "title": "Anthropic 上市当天，离职研究员考克森在其总部外呼吁禁止 AI 递归自我改进",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/127.htm",
+   "published": "2026-11-20T09:06:53+00:00",
+   "age_hours": 3.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，据《商业内幕》报道，今年 9 月，Anthropic 前研究员雅各布 · 考克森 因担忧 AI 发展而离职 ，并在美国引发了对 AI 技术的广泛恐慌。时间来到当地时间 19 日，随着 Anthropic 股票首次上市交易，考克森再次呼吁公众关注 AI 安全问题。 这次，他在接受采访时强调：“ 他们买不买股票根本不重要。我们必须阻止递归自我改进 。” IT之家注：“递归自我改进”指 让先进 AI 系统参与训练下一代 AI ，从而推动 AI 能力不断提升。 当天，考克森与数十名抗议者聚集在 Anthropic 旧金山总部外，要求禁止有关技术。 抗议者举着标语、高喊"
+  },
+  {
+   "title": "支持华为 OSTA 星芒 O1 Pro 手机满速充电：华为 66W 冰糖全能充电器 89 元国补发车",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/126.htm",
+   "published": "2026-11-20T08:58:11+00:00",
+   "age_hours": 4.0,
+   "score": 6.5,
+   "summary": "华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机现已开启预约，首发国补价 4999 元今天 18:08 开抢。 京东 华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机 4999 元起 18:08 开抢 直达链接 本次手机包装内并不附赠充电器，华为 66W 冰糖全能充电器日常 99 元，今日天猫旗舰店部分地区国补后仅需 89 元： 天猫 华为 冰糖全能充电器 Max 66W 国补后 89 元限地区 直达链接 手机包装清单： 手机 (内置电池) × 1 USB Type-C 数据线 × 1 透明保护壳 × 1 快速指南 × 1 取卡针 × 1 保护膜 (出厂已贴在手机上) × 1"
+  },
+  {
+   "title": "5499 元起，“首款为 AI 而生的鸿蒙手机”华为星芒 OSTA O1 Pro 阔直板正式发布",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/120.htm",
+   "published": "2026-11-20T08:43:27+00:00",
+   "age_hours": 4.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日现场消息，在目前正在进行的华为鸿蒙智行享界 V8 及星芒品牌发布会中，华为星芒 OSTA O1 Pro 正式亮相，该机采用了具有辨识度的阔直板设计，IT之家整理价格信息如下： 12GB RAM+256GB 存储空间：5699 元，首发价 5499 元 12GB RAM+512GB 存储空间：6699 元，首发价 6499 元 16GB RAM+512GB 存储空间：7499 元，首发价 7299 元 16GB RAM+1TB 存储空间：8999 元，首发价 8799 元 该机厚度 6.68mm，重量约 200g，提供星芒紫、星云白、星空黑三款配色可选。配备一块 6."
+  },
+  {
+   "title": "4999 元起 18:08 开抢：华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机首发加赠 1588 元无忧礼包",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/116.htm",
+   "published": "2026-11-20T08:38:39+00:00",
+   "age_hours": 4.4,
+   "score": 6.5,
+   "summary": "华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机京东现已开启预约，今天 18:08 截止预约后 立即开抢 。 支持 12 期免息，教育优惠 100 元，预约下单加赠官方礼盒 + 1588 元无忧礼包。 每人每 90 天内限购 2 单哦： 京东 华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机 4999 元起 18:08 开抢 直达链接 官方定价 5699 元起，首发立减 200 元，叠加 500 元国补，实付仅需 4999 元起。 1588 元无忧礼包内含： 京东 华为 OSTA 星芒 O1 Pro 鸿蒙 AI 手机 18:08 开抢 直达链接"
+  },
+  {
+   "title": "鸿蒙全新版本来袭！华为星芒 OSTA O1 Pro 官宣首搭 HarmonyOS 7 AI 先锋版系统",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/101.htm",
+   "published": "2026-11-20T08:34:20+00:00",
+   "age_hours": 4.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日现场消息，在今天下午的鸿蒙智行享界 V8 及星芒品牌发布会上，华为官方宣布，星芒开山之作 —— OSTA O1 Pro 是首款为 AI 而生的鸿蒙手机。 IT之家从发布会现场了解到， 华为星芒 OSTA O1 Pro 还官宣首搭 HarmonyOS 7 AI 先锋版系统 ，支持全新 AI 交互、系统主动智能和长期陪伴成长。 值得一提的是， 华为星芒 OSTA O1 Pro 还搭载了业界首个系统级 AI 屏 ：开屏即用，一步直达。"
+  },
+  {
+   "title": "SK 海力士将可转债转为股票，间接持有铠侠 14.1% 股份成第一大股东",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/096.htm",
+   "published": "2026-11-20T08:33:35+00:00",
+   "age_hours": 4.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，据韩联社报道，SK 海力士今日发布公告称，将把特殊目的公司 SPC2 发行的 1,290 亿日元 （IT之家注：现汇率约合 54.03 亿元人民币） 可转换债券转换为 12.9 万股普通股。 此外，SK 海力士决定以 1 亿日元 （现汇率约合 418.8 万元人民币） 进一步收购美国私募股权基金贝恩资本（Bain Capital）持有的 1001 股 SPC2 普通股。 转换完成后， SK 海力士将通过 SPC2 间接持有铠侠 14.1% 的股份，成为其第一大股东 。截至本月初，第二大股东为持股 10.46% 的东芝。 SK 海力士相关人士表示：“此次债转股并"
+  },
+  {
+   "title": "微软公布 USB4 多 Win11 电脑协同 AI 方案，搭积木式叠加内存 / 显卡算力跑本地模型",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/081.htm",
+   "published": "2026-11-20T08:25:51+00:00",
+   "age_hours": 4.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日消息，微软昨日（11 月 19 日）发布博文，宣布以开发者预览方式， 推出基于 USB4 的远程直接内存访问（RDMA）体验，实现多台 Windows 11 电脑合力跑 AI 模型体验。 IT之家注：RDMA 是让一台电脑能够高效地向另一台电脑中获授权的内存区域读写数据，减少操作系统和 CPU 在数据搬运过程中的介入，主要优势是低延迟、高吞吐和较低的 CPU 占用。 根据官方描述，两台或多台符合要求的电脑通过 USB4 线缆连接后，无需另购专用 RDMA 网卡或配置交换机，可借助兼容的推理框架，调动各自的内存和 GPU 算力，共同运行一个 AI 模型。 在延迟方面，"
+  },
+  {
+   "title": "华为全新子品牌星芒 OSTA 正式登场，余承东称目标成为 AI 时代消费者喜爱的先锋科技品牌",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/068.htm",
+   "published": "2026-11-20T08:22:06+00:00",
+   "age_hours": 4.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 20 日现场消息，在今天下午的鸿蒙智行享界 V8 及星芒品牌发布会上， 大家期待已久的华为全新子品牌星芒 OSTA 正式登场 。 华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东表示， 华为星芒将主打原创（Original）、智能（Smart）、科技（Technology）和触手可及（Accesible）等特性 。 余承东表示，华为 OSTA 星芒目标是成为 AI 时代消费者喜爱的先锋科技品牌。 IT之家稍后将带来华为星芒开山之作 —— OSTA O1 Pro 新机更多信息。"
+  }
+ ]
+}

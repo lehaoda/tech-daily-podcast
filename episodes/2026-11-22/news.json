@@ -1,0 +1,234 @@
+{
+ "date": "2026-11-22",
+ "weekday": "星期日",
+ "window_hours": 24,
+ "fetched_at": "2026-11-22T13:01:02.055742+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "B站就“AI 大肥鱼”智能体账号泛滥发布调查问卷，征集治理意见",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/702.htm",
+   "published": "2026-11-22T11:44:18+00:00",
+   "age_hours": 1.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 22 日消息，近期B站出现大量爱好者设置的 AI 智能体账号，这些账号通常以“大肥鱼”“小飞鲸”等昵称，使用 DeepSeek 鲸鱼娘等形象作为头像，在评论区广泛活跃。 对此，B站官方账号“哔哩哔哩社区小管家”于 11 月 20 日发布《关于 AI“大肥鱼”你怎么看？》治理意见征询，面向用户征集对 AI 账号及相关行为的意见，并表示将根据反馈推进后续治理行动。 IT之家注意到，AI 智能体“井喷”现象最初源自一位爱好者创建的“Claude 大小姐在运营”账号，该账号选题、视频制作及日常运营均由 AI 完成。在引起一定反响后，平台开始陆续出现“DeepSeek 鲸鱼娘在运营”"
+  },
+  {
+   "title": "开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/699.htm",
+   "published": "2026-11-22T11:24:43+00:00",
+   "age_hours": 1.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 22 日消息，开发者 WollyMonjac 完成了一项颇具复古科技色彩的项目：将一个语言模型塞进软盘，让运行 DOS 系统的 486DX 和 Pentium 老电脑也能使用 AI。 不过需要说明的是，WollyMonjac 开发的 Tiny 2.1 并不是大型语言模型（LLM）。尽管它采用了与大型模型相同的 Transformer 架构，但开发者对它的定位相当朴素：一个使用 Turbo C 2.0 编写的微型问答 Transformer 模型。 在 486 电脑时代，普通 PC 格式化软盘的存储容量还不到 147.5 万字节，因此想要在如此有限的空间内运行现代 AI 软件"
+  },
+  {
+   "title": "郭明錤：谷歌削减 2027 年博通设计的 TPU 8i 系列出货量约 100 万颗",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/698.htm",
+   "published": "2026-11-22T11:20:07+00:00",
+   "age_hours": 1.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 22 日消息，天风国际证券分析师郭明錤在 X 发文，其最新的产业调查显示，谷歌削减了 2027 年、由博通设计的 TPU 8i 系列共约 100 万颗（以单价较高的 8i Max / Whalefish 为主）。 IT之家获悉，此次削减约占 2027 年 TPU 8i 系列芯片 出货量的 20% 。 调查还指出，谷歌预计增加 2027 年由联发科设计的 TPU 8t 系列出货，但细节尚未确定。 郭明錤称谷歌近几个月反复强调前沿模型研发优先取得算力，此次 8t 与 8i 系列出货比重的改变， 正是在供应链紧张与资料中心供电受限下所做的调整 。 另据韩媒 Chosun Biz "
+  },
+  {
+   "title": "闲鱼：2026 年第二季度日活增加 23%、订单增加 29%，AI 成核心增长动力",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/692.htm",
+   "published": "2026-11-22T10:54:53+00:00",
+   "age_hours": 2.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 22 日消息，闲鱼表示，2026 年第二季度平台延续强劲增长势头， 日均活跃用户同比增长 23%，订单量同比增长 29% 。平台在 AI 加持及持续创新服务下，令个人用户、小微卖家的交易更加频繁便捷。 闲鱼表示，今年以来，AI 技术在平台交易全链路的落地补齐了普通用户的经营短板，成为拉动本季度订单量增长的核心动力。财报披露，智能定价、自动生成商品描述及精准买家匹配等 AI 功能，大幅降低了交易门槛。 阿里巴巴集团副总裁、闲鱼 CEO 谌伟业透露，过去一年已有超 150 万用户在闲鱼获得持续稳定的收入，其中约四成是 00 后和大学生。随着 App 向智能体演进，闲鱼买卖双端智"
+  },
+  {
+   "title": "小鹏 G9L 在泰国、印尼上市，售价折合人民币超 47 万元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/687.htm",
+   "published": "2026-11-22T10:33:14+00:00",
+   "age_hours": 2.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 22 日消息，据小鹏集团消息，小鹏近日在泰国曼谷、印度尼西亚雅加达同步发布小鹏 G9L，两地售价分别折合人民币约 47.15 万元和 47.6 万元。这是小鹏首次在两个东南亚核心市场同步推出同一款旗舰车型。 在智能驾驶方面，小鹏 G9L 搭载图灵 AI 芯片，并具备全栈智能驾驶技术能力，为应对雅加达城市拥堵、曼谷复杂混合交通等场景提供硬件基础，持续降低用户日常驾驶负担。 在能源补给方面，全域 800V 高压平台与 5C 超充技术兼顾高效补能与长途出行需求，缓解用户对充电效率和续航的顾虑，让跨城出行更加从容。 在空间与舒适性方面，六座大空间布局兼顾家庭多人出行、商务接待及日常"
+  },
+  {
+   "title": "报告：美国会计行业 AI 采用率高，但技术整合成熟度不足",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/679.htm",
+   "published": "2026-11-22T09:58:03+00:00",
+   "age_hours": 3.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 22 日消息，会计师正在成为观察人工智能如何改变职场的一个意想不到的样本。 据IT之家了解，由于会计工作具有流程固定、数据密集等特点，会计事务所一直是较早采用人工智能技术的行业之一，也经常被列为最容易受到 AI 冲击、面临岗位替代风险的行业。 不过，一份最新报告显示，会计行业还反映出 AI 发展中的另一个重要问题： 技术宣传所描绘的前景，与企业实际应用情况之间存在明显差距。 周三，沃尔特斯克鲁威尔税务与会计（Wolters Kluwer Tax & Accounting）发布《面向未来的会计师》（Future Ready Accountant）报告。报告指出，企业对 AI "
+  },
+  {
+   "title": "菲尔兹奖得主梅纳德谈“AI 攻克黎曼猜想”：相信证明正确，但成果被人理解、才可能得到认可",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/677.htm",
+   "published": "2026-11-22T09:35:58+00:00",
+   "age_hours": 3.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 22 日消息，当地时间 11 月 20 日，Anthropic 数学家莱文特 · 阿尔珀格（Levent Alpöge）宣布，自己与 AI 模型 Claude 合作，攻克了数学界最著名的难题之一 —— 黎曼猜想。 据IT之家此前报道，11 月 21 日，Lean 与 Mathlib 社区发布联合声明，以 Lean 库形式给出的黎曼猜想证明已经通过核验，该证明的代码约 1700 万行。 据每日经济新闻报道，2022 年菲尔兹奖得主、牛津大学数学教授詹姆斯 · 梅纳德（James Maynard）接受采访时表示，他认为这项证明是正确的，但强调“理解一个定理为什么成立，远比仅仅证"
+  },
+  {
+   "title": "马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/628.htm",
+   "published": "2026-11-22T08:47:38+00:00",
+   "age_hours": 4.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 22 日消息，深度学习领域开源项目 Keras 创始人弗朗索瓦・肖莱（François Chollet）在 X 上发文称，要么你认为 AI 基础设施建设已经结束，AI 只是一场昙花一现的泡沫，且算力需求已经见顶；要么，这就是一次难得的买入机会。 弗朗索瓦称，GPU 现货价格仍在上涨，产能难以保障，HBM 和 DRAM 到 2029 年的产能基本已被订满，芯片和存储供应预计将持续紧张，一直延续到 2030 年代。前沿模型的训练算力约每 5 个月翻一番，模型能力提升速度是推理模型出现前的两倍以上。AI 推理业务的利润率可达 70% 至 85%，需求仍在快速增长，每一代新模型都会"
+  },
+  {
+   "title": "Hidisc Sound Glasses 轻量化蓝牙音频眼镜发布：10mm 扬声器、5.5 小时续航，3980 日元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/623.htm",
+   "published": "2026-11-22T08:39:48+00:00",
+   "age_hours": 4.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 22 日消息，制造商 Hidisc 宣布推出一款 Sound Glasses 轻量化蓝牙音频眼镜，该产品搭载蓝牙 6.0 技术、配有开放式扬声器，售价为 3,980 日元 （IT之家注：现汇率约合 167.5 元人民币） 。 与如今功能日益复杂的智能眼镜不同，这款产品没有摄像头、AI 助手等功能，而是专注于提供基础的无线音频体验。其镜腿内置 10mm 扬声器，采用开放式音频设计，支持蓝牙 6.0，但音频编码仅支持标准 SBC 格式。 这款眼镜配备触控区，用户可以通过触摸镜腿实现音乐播放、切换曲目和接听电话等操作。产品还具备 IPX5 级防水能力，可以应对日常出汗或意外淋雨等"
+  },
+  {
+   "title": "华为星芒 OSTA O1 Pro 新机星闪 E2.0 规格确认，支持电竞专链、精确查找等功能",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/600.htm",
+   "published": "2026-11-22T07:40:10+00:00",
+   "age_hours": 5.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 22 日消息，在 20 日下午发布的首款为 AI 而生的鸿蒙手机 —— 星芒 OSTA O1 Pro ， 华为官网确认其支持星闪 E2.0 技术 。 此外，华为官网星闪功能支持设备清单还揭示了 OSTA O1 Pro 的具体功能支持情况： OSTA O1 Pro 星闪功能支持一览 产品型号 星闪 星闪音频 星闪车钥匙 星闪精确查找 星闪手写笔 / 键盘 / 鼠标 连接支持星闪功能的手表 星闪电竞专链 星闪 K 歌耳返功能 查找端 被查找端 关机查找 关机响铃 手写笔 键盘 & 鼠标 OSTA O1 Pro 星闪 E2.0 支持 支持 支持 支持 支持 不支持 支持 支持 支"
+  },
+  {
+   "title": "Here are the top AI agents that can live in your text messages",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "published": "2026-11-21T17:00:00+00:00",
+   "age_hours": 20.0,
+   "score": 6.5,
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work."
+  },
+  {
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "published": "2026-11-21T16:00:00+00:00",
+   "age_hours": 21.0,
+   "score": 6.5,
+   "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too."
+  },
+  {
+   "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/511870.html",
+   "published": "2026-11-22T06:03:54+00:00",
+   "age_hours": 7.0,
+   "score": 6.0,
+   "summary": ""
+  },
+  {
+   "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+   "published": "2026-11-21T22:12:41+00:00",
+   "age_hours": 14.8,
+   "score": 6.0,
+   "summary": "Director Takashi Yamazaki ups the ante by pitting Godzilla against one of the monster's greatest foes"
+  },
+  {
+   "title": "Amazon is complaining about NYC Council on shipping labels, too",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+   "published": "2026-11-21T21:59:31+00:00",
+   "age_hours": 15.0,
+   "score": 6.0,
+   "summary": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protection Act would effectively ban the sort of third-p"
+  },
+  {
+   "title": "The UN fails to agree on rules regulating ‘killer robots’",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "published": "2026-11-21T20:03:37+00:00",
+   "age_hours": 17.0,
+   "score": 6.0,
+   "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing options\" after a largely fruitless week of negotiat"
+  },
+  {
+   "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
+   "published": "2026-11-21T16:00:00+00:00",
+   "age_hours": 21.0,
+   "score": 6.0,
+   "summary": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wholesome fun. Comedy is just part of Roberts' life,"
+  },
+  {
+   "title": "Can Anthropic afford to put safety first?",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "published": "2026-11-21T15:00:00+00:00",
+   "age_hours": 22.0,
+   "score": 6.0,
+   "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigantic, but not really that important for this conver"
+  },
+  {
+   "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
+   "published": "2026-11-21T14:55:28+00:00",
+   "age_hours": 22.1,
+   "score": 6.0,
+   "summary": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 and come in four colors (black, white, blue, and p"
+  },
+  {
+   "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/511855.html",
+   "published": "2026-11-21T14:14:09+00:00",
+   "age_hours": 22.8,
+   "score": 6.0,
+   "summary": ""
+  },
+  {
+   "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+   "published": "2026-11-21T14:00:00+00:00",
+   "age_hours": 23.0,
+   "score": 6.0,
+   "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, solitaire, xiangqi, and a Scrabble alternative called word. They're all part of "
+  },
+  {
+   "title": "AI is becoming a disaster for the climate",
+   "source": "Hacker News (frontpage)",
+   "link": "https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the",
+   "published": "2026-11-22T12:19:46+00:00",
+   "age_hours": 0.7,
+   "score": 5.5,
+   "summary": "Article URL: https://www.bloodinthemachine.com/p/ai-is-becoming-a-disaster-for-the Comments URL: https://news.ycombinator.com/item?id=50598961 Points: 13 # Comments: 0"
+  },
+  {
+   "title": "日本零售业接连爆发数据泄露事件，塔唱片约 1020 万账户信息遭窃",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/704.htm",
+   "published": "2026-11-22T12:10:44+00:00",
+   "age_hours": 0.8,
+   "score": 5.5,
+   "summary": "IT之家 11 月 22 日消息，据彭博社报道，日本音乐零售商塔唱片（Tower Records Japan Inc.）表示，公司遭遇未经授权的访问，导致客户信息泄露。这使塔唱片成为近期披露数据泄露事件的又一家日本零售企业。 塔唱片在周日更新的一份声明中表示，此次事件导致约 1020 万个账户的登录信息泄露，包括电子邮件地址和用户 ID。公司称，已于周四发现这起未经授权的访问事件。 IT之家注意到，塔唱片披露数据泄露事件之前，日本在线服装零售商 Zozo 已于上周五宣布，约 1520 万名客户的信息遭到泄露。 Zozo 表示，事件源于其使用的 Plaid Inc. 营销平台遭到攻击，该平台主要"
+  },
+  {
+   "title": "纽约新音乐厅 Domino 官网闹笑话，宣传“纯手工制作”却满是 AI 生成痕迹",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/696.htm",
+   "published": "2026-11-22T11:13:03+00:00",
+   "age_hours": 1.8,
+   "score": 5.5,
+   "summary": "IT之家 11 月 22 日消息，纽约音乐厅 Domino 计划于明年开业，试图重新唤起威廉斯堡（Williamsburg）曾经的复古嬉皮士文化氛围。然而，其官方网站上出现的一系列 AI 生成错误，却充满了 2026 年的时代特色。 据IT之家了解，Domino 由 Mumford & Sons 乐队成员、本 · 洛维特（Ben Lovett）创立。网站原本希望通过 The Strokes 乐队、仓库派对等元素，重现威廉斯堡昔日的独立音乐文化。 但网站上的 AI 生成图片却问题频出：不仅出现了一张从未真实举办过的 The Strokes 演唱会门票，还存在文字模糊、拼写错误等问题。图片上还覆盖"
+  },
+  {
+   "title": "蚂蚁阿福已有 1.5 亿用户，每天线上问诊次数超 2000 万",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/653.htm",
+   "published": "2026-11-22T08:58:01+00:00",
+   "age_hours": 4.1,
+   "score": 5.5,
+   "summary": "IT之家 11 月 22 日消息，2026 蚂蚁阿福医疗健康生态大会于 11 月 22 日 - 23 日在广州举行。 据新浪科技报道，蚂蚁健康事业群副总裁杨猛透露：“ 今天我们蚂蚁阿福已经有了 1.5 亿用户，每天线上问诊次数超过 2000 多万次 ，55% 来自于三线及以下城市，有 1/4 是老人，有 16% 的问诊来自于凌晨 0 点到早上 6 点。” 杨猛表示：“医生非常辛苦，时间是非常稀缺的资源。 AI 给我们带来的机会，就是把重复的事务性的工作全部由 AI 来提前做 ，让医生有更多的时间用在判断上、用在患者身上。” 据IT之家此前报道，9 个月前的 2 月 23 日，蚂蚁阿福宣布 蚂蚁"
+  }
+ ]
+}

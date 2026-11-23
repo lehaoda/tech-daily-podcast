@@ -5,7 +5,7 @@
     <description>每天 5 分钟的科技与 AI 新闻节目「乐见未来」:主播 Adam 和你聊大模型发布、芯片硬件、大厂动态、融资监管与科学突破。新闻选自 OpenAI 官方博客、量子位、IT之家、TechCrunch、The Verge 等正规媒体,每集描述附原始来源链接。每天早上 7 点更新。</description>
     <link>https://lehaoda.github.io/tech-daily-podcast</link>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 07:13:32 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:13:20 -0600</lastBuildDate>
     <image>
       <url>https://lehaoda.github.io/tech-daily-podcast/cover.png</url>
       <title>乐见未来</title>
@@ -22,6 +22,16 @@
     </itunes:owner>
     <itunes:category text="Technology"/><itunes:category text="IT &amp; Software"/>
     <itunes:image href="https://lehaoda.github.io/tech-daily-podcast/cover.png"/>
+  <item>
+    <title>乐见未来 2026-11-23 · 第20期</title>
+    <description><![CDATA[<p>本期报道的原始来源:</p><ul><li>实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了 | 量子位 <a href="https://www.qbitai.com/2026/11/512195.html">实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了 | 量子位</a></li><li>“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了 | 量子位 <a href="https://www.qbitai.com/2026/11/512004.html">“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了 | 量子位</a></li><li>蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力 | 量子位 <a href="https://www.qbitai.com/2026/11/511998.html">蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力 | 量子位</a></li><li>Meta Muse can do your Black Friday shopping at Walmart | The Verge <a href="https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday">Meta Muse can do your Black Friday shopping at Walmart | The</a></li><li>马斯克：星巴克咖啡师也能建 AI 数据中心，SpaceX 培训几天就能上岗 | IT之家 <a href="https://www.ithome.com/1/031/190.htm">马斯克：星巴克咖啡师也能建 AI 数据中心，SpaceX 培训几天就能上岗 | IT之家</a></li><li>联想推出来酷外骨骼机器人行者 ONE 穿戴式助行设备，6999 元 | IT之家 <a href="https://www.ithome.com/1/031/160.htm">联想推出来酷外骨骼机器人行者 ONE 穿戴式助行设备，6999 元 | IT之家</a></li><li>李健官宣荣耀阔折叠手机计划 2027 年 3 月亮相，透露“完全没有什么折痕” | IT之家 <a href="https://www.ithome.com/1/031/085.htm">李健官宣荣耀阔折叠手机计划 2027 年 3 月亮相，透露“完全没有什么折痕” | IT之家</a></li><li>日本工业机器人制造商安川电机：AI 人形机器人将在 2030 年正式推出 | IT之家 <a href="https://www.ithome.com/1/030/954.htm">日本工业机器人制造商安川电机：AI 人形机器人将在 2030 年正式推出 | IT之家</a></li><li>AI 大模型周榜：谷歌 Gemini 4 Neon 新登综合第 3，阿里 Qwen4-Max 智能体首秀第 18 | IT之家 <a href="https://www.ithome.com/1/030/935.htm">AI 大模型周榜：谷歌 Gemini 4 Neon 新登综合第 3，阿里 Qwen4-Max 智能体首秀第 18 | I</a></li><li>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO | TechCrunch <a href="https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/">How Notable Capital, GIC, and Baillie Gifford bet big on Ant</a></li></ul>]]></description>
+    <link>https://lehaoda.github.io/tech-daily-podcast/#2026-11-23</link>
+    <guid isPermaLink="true">https://lehaoda.github.io/tech-daily-podcast/#2026-11-23</guid>
+    <pubDate>Mon, 23 Nov 2026 07:13:20 -0600</pubDate>
+    <enclosure url="https://podcast.lehaoda.com/episodes/2026-11-23.m4a" type="audio/mp4" length="2203834"/>
+    <itunes:duration>254</itunes:duration>
+    <itunes:image href="https://lehaoda.github.io/tech-daily-podcast/cover.png"/>
+  </item>
   <item>
     <title>乐见未来 2026-11-22 · 第19期</title>
     <description><![CDATA[<p>本期报道的原始来源:</p><ul><li>菲尔兹奖得主梅纳德谈"AI 攻克黎曼猜想"：相信证明正确，但成果被人理解、才可能得到认可 | IT之家 <a href="https://www.ithome.com/1/030/677.htm">菲尔兹奖得主梅纳德谈"AI 攻克黎曼猜想"：相信证明正确，但成果被人理解、才可能得到认可 | IT之家</a></li><li>A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿 | 量子位 <a href="https://www.qbitai.com/2026/11/511870.html">A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿 | 量子位</a></li><li>马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入 | IT之家 <a href="https://www.ithome.com/1/030/628.htm">马斯克预警：AI 行业明年可能面临严重资金短缺，或需要数千亿美元额外投入 | IT之家</a></li><li>郭明錤：谷歌削减 2027 年博通设计的 TPU 8i 系列出货量约 100 万颗 | IT之家 <a href="https://www.ithome.com/1/030/698.htm">郭明錤：谷歌削减 2027 年博通设计的 TPU 8i 系列出货量约 100 万颗 | IT之家</a></li><li>Can Anthropic afford to put safety first? | The Verge <a href="https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure">Can Anthropic afford to put safety first? | The Verge</a></li><li>闲鱼：2026 年第二季度日活增加 23%、订单增加 29%，AI 成核心增长动力 | IT之家 <a href="https://www.ithome.com/1/030/692.htm">闲鱼：2026 年第二季度日活增加 23%、订单增加 29%，AI 成核心增长动力 | IT之家</a></li><li>B站就"AI 大肥鱼"智能体账号泛滥发布调查问卷，征集治理意见 | IT之家 <a href="https://www.ithome.com/1/030/702.htm">B站就"AI 大肥鱼"智能体账号泛滥发布调查问卷，征集治理意见 | IT之家</a></li><li>日本零售业接连爆发数据泄露事件，塔唱片约 1020 万账户信息遭窃 | IT之家 <a href="https://www.ithome.com/1/030/704.htm">日本零售业接连爆发数据泄露事件，塔唱片约 1020 万账户信息遭窃 | IT之家</a></li><li>The UN fails to agree on rules regulating 'killer robots' | The Verge <a href="https://www.theverge.com/tech/1039554/un-regulations-killer-robots">The UN fails to agree on rules regulating 'killer robots' | </a></li><li>Chess.com's next move is a new hub for classic games, from mahjong to sudoku | The Verge <a href="https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai">Chess.com's next move is a new hub for classic games, from m</a></li><li>开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI | IT之家 <a href="https://www.ithome.com/1/030/699.htm">开发者将微型 Transformer 模型塞进软盘，让 486 老电脑也能用上 AI | IT之家</a></li></ul>]]></description>

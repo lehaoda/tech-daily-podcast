@@ -185,9 +185,14 @@ def main():
 
     results = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=8) as ex:
-        futs = [ex.submit(fetch_feed, *spec) for spec in FEEDS]
+        futs = {ex.submit(fetch_feed, *spec): spec[0] for spec in FEEDS}
         for f in concurrent.futures.as_completed(futs):
-            results.append(f.result())
+            try:
+                results.append(f.result())
+            except Exception as e:
+                # 单个 feed 抛异常(网络/SSL)不应拖垮整次抓取, 记入 failed
+                print(f"  {futs[f]}: fetch exception {type(e).__name__}: {e}", file=sys.stderr)
+                results.append((futs[f], [], f"fetch error: {type(e).__name__}: {e}"))
 
     print("feed fetch results:", file=sys.stderr)
     pool = []

@@ -1,0 +1,234 @@
+{
+ "date": "2026-11-23",
+ "weekday": "星期一",
+ "window_hours": 24,
+ "fetched_at": "2026-11-23T13:02:47.355333+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/512195.html",
+   "published": "2026-11-23T11:01:15+00:00",
+   "age_hours": 2.0,
+   "score": 7.5,
+   "summary": "零Token成本，断网也能自由Vibe Coding"
+  },
+  {
+   "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+   "published": "2026-11-23T11:00:00+00:00",
+   "age_hours": 2.0,
+   "score": 7.0,
+   "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A num"
+  },
+  {
+   "title": "“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/512004.html",
+   "published": "2026-11-23T06:59:38+00:00",
+   "age_hours": 6.1,
+   "score": 7.0,
+   "summary": "一个完全由AI组成的科学家社会，是什么样？"
+  },
+  {
+   "title": "蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/511998.html",
+   "published": "2026-11-23T03:56:34+00:00",
+   "age_hours": 9.1,
+   "score": 7.0,
+   "summary": "阿福App宣布新一轮升级，解锁越来越多健康服务新本领"
+  },
+  {
+   "title": "当大模型接上真实机器人：RoboChallenge Zero首期评测发布",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/511978.html",
+   "published": "2026-11-23T03:13:06+00:00",
+   "age_hours": 9.8,
+   "score": 7.0,
+   "summary": "RoboChallenge正式发布全新评测基准RoboChallenge Zero"
+  },
+  {
+   "title": "豆姐威武！豆包工作上新21个专业工作台，AI直接替你上班",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/511933.html",
+   "published": "2026-11-23T02:29:24+00:00",
+   "age_hours": 10.6,
+   "score": 7.0,
+   "summary": "豆包工作是目前字节优先级最高的产品"
+  },
+  {
+   "title": "华为 × 澳门电讯联合发布 Wi-Fi 感知服务，支持动态感知并识别家庭成员活动状态",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/196.htm",
+   "published": "2026-11-23T12:25:48+00:00",
+   "age_hours": 0.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，据华为光网今日分享，澳门电讯（CTM）携手华为联合发布“AI-FTTR”宽带服务，并基于华为 FTTR 全光组网解决方案的智能计算能力，融合 AI Wi-Fi 感知及 AI Wi-Fi 抗干扰两大核心技术，推出 Wi-Fi 感知服务商用套餐。 ▲ 图源：华为光网 | 澳门电讯与华为联合创新，发布 Wi-Fi 感知服务 据介绍，传统家庭宽带仅提供连接服务，增值服务空间受限，这已成为全球运营商共同关注的课题。澳门电讯围绕家庭网络体验痛点，发布 AI Wi-Fi 感知与 AI Wi-Fi 抗干扰技术服务，实现从“被动连接”到“主动感知、智能优化”的升级。 AI Wi"
+  },
+  {
+   "title": "Tri-screen portable monitors aren’t for the faint of heart",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/gadgets/2026/11/a-triple-screen-portable-monitor-means-more-pixels-and-more-bulk/",
+   "published": "2026-11-23T12:15:16+00:00",
+   "age_hours": 0.8,
+   "score": 6.5,
+   "summary": "Three extra screens boost multitasking but can distract and overwhelm."
+  },
+  {
+   "title": "Review: The Asus ProArt P16 offers a glimpse of a future powered by local AI",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/reviews/2026/11/review-the-asus-proart-p16-offers-a-glimpse-of-a-future-powered-by-local-ai/",
+   "published": "2026-11-23T12:00:00+00:00",
+   "age_hours": 1.0,
+   "score": 6.5,
+   "summary": "The new Asus ProArt laptop costs up to $7,000, but it can run a gaggle of local AI agents."
+  },
+  {
+   "title": "马斯克：星巴克咖啡师也能建 AI 数据中心，SpaceX 培训几天就能上岗",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/190.htm",
+   "published": "2026-11-23T11:58:09+00:00",
+   "age_hours": 1.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，SpaceX 首席执行官埃隆 · 马斯克（Elon Musk）表示，公司最优秀的数据中心建设人员，可能曾经是咖啡师，也可能只是零售商店里的货架理货员。 本周早些时候，马斯克通过远程连线方式参加了在美国奥斯汀举行的 TomorrowX 峰会。他在会上表示：“我们有些最优秀的员工此前从未参与过数据中心建设。” 马斯克透露，SpaceX 已经组建了一支内部团队，名为“ArmyX”。 这支团队将建设数据中心所需的各项工作拆解成更小的任务，并将其设计成“只需几天就能培训掌握”的工作内容 。 马斯克表示：“我们不需要那些一辈子都在铺设网络线缆的人。我们会把工作拆解成不同任"
+  },
+  {
+   "title": "2026 华为乾崑生态大会定档 11 月 26 日在广州国际车展举行",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/163.htm",
+   "published": "2026-11-23T11:13:22+00:00",
+   "age_hours": 1.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，华为乾崑 App 显示， 2026 华为乾崑生态大会将于 11 月 26 日在广州车展举行 。 据华为智能汽车解决方案 BU CEO 靳玉志此前预热， 华为与生态伙伴打造的“十分钟华为乾崑智驾生活圈”将在本届华为乾崑生态大会上亮相 。 今年 9 月，华为智能汽车解决方案 BU 官方微博宣布，乾崑智驾和鸿蒙座舱搭载量、华为乾崑 App 用户数 200 万里程碑同步达成。 据IT之家此前报道，在今年 7 月的 2026 华为乾崑媒体日上，华为智能汽车解决方案 BU CEO 靳玉志透露，从 2023 年到 2026 年，华为乾崑智驾的算力增长超过 20 倍。靳玉志认"
+  },
+  {
+   "title": "Meta Muse can do your Black Friday shopping at Walmart",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday",
+   "published": "2026-11-23T11:00:00+00:00",
+   "age_hours": 2.0,
+   "score": 6.5,
+   "summary": "Walmart will let Meta's Muse shop on its website on your behalf, allowing the AI agent to find and purchase Black Friday deals. Tomorrow, on Tuesday November 24th, the retail giant will roll out a live implementation of the Agent Gateway it announced last month, which helps AI agents find relevant p"
+  },
+  {
+   "title": "联想推出来酷外骨骼机器人行者 ONE 穿戴式助行设备，6999 元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/160.htm",
+   "published": "2026-11-23T11:04:06+00:00",
+   "age_hours": 2.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，联想现已在京东上架来酷外骨骼机器人行者 ONE 穿戴式助行设备，将于 11 月 28 日发售， 定价为 7999 元，首发价 6999 元 。 京东 来酷行者 ONE 外骨骼机器人 6999 元 直达链接 该产品净重 1.8kg，提供 IP54 防护等级，机身采用 3 点承托分散局部压力，配合 3 点 1 扣锁紧，15s 可完成穿脱。其具备通透与智能运动模式，双髋峰值扭矩至高 38N·m，峰值功率 900W，号称助行效率可≥45%，同时支持助力比一键调节。 该产品搭载 AI 步态感知系统，可识别上下坡、跑步、上下楼、徒步、骑行及沙石地 6 类姿态（陆续开放）。"
+  },
+  {
+   "title": "懂车帝回应“测试内容大调整”：信息多处失实，部分内容为 AI 撰写",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/091.htm",
+   "published": "2026-11-23T09:48:39+00:00",
+   "age_hours": 3.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，今日，有博主爆料称，懂车帝内部对公开测试发布了四项要求，包括不再开放对比类内容、想要发布公开测试类内容的账号必须有资质等。 据界面新闻报道，懂车帝内容运营人员表示，此轮变化系平台严格按照《网络测评活动规范》要求，对汽车创作者在平台发布部分场景内容的规则更新。 网传“内容大调整”“行业受影响”等信息多处失实，部分内容为 AI 撰写，未跟平台核实求证 。 参考IT之家此前报道，今年 9 月，工业和信息化部举行新闻发布会，介绍了我国智能网联新能源汽车产业发展有关情况。 对于汽车行业出现的非理性竞争行为，工业和信息化部装备工业一司司长郭守刚表示，汽车行业出现非理性竞争"
+  },
+  {
+   "title": "李健官宣荣耀阔折叠手机计划 2027 年 3 月亮相，透露“完全没有什么折痕”",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/085.htm",
+   "published": "2026-11-23T09:34:42+00:00",
+   "age_hours": 3.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，在今天的 荣耀 700 系列追光之旅暨全场景新品发布会后，荣耀 CEO 李健，荣耀产品线总裁方飞，荣耀品牌营销部总裁、全球 CMO 关海涛与媒体对话。 李健宣布，荣耀的阔折叠手机计划 2027 年 3 月亮相， 并透露该机“完全没有什么折痕” 。他还表示，荣耀在折叠屏工艺、续航和 AI 能力方面处于行业领先位置，后续还将持续推进相关技术创新。 方飞则表示， （荣耀阔折叠）真机已经有了 。 据IT之家此前报道，博主 @数码闲聊站 今年 9 月曾爆料，荣耀也有阔折叠手机， 搭载 2nm 骁龙新芯片，排期 2027Q1 ，希望能赶到春节前发布。根据该博主此前爆料，荣"
+  },
+  {
+   "title": "XROGO郑随兵：机器人不能只在视频里，终究要进入工厂“真干活”",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/512179.html",
+   "published": "2026-11-23T09:10:08+00:00",
+   "age_hours": 3.9,
+   "score": 6.5,
+   "summary": "企业核心需求不是交付设备，而是能持续上岗的劳动力"
+  },
+  {
+   "title": "开源工具 OLEDTextFix 公布，可改善 Windows 系统在 OLED 面板下文字清晰度不足、彩边等问题",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/964.htm",
+   "published": "2026-11-23T08:33:13+00:00",
+   "age_hours": 4.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，据外媒 Wccftech 报道，近期有开发者推出一款免费开源 Windows 工具 OLEDTextFix，尝试通过 GPU 图像处理技术改善 Windows 系统在 OLED 面板下出现文字清晰度不足、彩边等问题，IT之家附项目地址（ https://github.com/oguz463/OLEDTextFix ?utm_source= chatgpt.com ）。 外媒表示，微软 ClearType 字体平滑技术最初针对传统 LCD 显示器采用的 RGB 条纹排列设计，但许多 OLED 面板采用了不同的子像素排列方式，导致传统字体渲染算法无法准确适配。 例"
+  },
+  {
+   "title": "日本工业机器人制造商安川电机：AI 人形机器人将在 2030 年正式推出",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/954.htm",
+   "published": "2026-11-23T08:30:50+00:00",
+   "age_hours": 4.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，日本工业机器人制造商安川电机 (YASAKAWA) 人工智能机器人统括部长久保田由美惠当地时间本月 20 日接受日本共同社采访时表示， 该企业计划在人形机器人领域追赶当前领先的美中企业 。 久保田由美惠称， 安川电机正在开发中的 AI 人形机器人将在 2030 年正式推出 ，具体投放时间也可能根据客户实际需求提前。 安川电机目标让人形机器人承担现有机器人无法实现自动化的作业，将人类从高强度体力劳动中解放出来。但人形机器人仍存在自主任务学习能力有限的问题，安川电机计划与富士通、英伟达一道探索解决方案。 此外，安川电机曾在 2025 年收购日本初创企业 Tokyo"
+  },
+  {
+   "title": "荣耀 YOYO · 豆包手机助手曝光，支持语音唤醒、连续对话、全局记忆等能力",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/942.htm",
+   "published": "2026-11-23T08:14:47+00:00",
+   "age_hours": 4.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，博主 @阿兴XZai 今日发布视频，分享了荣耀的 YOYO · 豆包手机助手 的功能页面。 画面显示， 荣耀 YOYO · 豆包手机助手支持语音唤醒、连续对话、全局记忆等能力 。 据IT之家此前报道， 今年 4 月，有消息称荣耀与字节跳动就“豆包手机”相关合作展开接洽 。字节跳动在与中兴通讯合作推出第一代豆包手机之前，最先接触的手机厂商其实是荣耀。不过，荣耀当时对此态度较为谨慎，认为这类深度系统级合作存在一定风险。 随后， 荣耀方面对此回应称，经内部确认，相关传闻不属实 。“荣耀始终致力于通过技术创新为消费者提供优质产品，如有任何战略合作进展，我们将第一时间通"
+  },
+  {
+   "title": "LG U+ 围绕 AI 调整企业业务架构，新设基础设施 / 平台部门",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/938.htm",
+   "published": "2026-11-23T08:06:21+00:00",
+   "age_hours": 4.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，据韩媒 The Elec 报道，LG U+ 正围绕人工智能（AI）基础设施和平台业务调整企业业务架构，计划将相关业务划分为 AI 基础设施部门和 AI 平台部门，分别负责 AI 数据中心及有线、无线通信网络，以及 AI 客户联络中心和智能体服务。 在企业事业部门下，公司将新设 AI 基础设施部门，整合 AI 数据中心运营业务与通信基础设施服务；同时设立 AI 平台部门，在现有 AI 客户联络中心和智能体业务基础上，进一步拓展主权 AI、Token 服务等领域。 在人事调整方面，此前担任企业事业部门负责人的 Kwon Yong-hyun 将调任消费者事业部门。后"
+  },
+  {
+   "title": "AI 大模型周榜：谷歌 Gemini 4 Neon 新登综合第 3，阿里 Qwen4-Max 智能体首秀第 18",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/030/935.htm",
+   "published": "2026-11-23T08:00:44+00:00",
+   "age_hours": 5.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 23 日消息，Arena（ arena.ai ）现已发布第 47 周（2026 年 11 月 16 日至 22 日）周榜。本周综合榜迎来三款重量级新模型首秀：谷歌 Gemini 4 Neon (High) 以 ELO 1513 分直接空降第 3 名，Anthropic Claude Fable 5.2 (Max) 以 1503 分入榜第 7 名，谷歌 Gemini 4 Hydrogen (High) 则以 1490 分并列第 18 名。 国产阵营方面，阿里 Qwen4-Max (xHigh) 在智能体榜首次亮相即拿下第 18 名，腾讯 Hy4 也同时出现在前端开发与智能体两"
+  },
+  {
+   "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/512017.html",
+   "published": "2026-11-23T07:42:01+00:00",
+   "age_hours": 5.3,
+   "score": 6.5,
+   "summary": "阿福大升级：让模型像医生一样思考"
+  },
+  {
+   "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+   "published": "2026-11-23T01:25:53+00:00",
+   "age_hours": 11.6,
+   "score": 6.5,
+   "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic."
+  },
+  {
+   "title": "自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练」的大旗",
+   "source": "爱范儿",
+   "link": "https://www.ifanr.com/1691043?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "published": "2026-11-23T08:55:14+00:00",
+   "age_hours": 4.1,
+   "score": 6.0,
+   "summary": "具身智能的「大结果」终于有了实感 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+  },
+  {
+   "title": "算力周期更迭，数据复合增长：为何存储经济性对中国规模化 AI 至关重要",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/511989.html",
+   "published": "2026-11-23T03:47:46+00:00",
+   "age_hours": 9.3,
+   "score": 6.0,
+   "summary": "AI 的未来将依赖能够在数据全生命周期中平衡性能、可靠性与经济性的存储架构。"
+  }
+ ]
+}

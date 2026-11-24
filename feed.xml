@@ -5,7 +5,7 @@
     <description>每天 5 分钟的科技与 AI 新闻节目「乐见未来」:主播 Adam 和你聊大模型发布、芯片硬件、大厂动态、融资监管与科学突破。新闻选自 OpenAI 官方博客、量子位、IT之家、TechCrunch、The Verge 等正规媒体,每集描述附原始来源链接。每天早上 7 点更新。</description>
     <link>https://lehaoda.github.io/tech-daily-podcast</link>
     <language>zh-CN</language>
-    <lastBuildDate>Mon, 23 Nov 2026 07:13:20 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 07:10:40 -0600</lastBuildDate>
     <image>
       <url>https://lehaoda.github.io/tech-daily-podcast/cover.png</url>
       <title>乐见未来</title>
@@ -22,6 +22,16 @@
     </itunes:owner>
     <itunes:category text="Technology"/><itunes:category text="IT &amp; Software"/>
     <itunes:image href="https://lehaoda.github.io/tech-daily-podcast/cover.png"/>
+  <item>
+    <title>乐见未来 2026-11-24 · 第21期</title>
+    <description><![CDATA[<p>本期报道的原始来源:</p><ul><li>黄仁勋重掌英伟达，亚洲供应链、AI 创企信心大振 | IT之家 <a href="https://www.ithome.com/1/031/820.htm">黄仁勋重掌英伟达，亚洲供应链、AI 创企信心大振 | IT之家</a></li><li>'Outrageous,' 'reckless,' 'wow': Here's what politicians are saying about Jensen Huang's return to Nvidia | TechCrunch <a href="https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/">'Outrageous,' 'reckless,' 'wow': Here's what politicians are</a></li><li>Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist | TechCrunch <a href="https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/">Megaspeed, the company at the center of the Jensen Huang sca</a></li><li>消息称 OpenAI 与 Anthropic 员工警告：内部 AI 模型能力过于强大，无法安全发布 | IT之家 <a href="https://www.ithome.com/1/031/811.htm">消息称 OpenAI 与 Anthropic 员工警告：内部 AI 模型能力过于强大，无法安全发布 | IT之家</a></li><li>暴涨之后迅速反转，Anthropic 盘前跌破 83 美元 IPO 发行价 | IT之家 <a href="https://www.ithome.com/1/031/823.htm">暴涨之后迅速反转，Anthropic 盘前跌破 83 美元 IPO 发行价 | IT之家</a></li><li>Amazon says hackers' AI agents found and exploited 0-day with little human input | Ars Technica <a href="https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/">Amazon says hackers' AI agents found and exploited 0-day wit</a></li><li>我国牵头推动全球首个生成式 AI 治理国际标准提案 | IT之家 <a href="https://www.ithome.com/1/031/838.htm">我国牵头推动全球首个生成式 AI 治理国际标准提案 | IT之家</a></li><li>Data centers are getting their own natural gas power plants | MIT Technology Review <a href="https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/">Data centers are getting their own natural gas power plants </a></li><li>谷歌 Chrome 浏览器关闭后仍占用内存，元凶竟是 Gemini 相关功能 | IT之家 <a href="https://www.ithome.com/1/031/863.htm">谷歌 Chrome 浏览器关闭后仍占用内存，元凶竟是 Gemini 相关功能 | IT之家</a></li><li>腾讯发布混元翻译模型 HyMT3：翻译结果更准确、更完整、更遵循用户指令 | IT之家 <a href="https://www.ithome.com/1/031/681.htm">腾讯发布混元翻译模型 HyMT3：翻译结果更准确、更完整、更遵循用户指令 | IT之家</a></li></ul>]]></description>
+    <link>https://lehaoda.github.io/tech-daily-podcast/#2026-11-24</link>
+    <guid isPermaLink="true">https://lehaoda.github.io/tech-daily-podcast/#2026-11-24</guid>
+    <pubDate>Tue, 24 Nov 2026 07:10:40 -0600</pubDate>
+    <enclosure url="https://podcast.lehaoda.com/episodes/2026-11-24.m4a" type="audio/mp4" length="2386147"/>
+    <itunes:duration>275</itunes:duration>
+    <itunes:image href="https://lehaoda.github.io/tech-daily-podcast/cover.png"/>
+  </item>
   <item>
     <title>乐见未来 2026-11-23 · 第20期</title>
     <description><![CDATA[<p>本期报道的原始来源:</p><ul><li>实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了 | 量子位 <a href="https://www.qbitai.com/2026/11/512195.html">实测：1450亿参数塞进笔记本，每秒狂飙80+Token！国产端侧大模型杀疯了 | 量子位</a></li><li>“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了 | 量子位 <a href="https://www.qbitai.com/2026/11/512004.html">“Agent版arXiv”来了！936个智能体12个星期狂发近千篇论文，连同行评议都整上了 | 量子位</a></li><li>蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力 | 量子位 <a href="https://www.qbitai.com/2026/11/511998.html">蚂蚁阿福同款大模型宣布开源，全球医生一台电脑就能解锁专业医疗 AI 能力 | 量子位</a></li><li>Meta Muse can do your Black Friday shopping at Walmart | The Verge <a href="https://www.theverge.com/ai-artificial-intelligence/1039874/walmart-agent-gateway-meta-muse-black-friday">Meta Muse can do your Black Friday shopping at Walmart | The</a></li><li>马斯克：星巴克咖啡师也能建 AI 数据中心，SpaceX 培训几天就能上岗 | IT之家 <a href="https://www.ithome.com/1/031/190.htm">马斯克：星巴克咖啡师也能建 AI 数据中心，SpaceX 培训几天就能上岗 | IT之家</a></li><li>联想推出来酷外骨骼机器人行者 ONE 穿戴式助行设备，6999 元 | IT之家 <a href="https://www.ithome.com/1/031/160.htm">联想推出来酷外骨骼机器人行者 ONE 穿戴式助行设备，6999 元 | IT之家</a></li><li>李健官宣荣耀阔折叠手机计划 2027 年 3 月亮相，透露“完全没有什么折痕” | IT之家 <a href="https://www.ithome.com/1/031/085.htm">李健官宣荣耀阔折叠手机计划 2027 年 3 月亮相，透露“完全没有什么折痕” | IT之家</a></li><li>日本工业机器人制造商安川电机：AI 人形机器人将在 2030 年正式推出 | IT之家 <a href="https://www.ithome.com/1/030/954.htm">日本工业机器人制造商安川电机：AI 人形机器人将在 2030 年正式推出 | IT之家</a></li><li>AI 大模型周榜：谷歌 Gemini 4 Neon 新登综合第 3，阿里 Qwen4-Max 智能体首秀第 18 | IT之家 <a href="https://www.ithome.com/1/030/935.htm">AI 大模型周榜：谷歌 Gemini 4 Neon 新登综合第 3，阿里 Qwen4-Max 智能体首秀第 18 | I</a></li><li>How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO | TechCrunch <a href="https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/">How Notable Capital, GIC, and Baillie Gifford bet big on Ant</a></li></ul>]]></description>
@@ -210,16 +220,6 @@
     <pubDate>Thu, 05 Nov 2026 11:24:16 -0600</pubDate>
     <enclosure url="https://podcast.lehaoda.com/episodes/2026-11-05.m4a" type="audio/mp4" length="2431991"/>
     <itunes:duration>281</itunes:duration>
-    <itunes:image href="https://lehaoda.github.io/tech-daily-podcast/cover.png"/>
-  </item>
-  <item>
-    <title>乐见未来 2026-11-04 · 第1期</title>
-    <description><![CDATA[<p>本期报道的原始来源:</p><ul><li>OpenAI 宣布收购 Pierre Computer Company | OpenAI 官方博客 <a href="https://openai.com/index/openai-to-acquire-pierre">OpenAI 宣布收购 Pierre Computer Company | OpenAI 官方博客</a></li><li>Daybreak Red (GPT-5.6 Cyber) 上线 AWS GovCloud | OpenAI 官方博客 <a href="https://openai.com/index/daybreak-red-aws-govcloud">Daybreak Red (GPT-5.6 Cyber) 上线 AWS GovCloud | OpenAI 官方博客</a></li><li>百度无人车"黑客帝国"世界模型,跑一天抵三年 | 量子位 <a href="https://www.qbitai.com/2026/11/507647.html">百度无人车"黑客帝国"世界模型,跑一天抵三年 | 量子位</a></li><li>陶哲轩警告:人类把思考交给 AI,危险可能很快到来 | IT之家 <a href="https://www.ithome.com/1/022/440.htm">陶哲轩警告:人类把思考交给 AI,危险可能很快到来 | IT之家</a></li><li>Anthropic 新旗舰 Fable 5.5 实测:纯代码生成 66 秒动画 | IT之家 <a href="https://www.ithome.com/1/022/468.htm">Anthropic 新旗舰 Fable 5.5 实测:纯代码生成 66 秒动画 | IT之家</a></li><li>ChatGPT will now make you animated GIFs | The Verge <a href="https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6">ChatGPT will now make you animated GIFs | The Verge</a></li><li>华为小艺 Work 率先上线 openPangu-2.1-Pro 模型 | IT之家 <a href="https://www.ithome.com/1/022/472.htm">华为小艺 Work 率先上线 openPangu-2.1-Pro 模型 | IT之家</a></li><li>Apple Siri Recaps 实测: 意外好用但有点不安 | TechCrunch <a href="https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/">Apple Siri Recaps 实测: 意外好用但有点不安 | TechCrunch</a></li><li>Nothing 预告下月发布首款无屏幕 AI 设备 | The Verge <a href="https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei">Nothing 预告下月发布首款无屏幕 AI 设备 | The Verge</a></li><li>AI inference startup Fal doubles its valuation to $16B | TechCrunch <a href="https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/">AI inference startup Fal doubles its valuation to $16B | Tec</a></li><li>Data centers are turning to old jet engines for power | TechCrunch <a href="https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/">Data centers are turning to old jet engines for power | Tech</a></li></ul>]]></description>
-    <link>https://lehaoda.github.io/tech-daily-podcast/#2026-11-04</link>
-    <guid isPermaLink="true">https://lehaoda.github.io/tech-daily-podcast/#2026-11-04</guid>
-    <pubDate>Wed, 04 Nov 2026 20:23:51 -0600</pubDate>
-    <enclosure url="https://podcast.lehaoda.com/episodes/2026-11-04.m4a" type="audio/mp4" length="2256219"/>
-    <itunes:duration>293</itunes:duration>
     <itunes:image href="https://lehaoda.github.io/tech-daily-podcast/cover.png"/>
   </item>
   </channel>

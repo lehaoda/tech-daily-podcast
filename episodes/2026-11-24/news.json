@@ -1,0 +1,234 @@
+{
+ "date": "2026-11-24",
+ "weekday": "星期二",
+ "window_hours": 24,
+ "fetched_at": "2026-11-24T13:01:06.685948+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "Data centers are getting their own natural gas power plants",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
+   "published": "2026-11-24T11:00:00+00:00",
+   "age_hours": 2.0,
+   "score": 7.0,
+   "summary": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own off-grid, or behind-the-meter, gas power plants to fuel the AI b"
+  },
+  {
+   "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/512362.html",
+   "published": "2026-11-24T06:35:06+00:00",
+   "age_hours": 6.4,
+   "score": 7.0,
+   "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路"
+  },
+  {
+   "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/512330.html",
+   "published": "2026-11-24T03:30:46+00:00",
+   "age_hours": 9.5,
+   "score": 7.0,
+   "summary": "中国AI数据平台加速崛起"
+  },
+  {
+   "title": "谷歌 Chrome 浏览器关闭后仍占用内存，元凶竟是 Gemini 相关功能",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/863.htm",
+   "published": "2026-11-24T12:44:54+00:00",
+   "age_hours": 0.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 24 日消息，说起吃内存大户，Chrome 常年榜上有名。谷歌对此心知肚明，于是在 2022 年的内存节省功能里，为每个标签页加入了内存查看工具。如今 AI 模型普及，浏览器自带这类功能已经成了常态。 Edge、Chrome 这类基于 Chromium 内核的浏览器，本地 AI 模型会占用最高 20GB 磁盘空间。而问题还不止于此，最近有用户发现，Chrome 内置的 Gemini 即便在浏览器关闭之后，依然会悄悄占用内存。 这名发现问题的用户表示，每次点右上角叉号关闭浏览器，Windows 任务管理器里都会残留多个 Chrome 进程。即便已经关闭“关闭 Google C"
+  },
+  {
+   "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+   "published": "2026-11-24T12:30:05+00:00",
+   "age_hours": 0.5,
+   "score": 6.5,
+   "summary": "The Cairn AI framework is proving to be a boon for defenders and attackers."
+  },
+  {
+   "title": "我国牵头推动全球首个生成式 AI 治理国际标准提案",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/838.htm",
+   "published": "2026-11-24T12:26:04+00:00",
+   "age_hours": 0.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 24 日消息，据央视新闻从市场监管总局今天（24 日）举行的新闻发布会上了解到，我国正深度参与人工智能国际标准体系建设，目前已 牵头研制 29 项基础共性国际标准 ，在国际标准化组织相关机构注册专家近 400 人。 市场监管总局有关负责人介绍，我国积极参与并完善人工智能“1+N”国际标准体系架构，聚焦数据治理、人机交互、安全可信等关键领域，牵头 29 项基础共性国际标准研制；围绕智慧城市、智能制造等重点行业，统筹 15 个标准技术机构牵头推动 49 项行业应用国际标准研制。 IT之家从报道中获悉，针对生成式人工智能深度伪造、模型“投毒”等全球共性风险，我国已联合多国共同编制"
+  },
+  {
+   "title": "Ukraine sinks Russian warship, strikes cargo ships from Mediterranean to Baltic",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/gadgets/2026/11/ukraines-sea-drones-blow-up-russian-warship-in-benghazi-operation/",
+   "published": "2026-11-24T12:00:57+00:00",
+   "age_hours": 1.0,
+   "score": 6.5,
+   "summary": "Russian missile corvette latest casualty as Ukraine strikes back in war at sea."
+  },
+  {
+   "title": "暴涨之后迅速反转，Anthropic 盘前跌破 83 美元 IPO 发行价",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/823.htm",
+   "published": "2026-11-24T12:00:57+00:00",
+   "age_hours": 1.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 24 日消息，当地时间周二盘前交易时段，Anthropic 股价跌破 83 美元 （IT之家注：现汇率约合 554.4 元人民币） 的首次公开发行发行价。这家 Claude 模型开发商几天前才在纳斯达克完成创纪录的上市，行情反转十分刺眼。 该股最新下跌 6.5%，报 82 美元 （现汇率约合 547.7 元人民币） ，延续 11 月 19 日火爆上市以来的跌势。上市首日开盘价为 111.50 美元 （现汇率约合 744.7 元人民币） ，完全稀释后的估值一度突破 2 万亿美元 （现汇率约合 13.36 万亿元人民币） 。 周一晚间披露的监管文件显示，Anthropic 首席"
+  },
+  {
+   "title": "黄仁勋重掌英伟达，亚洲供应链、AI 创企信心大振",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/820.htm",
+   "published": "2026-11-24T11:50:55+00:00",
+   "age_hours": 1.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 24 日消息，据路透社报道，黄仁勋重新出任英伟达 CEO，受到亚洲客户及供应商的广泛欢迎。业内人士认为，他的回归 消除了英伟达产品规划上的不确定性 ，也打消了外界对公司可能缩减 AI 初创企业投资的担忧。 英伟达在亚洲拥有庞大的供应链， 台积电、富士康、三星电子和 SK 海力士 都是其中的关键企业。此外，还有不少获得英伟达支持的初创公司。 韩国半导体产业协会高管安基贤坦诚道：“如果没有黄仁勋， 下一代产品的开发周期会更长 。围绕英伟达下一代产品的不确定性也有所缓解。” 业内不少人将黄仁勋视为 AI 热潮迅速发展的重要推动者。他推动英伟达加快产品迭代，也带动供应商跟上节奏，同"
+  },
+  {
+   "title": "AI 指纹识别 + 9 种开锁方式：小米智能门锁 E30 星辰黑 999 → 501 元国补直降",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/815.htm",
+   "published": "2026-11-24T11:28:29+00:00",
+   "age_hours": 1.5,
+   "score": 6.5,
+   "summary": "小米 2026 年 2 月 8 日上架“小米智能门锁 E30 星辰黑”，其支持 AI 指纹识别、9 种开锁方式，定价 999 元。 今日天猫自营“天猫优品官方旗舰店”开启狂促，叠加 15% 国补后实付 500.66 元即可入手： 点击下方卡片后 → 点击淘宝 App 右上角三个点“ … ” → 点击弹出页面右下角 淘金币 ，可抵扣 4.99 元。 天猫 小米智能门锁 E30 星辰黑 AI 指纹识别、9 种开锁方式 淘金币抵扣后 500.66 元 直达链接 该产品将离合内置于锁体，配合直插式 C 级锁芯贯穿锁体结构设计，防止外力拆卸外面板后直接开门，也能防暴力下压外把手开门。同时锁体中 内置虚掩"
+  },
+  {
+   "title": "小米浏览器手机、Pad 官宣支持扩展程序：广告拦截、网页翻译、AI 助手、脚本管理",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/813.htm",
+   "published": "2026-11-24T11:22:44+00:00",
+   "age_hours": 1.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 24 日消息，小米互联网官方微博今日宣布，小米浏览器手机、Pad 现已支持扩展程序：广告拦截、网页翻译、AI 助手、脚本管理菜单里一点即开。 IT之家注意到，在今年 6 月，小米员工 @劣人潘 曾发文预告过该功能，当时曾表示会在未来合适的时机发布支持插件的浏览器版本。 延伸阅读 小米浏览器手机端需升级至 20.32 及以上版本、Pad 端需升级至 20.6 及以上版本，才能体验扩展程序功能。 除扩展程序外，此次更新中，小米浏览器的 AI 搜索还同步新增了「互动广场」功能，无需下载即可使用。 实际上，浏览器插件能力最早是随小米澎湃 HyperOS 4 系统与用户见面的，并非此"
+  },
+  {
+   "title": "消息称 OpenAI 与 Anthropic 员工警告：内部 AI 模型能力过于强大，无法安全发布",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/811.htm",
+   "published": "2026-11-24T11:18:56+00:00",
+   "age_hours": 1.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 24 日消息，据 Axios 报道，二十多名熟悉内部讨论的消息人士透露，Anthropic 和 OpenAI 正面临一个愈发紧迫的难题：公司内部尚未对外发布的模型能力已经强到让不少员工认为，这些模型无法安全向公众开放。 消息人士表示，这件事的影响不容小觑。顶尖人工智能系统的能力和人类的管控能力之间的差距持续拉大，很可能大幅放缓人工智能的发展热潮。 研究人员至今还没有找到管控最强模型的技术方案。部分内部人员认为这个问题有解决办法，也有人并不看好，提出企业应当彻底停止训练新模型。 头部人工智能企业的负责人早就预判，这项技术终有一天会在几乎所有领域远超人类智力。虽然内部模型还没有"
+  },
+  {
+   "title": "【一图知】华为 Mate X8 及全场景新品发布会：轻薄、折叠“双响炮”，鸿蒙智家大升级",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/783.htm",
+   "published": "2026-11-24T10:18:19+00:00",
+   "age_hours": 2.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 24 日消息，华为 Mate X8 及全场景新品发布会于今日（11 月 24 日）14:30 举行，发布了华为 Mate X8 全新大折叠旗舰手机，还有华为 Mate90 Air、华为 WATCH Air 超薄新品。 华为 MateBook Fold S 鸿蒙小折叠电脑、鸿蒙智家升级、配件新品也一同登场。 IT之家一图汇总相关产品信息 ，小伙伴快速了解一下亮点。"
+  },
+  {
+   "title": "小米集团 2026 年 Q3 业绩发布：单季营收站稳千亿、研发投入 92 亿元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/716.htm",
+   "published": "2026-11-24T09:42:54+00:00",
+   "age_hours": 3.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 24 日消息，小米集团今日发布 2026 年 Q3 业绩，称稳中求进，单季营收站稳千亿。总营收 1072 亿元，经调整净利润 49 亿元。 据介绍， 小米新能源汽车及 AI 等创新业务收入 239 亿元 ，季度内完成纯电、增程双系列布局；智能手机业务逐季改善， 收入 456 亿元，环比增长 8.2% ；全球平均售价（ASP）同比增长近 40%，创历史新高，国内 6000 元及以上价位销量份额同比提升 1.2 个百分点。全球份额连续 3 个季度环比提升，出货量在全球 55 个国家和地区排名前三，67 个国家和地区排名前五。 另外， 小米 AIoT 平台已连接 IoT 设备数首"
+  },
+  {
+   "title": "AI 热潮引爆封装基板需求，韩国 7 家中型厂商合计投资 2.8 万亿韩元扩产",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/715.htm",
+   "published": "2026-11-24T09:41:34+00:00",
+   "age_hours": 3.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 24 日消息，据韩媒 The Elec 报道，受人工智能（AI）产业快速发展带动，全球半导体需求持续增长，封装基板供应紧张问题日益突出。继三星电机、LG Innotek 等大型厂商之后，韩国中型封装基板供应商也开始大规模扩产。 其中，韩国大德电子（Daeduck Electronics）、Isu Petasys、Simmtech、TLB、Korea Circuit、Haesung DS 和 BH 7 家企业今年相继宣布扩产计划，合计投资约 2.8 万亿韩元 （IT之家注：现汇率约合 139.27 亿元人民币） ，相关生产设施将从今年年底起分阶段扩建，预计持续至 2030 年"
+  },
+  {
+   "title": "鸿蒙智行问界 M6 累计交付突破 7 万台，售价 22.98 万元起",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/706.htm",
+   "published": "2026-11-24T09:19:50+00:00",
+   "age_hours": 3.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 24 日消息，问界汽车官方今日宣布， 鸿蒙智行问界 M6 累计交付突破 7 万台 ，售价 22.98 万元起。 据IT之家 11 月 21 日报道，赛力斯执行董事、副总裁康波宣布， 赛力斯汽车与华为联合设计的 AITO 问界 M6 推出限时现车购车权益 。 在 11 月 21 日 0 点至 11 月 30 日 24 点期间下定的用户，可在 10000 元现车补贴、3 年 0 息金融方案和“贷 5 免 3”金融方案三种权益方案中任选其一，官方宣称最快 1 周可提车。官方海报提示，现车数量有限，先到先得。 据IT之家了解，问界 M6 于 4 月 22 日上市，定位“新锐智慧 S"
+  },
+  {
+   "title": "诺华 CEO 泼冷水：AI 十年内治不好癌症，仅能缩短新药研发周期",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/705.htm",
+   "published": "2026-11-24T09:19:16+00:00",
+   "age_hours": 3.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 24 日消息，诺华首席执行官、Anthropic 董事会成员瓦斯 · 纳拉辛汉（Vas Narasimhan）并不认同人工智能将在五到十年内治愈癌症的说法，他认为，就算再过十年，人工智能也只能把新药研发周期缩短四年。纳拉辛汉表示，科技行业看待这个问题带着一套“工程思维”，但临床医生和制药企业清楚，人类对人体的了解其实十分有限。 “我们面临的核心问题是，坦白说，我们只弄懂了人体运转机制大约百分之五的内容。”他说，“在代码和语言领域，我们掌握的知识比例要高得多，因此人工智能模型的学习和预测能力也会强很多。” Anthropic 首席执行官达里奥 · 阿莫代伊（Dario Amo"
+  },
+  {
+   "title": "腾讯发布混元翻译模型 HyMT3：翻译结果更准确、更完整、更遵循用户指令",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/681.htm",
+   "published": "2026-11-24T09:12:15+00:00",
+   "age_hours": 3.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 24 日消息，腾讯今天（24 日）下午宣布，第三代翻译模型 HyMT3 发布并开源。相比前代模型 HyMT2，能够带来 更准确、更完整、更遵循用户指令 的翻译结果。 根据介绍，在真实场景数据上，误译样本比例降低 43%， 漏译 / 增译比例降低 74% ，指令遵循类错误降低 40%；支持语种 从 38 种扩充到 102 种 。 HyMT3 包含 1.8B、7B 和 30B-A3B 三个尺寸，广泛适用于端侧例如 PC、手机、智能设备等各类场景。目前 HyMT3 模型已在腾讯 Hy 翻译 App 和小程序上线，开源模型支持自行下载部署。 根据 Hy MT2 开源后使用者的反馈优"
+  },
+  {
+   "title": "新一代华为鸿蒙智家无界交互发布，号称“住进未来家”",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/642.htm",
+   "published": "2026-11-24T08:55:52+00:00",
+   "age_hours": 4.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 24 日现场消息，在今天（24 日）下午的华为 Mate X8 及全场景新品发布会上，新一代华为鸿蒙智家无界交互正式发布。 IT之家从发布会现场获悉，其主打“住进未来家”，带来“更懂你”的小艺管家、意式美学智能开关都灵、隐形 AI 超感传感器 Air，轻松睡自然醒的智慧睡眠 2.0 等软硬件。 具体来看，“智能开关都灵”采用经典意式美学，是华为米兰美学研究所设计的产品；全屋看板则内置“3D 掌控中心”，所见即所得，支持宠物一键查找（需配合华为蓝牙网关、HUAWEI Tag 等实现）。 交互方面，该交互方案支持“场景大师”模式，结合 AI 超感传感器 Air 可做到 0.6 "
+  },
+  {
+   "title": "华为最薄智能手表 WATCH Air 发布：6.9 毫米超薄机身，2499 元起",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/031/578.htm",
+   "published": "2026-11-24T08:28:45+00:00",
+   "age_hours": 4.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 24 日现场消息，今天下午华为在 Mate X8 及全场景新品发布会上正式推出了全新智能手表 —— 华为WATCH Air。该产品以 6.9 毫米超薄机身、高亮钛合金一体化设计以及完整的运动健康能力为核心卖点，官方将其定位为“薄，且强”的新品类智能手表，也是华为迄今为止厚度最薄的智能手表。新品售价 2499 元起，12 月 4 日 10:08 分开售。 IT之家注意到，华为WATCH Air 采用方形表盘和圆润弧面机身设计，整机厚度压缩至 6.9 毫米，重量约 27 克。相比主流厚度仍在 9 毫米左右的智能手表，新品在佩戴贴服度、腕部负担以及正装搭配方面进行了针对性优化，特"
+  },
+  {
+   "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+   "published": "2026-11-23T22:02:05+00:00",
+   "age_hours": 15.0,
+   "score": 6.5,
+   "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself."
+  },
+  {
+   "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+   "published": "2026-11-23T21:25:42+00:00",
+   "age_hours": 15.6,
+   "score": 6.5,
+   "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government."
+  },
+  {
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "source": "OpenAI Blog",
+   "link": "https://openai.com/index/introducing-shirudo",
+   "published": "2026-11-23T21:20:00+00:00",
+   "age_hours": 15.7,
+   "score": 6.5,
+   "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches."
+  },
+  {
+   "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+   "published": "2026-11-23T19:31:41+00:00",
+   "age_hours": 17.5,
+   "score": 6.5,
+   "summary": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting."
+  },
+  {
+   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+   "published": "2026-11-23T19:14:46+00:00",
+   "age_hours": 17.8,
+   "score": 6.5,
+   "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem"
+  }
+ ]
+}

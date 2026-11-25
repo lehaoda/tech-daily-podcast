@@ -1,0 +1,234 @@
+{
+ "date": "2026-11-25",
+ "weekday": "星期三",
+ "window_hours": 24,
+ "fetched_at": "2026-11-25T13:01:12.351489+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/512515.html",
+   "published": "2026-11-25T07:46:52+00:00",
+   "age_hours": 5.2,
+   "score": 7.5,
+   "summary": "OpenAI这下要有俩Tibo了"
+  },
+  {
+   "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/512498.html",
+   "published": "2026-11-25T06:49:27+00:00",
+   "age_hours": 6.2,
+   "score": 7.0,
+   "summary": "复杂场景三维建模成本降至10美元以内"
+  },
+  {
+   "title": "Has vibe coding made open source the new normal for synths?",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+   "published": "2026-11-25T13:00:00+00:00",
+   "age_hours": 0.0,
+   "score": 6.5,
+   "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have remained silent for now, others have embraced the modding community. In the last se"
+  },
+  {
+   "title": "消息称支付技术企业 Stripe 估值有望在新一轮股票回购中突破 2000 亿美元",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/488.htm",
+   "published": "2026-11-25T12:37:30+00:00",
+   "age_hours": 0.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 25 日消息，《华尔街日报》当地时间昨日报道称，支付技术企业 Stripe 正在讨论新一轮的年度例行股票回购计划。 该企业的估值有望在本轮回购中突破 2,000 亿美元 （IT之家注：现汇率约合 1.34 万亿元人民币） 。 按照惯例， Stripe 将在新年初正式宣布回购计划 ，便于员工套现持股。知情人士透露，此次回购的出资方除 Stripe 自身外很可能还包括现有投资者。 Stripe 正积极涉足人工智能领域 ：该企业今年 8 月以超 70 亿美元收购 OpenRouter，并将自身技术栈与智能体消费市场整合。Stripe 还并购了软件按用量计费初创企业 Metrono"
+  },
+  {
+   "title": "Counterpoint：2026 年 Q3 全球纯晶圆代工市场同比增长 36%，台积电份额扩大至 75%",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/477.htm",
+   "published": "2026-11-25T12:15:17+00:00",
+   "age_hours": 0.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 25 日消息，Counterpoint 今日发布数据显示，2026 年第三季度， 纯晶圆代工行业同比增长 36%，环比增长 13% ，原因是人工智能对先进制程和先进封装的需求持续超过供给，同时晶圆价格上涨进一步推高了营收。 其中， 台积电在纯晶圆代工市场的份额扩大至 75% ，高于前两个季度各 73% 的水平，营收环比增长 16%。驱动因素包括 2 纳米制程持续放量、N3 产能满载以及 CoWoS 产能持续扩张。 三星代工位居第二，但其份额从 2026 年第二季度的 6.9% 下滑至 6.4%，因为其营收增长（环比 +6%）落后于整体市场。提高 SF2 良率仍是赢得先进制程"
+  },
+  {
+   "title": "华为 5A 通信技术支持设备上新，新增 Mate 90 Air、Mate X8 系列手机",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/478.htm",
+   "published": "2026-11-25T12:02:27+00:00",
+   "age_hours": 1.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 25 日消息，华为官网“悄悄”更新了 5A 相关问题的支持文档，公布了支持 5A 通信技术的最新机型清单， 新增 Mate 90 Air、Mate X8 系列等机型 。 华为明确，5A 只代表华为终端先进的通信技术，而非网络制式， 既不等同于 5G-A（5GA），也不等同于 5.5G 。5A 技术没有单独的开关，无需用户额外付费或手动设置，支持机型将在系统状态栏默认显示 5A 标识。 IT之家附支持 5A 通信技术的机型名单： Mate 60 系列 Mate 70 系列（包含优享版） Mate 70 Air Mate 80 系列 Pura 70 系列 Pura 80 系列 "
+  },
+  {
+   "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
+   "published": "2026-11-25T11:12:42+00:00",
+   "age_hours": 1.8,
+   "score": 6.5,
+   "summary": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug that had been sitting on Microsoft 365 networking ga"
+  },
+  {
+   "title": "英伟达开放 Nemotron-Labs-Image-30B-A3B 生图 AI 模型权重：某些跑分超 GPT Image 2",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/444.htm",
+   "published": "2026-11-25T10:37:28+00:00",
+   "age_hours": 2.4,
+   "score": 6.5,
+   "summary": "IT之家 11 月 25 日消息，科技媒体 Wccftech 今天（11 月 25 日）发布博文，报道称英伟达在 Hugging Face 平台悄然公开了 Nemotron-Labs-Image-30B-A3B 模型的权重。该模型采用混合专家架构，总参数达 300 亿，使用时激活 30 亿参数，对本地硬件更友好。 Nemotron-Labs-Image-30B-A3B 是一款自回归图像生成模型，也是该公司新框架 Nemotron-Labs-VisualCreation 的核心光栅渲染引擎。该框架秉持“像素即代码”（Pixel as Code）的理念，不仅能生成富有表现力的图片，还能产出可编辑的"
+  },
+  {
+   "title": "影石 Luna Ultra 云台相机官宣支持荣耀一碰传，已支持 Magic9 系列手机",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/441.htm",
+   "published": "2026-11-25T10:26:03+00:00",
+   "age_hours": 2.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 25 日消息，影石 Insta360 昨日宣布，拍完不用等，影石 Luna Ultra 全新支持荣耀一碰传。 据介绍，在 Luna Ultra 的素材回放或选择页面， 用手机顶部触碰相机手柄侧面 ，即可直接发起传输。 据介绍，该功能现已支持 荣耀 Magic9 、 荣耀 Magic9 Pro Max 、 荣耀 Magic9 超能版 手机。 据IT之家此前报道，7 月 17 日， 影石系列旗舰产品正式入驻荣耀门店 ，首批 44 家门店将陆续上新影石产品。 相关阅读： 《 3999 元：影石发布全球首款 8K 徕卡双摄云台相机 Luna Ultra，配备可拆卸图传屏 + 头追模"
+  },
+  {
+   "title": "亚马逊今年资本开支预计达 2200 亿美元创历史新高，AWS CFO 称 AI 赛道宁快勿慢",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/435.htm",
+   "published": "2026-11-25T10:24:06+00:00",
+   "age_hours": 2.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 25 日消息，亚马逊预计今年资本开支将达到约 2,200 亿美元 （IT之家注：现汇率约合 1.47 万亿元人民币） ，创下历史纪录，资金主要投向 AWS 以及人工智能基础设施。 AWS 首席财务官约翰 · 费尔顿（John Felton）在接受 Business Insider 邮件采访时表示，公司会提前锁定土地、电力、审批这类建设周期漫长的资源，而服务器等设备采购则延后，等客户订单给出更明确的需求信号再出手。 他说：“我们争取在合适的最晚时点做出正确决策。” 他也解释了 AWS 的判断：在 AI 领域， 行动太慢带来的风险，高于大手笔投入的风险。 “速度是一种选择，”他"
+  },
+  {
+   "title": "An Indic Voice Agent with CUGA",
+   "source": "Hugging Face Blog",
+   "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+   "published": "2026-11-25T10:22:09+00:00",
+   "age_hours": 2.7,
+   "score": 6.5,
+   "summary": ""
+  },
+  {
+   "title": "4837MHz：AMD 计算与图形事业部总经理参与刷新 GPU 频率世界纪录",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/404.htm",
+   "published": "2026-11-25T10:14:27+00:00",
+   "age_hours": 2.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 25 日消息，根据 AMD 计算与图形事业部总经理 Jack Huynh 当地时间在 X 平台分享的动态，其与 AMD 超频团队成员 Bill \"Sampson\" Alverson 一道 以 4837MHz 刷新了 GPU 频率世界纪录 （在场的还有知名超频高手 Allen \"Splave\" Golibersuch）。 ▲ 前排三人从左至右分别为 Sampson、Splave、Jack Huynh 此次超频在美国得克萨斯州奥斯汀一家新开业的 Microcenter 完成，具体时间是 11 月 15 日。 达成这一成就的是一张 AMD Radeon RX 9060 XT 显卡"
+  },
+  {
+   "title": "何小鹏谈特斯拉 FSD 实时渲染新功能：技术上并不是那么困难，要看值不值得用算力实现",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/381.htm",
+   "published": "2026-11-25T10:06:19+00:00",
+   "age_hours": 2.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 25 日消息，据新浪科技报道，2026 小鹏科技日后，小鹏集团董事长、CEO 何小鹏与媒体对话。 近日，特斯拉 FSD v15 推送后，全新 Reality View 实时渲染画面引起热议。它采用第三人称跟随视角，把道路、车辆、建筑、光影实时重建为立体 3D 场景，质感比较逼真。 何小鹏表示， 自己还没有用过那个版本 ，在互联网上看过视频，也许现在只是一个在科研中的过程，具体不太了解。 “我认为一个更好的世界模型的交互界面，最重要的是应该用在研发，用在评测上面。 从我的角度，它会消耗很多算力和电力 ，但是也许会有一个更好的情绪，一个更好的场景使用价值。”他说，也许明年有一些"
+  },
+  {
+   "title": "蔚来发布 NOMI Intelligence 4.0，能够感知车内外环境并调用整车工具",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/373.htm",
+   "published": "2026-11-25T09:44:15+00:00",
+   "age_hours": 3.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 25 日消息，今天是蔚来公司十二周年，第三届 NIO IN 蔚来创新科技日于广州举办。蔚来正式发布了面向整车原生设计的全场景情感智能 NOMI Intelligence 4.0。 据介绍，NOMI 完成了系统级架构重构，将大模型矩阵与整车原生智能体框架、系统底座及整车安全深度融合， 能够感知车内外环境并调用整车工具 ，围绕用户的目标自主理解、规划并把事情办成。 蔚来产品体验高级副总裁李天舒介绍了全新架构的两项核心技术创新： 自研大模型矩阵和车载专属强化学习，为 NOMI 提供更高的智能上限； 行业首创整车原生智能体框架， 让 NOMI 能够感知环境、调用工具，自主决策和持续"
+  },
+  {
+   "title": "金山软件 2026 财年第三财季归母亏损 2.04 亿元，同比由盈转亏",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/358.htm",
+   "published": "2026-11-25T09:22:50+00:00",
+   "age_hours": 3.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 25 日消息，金山软件今日发布 2026 财年（2026 年 1 月～2026 年 12 月）第三财季（2026 年 7 月～2026 年 9 月）报告： 营业总收入 ：24.39 亿元，同比增长 1%，环比下降 3% 毛利润 ：19.76 亿元，同比增长 2%，环比持平 毛利率 ：81% 归母净利润 ：-2.04 亿元，同比由盈转亏，环比由盈转亏 经营现金流 ：3.75 亿元，同比下降 24.17%，环比下降 39.62% 基本每股收益 ：-0.15 元，同比由盈转亏，环比由盈转亏 稀释每股收益 ：-0.15 元，同比由盈转亏，环比由盈转亏 资产负债率 ：17% AI 解"
+  },
+  {
+   "title": "亚马逊 Prime Air 送货无人机在美国密歇根州发生坠机事故，意外勾住光纤线路致坠落",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/355.htm",
+   "published": "2026-11-25T09:19:19+00:00",
+   "age_hours": 3.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 25 日消息，据外媒 WXYZ 7 报道，当地时间 11 月 20 日美国密歇根州出现一起亚马逊无人机送货事故，一架执行配送任务的 MK30 无人机在飞行过程中勾住光纤线路，导致螺旋桨受损，随后失控撞上居民车库屋顶，目前美国联邦航空管理局（FAA）正就此进行调查。 据报道，密歇根州亨廷顿伍兹市居民 Jim Brennan 于当地时间 11 月 20 日下单购买了一瓶洗发水，相应包裹使用无人机 Prime Air 服务配送，送货无人机成功将包裹投放到 Brennan 家后院，但返航过程中却勾住了一条光纤线路，导致一片螺旋桨脱落。无人机撞上邻居车库屋顶。 IT之家注意到，亚马逊"
+  },
+  {
+   "title": "荣耀一碰传更新：实现与 OPPO、vivo、小米、Apple 跨品牌原图文件互传",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/349.htm",
+   "published": "2026-11-25T09:06:01+00:00",
+   "age_hours": 3.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 25 日消息，荣耀研发工程师 @荣耀曹工 今日发文，宣布荣耀一碰传更新。据介绍， 这次不仅实现了跟 OPPO、vivo、小米、Apple 跨品牌原图文件互传 ，还打通了影石 Insta360 相机原图直传。 另外，高德地图、百度网盘、腾讯 WorkBuddy、喜马拉雅也正式加入荣耀一碰生态，扫街榜、网盘资料，到 AI 智能体对话、播客书单都能直接一碰传。根据 @荣耀曹工 分享， 一碰传已支持 70+ 应用内容 ，覆盖社交、办公、出行、影音、游戏等。 据IT之家 11 月 11 日报道， 荣耀 Magic9 Pro Max、Magic9、Magic9 超能版、WIN2、WIN"
+  },
+  {
+   "title": "蔚来世界模型 NWM 3.0 发布：引入显式 + 隐式空间强化学习设计、汽车控制时延进一步降低",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/345.htm",
+   "published": "2026-11-25T08:58:39+00:00",
+   "age_hours": 4.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 25 日消息，在今天的 NIO IN 2026 蔚来创新科技日中，蔚来正式发布世界模型 NWM 3.0，该版本在模型架构、闭环训练、跨域融合三大方向均有较大进步，模型将于备案完成后向蔚来旗下四大平台推送。 蔚来表示，NWM 3.0 相对于 NWM 2.5 版本综合数据量提升 7 倍、综合训练效率提升 5 倍，开发人员结合仿真及真实行车数据闭环，进一步优化了模型驾驶博弈、会车、避让、匝道变道等性能，在高速、城区、小路、停车场、园区、换电场景之间实现自然跨场景切换。 同时，NWM 3.0 通过全链路协同优化压缩了反应时间，在测试中，整车控制时延压缩 54%、智驾控制时延压缩 4"
+  },
+  {
+   "title": "联想集团高性能服务器产线在天津落成，投建超节点产线预计 2027 年底前投产",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/343.htm",
+   "published": "2026-11-25T08:49:19+00:00",
+   "age_hours": 4.2,
+   "score": 6.5,
+   "summary": "IT之家 11 月 25 日消息，联想集团今日在天津举行高性能服务器产线落成暨超节点项目启动仪式。 IT之家获悉，此次落成的高性能服务器产线位于联想（天津）创新产业园，于 2025 年底启动建设，总投资 1.2 亿元，现已建成并在本次活动正式宣布投产， 具备年产 20 万台通用服务器、10 万台 AI 服务器的设计产能 。 仪式现场，联想集团与天津港保税区签署新一代智能算力研发与制造中心投资合作框架协议，计划于 2026 年底投资建设超节点服务器项目， 超节点项目预计于 2027 年底前建成投产 。 据介绍，2026 年 1—9 月，联想在天津业务实现营收 485 亿元，同比增长 67%；1—"
+  },
+  {
+   "title": "Anthropic还藏着2个最强模型…",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/512538.html",
+   "published": "2026-11-25T08:23:24+00:00",
+   "age_hours": 4.6,
+   "score": 6.5,
+   "summary": "Fable5.2已经很旧了。"
+  },
+  {
+   "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "published": "2026-11-25T00:12:02+00:00",
+   "age_hours": 12.8,
+   "score": 6.5,
+   "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile of lawsuits and raising the question of whether the"
+  },
+  {
+   "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "published": "2026-11-24T21:48:27+00:00",
+   "age_hours": 15.2,
+   "score": 6.5,
+   "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company."
+  },
+  {
+   "title": "Even the best AI agents struggle with everyday life",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "published": "2026-11-24T21:33:29+00:00",
+   "age_hours": 15.5,
+   "score": 6.5,
+   "summary": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems."
+  },
+  {
+   "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "published": "2026-11-24T21:32:38+00:00",
+   "age_hours": 15.5,
+   "score": 6.5,
+   "summary": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent."
+  },
+  {
+   "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "published": "2026-11-24T21:19:52+00:00",
+   "age_hours": 15.7,
+   "score": 6.5,
+   "summary": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data."
+  }
+ ]
+}

@@ -1,0 +1,234 @@
+{
+ "date": "2026-11-26",
+ "weekday": "星期四",
+ "window_hours": 24,
+ "fetched_at": "2026-11-26T13:01:05.306267+00:00",
+ "failed_feeds": [],
+ "candidates": [
+  {
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "source": "Hugging Face Blog",
+   "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+   "published": "2026-11-26T11:37:17+00:00",
+   "age_hours": 1.4,
+   "score": 7.5,
+   "summary": ""
+  },
+  {
+   "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+   "source": "Hugging Face Blog",
+   "link": "https://huggingface.co/blog/training-swarms",
+   "published": "2026-11-26T00:00:00+00:00",
+   "age_hours": 13.0,
+   "score": 7.0,
+   "summary": ""
+  },
+  {
+   "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/512981.html",
+   "published": "2026-11-26T12:39:08+00:00",
+   "age_hours": 0.4,
+   "score": 6.5,
+   "summary": "还得是科班尖子生"
+  },
+  {
+   "title": "Draining peatlands is responsible for a few percent of our global warming",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+   "published": "2026-11-26T12:15:42+00:00",
+   "age_hours": 0.8,
+   "score": 6.5,
+   "summary": "Detailed estimate going back to 1800 shows how much carbon is being liberated."
+  },
+  {
+   "title": "华为乾崑 App 2.0 版本发布：新增一键智能报险功能、云瞰升级 3.0 支持双向实时对讲等",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/072.htm",
+   "published": "2026-11-26T12:05:04+00:00",
+   "age_hours": 0.9,
+   "score": 6.5,
+   "summary": "IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志发布了华为乾崑 App 2.0 版本。 据介绍，华为乾崑 App 2.0 版本提供云瞰、智能报险、AI 助手、云畅听、达人 Club、乾智驾公开赛、乾智驾学堂、用户共创等功能。 其中，云瞰升级至 3.0 版本， 带来了远程回看、行车录像、远程查看、双向对讲等功能 ；新增智能报险功能， 支持一键直连保司，3 分钟快速报险 。 据IT之家了解，华为乾崑 App 是专为乾崑用户打造的交流互动平台，有社区、探索、ADS、展厅、爱车、商城六大核心板块；支持心愿单共创、答复车机语音助手反"
+  },
+  {
+   "title": "From minimalist to maximalist: Ars staffers show off their home offices",
+   "source": "Ars Technica",
+   "link": "https://arstechnica.com/features/2026/11/from-minimalist-to-maximalist-ars-staffers-show-off-their-home-offices/",
+   "published": "2026-11-26T12:00:14+00:00",
+   "age_hours": 1.0,
+   "score": 6.5,
+   "summary": "Our home offices range from tasteful to \"please explain yourself.\""
+  },
+  {
+   "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
+   "published": "2026-11-26T12:00:00+00:00",
+   "age_hours": 1.0,
+   "score": 6.5,
+   "summary": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test. Video shows the robotaxi attempting to overtake two California Highway Patrol cruisers during a traffic break, a moving v"
+  },
+  {
+   "title": "靳玉志：华为乾崑总搭载 26 个品牌 62 款车型",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/070.htm",
+   "published": "2026-11-26T12:02:34+00:00",
+   "age_hours": 1.0,
+   "score": 6.5,
+   "summary": "IT之家 11 月 26 日现场消息，华为公司高级副总裁、引望公司 CEO 靳玉志在华为乾崑生态大会上披露，截至 11 月 25 日，华为乾崑总搭载车型品牌数量 26 个，总搭载车型数量 62 款，华为智能汽车解决方案部件发货量超过 1 亿件。 此外，乾崑智驾、鸿蒙座舱搭载量双双突破 200 万台，乾崑 App 用户超 280 万。今年前三季度乾崑 ADS 新车销量超 50 万台，城区领航辅助国内市场第一。 靳玉志明确乾崑智驾 ADS 5 为自动驾驶而来，可支撑 L3、L4 高阶自动驾驶落地，目前其云端算力达 60EFLOPS，累计辅助驾驶里程已突破 183 亿公里。 IT之家注意到，靳玉志此"
+  },
+  {
+   "title": "华为星驰辅助驾驶发布：与乾崑智驾技术同源、资源共享，明年超 10 款车型量产上市",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/066.htm",
+   "published": "2026-11-26T11:43:27+00:00",
+   "age_hours": 1.3,
+   "score": 6.5,
+   "summary": "IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上， 华为智能汽车解决方案 BU CEO 靳玉志正式发布了华为星驰辅助驾驶 。 IT之家在大会现场了解到， 新版的华为星驰辅助驾驶将只专注于辅助驾驶领域 ，与面向自动驾驶的乾崑智驾技术同源（WEWA 架构）、资源共享（云端训练算力 | 高质量训练里程数据）、流程 & 质量（IPD 研发流程 | 车规质量管理体系）。 此外，靳玉志还宣布， 2027 年，超 10 款车型将搭载星驰辅助驾驶量产上市 ，品牌覆盖深蓝汽车、上汽通用五菱、广汽传祺、极狐、东风奕派。"
+  },
+  {
+   "title": "iPhone 16 AI 功能宣传涉嫌画大饼，苹果在韩国遭正式调查",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/059.htm",
+   "published": "2026-11-26T11:29:36+00:00",
+   "age_hours": 1.5,
+   "score": 6.5,
+   "summary": "IT之家 11 月 26 日消息，苹果在韩国正面临一项正式调查，调查指控其 iPhone 16 的广告宣传就 Apple Intelligence 功能的可用性误导了消费者。 韩国公平交易委员会（FTC）的调查人员已将苹果及苹果韩国公司移交审查，称 Apple Intelligence 有多项功能未能按宣传兑现，包括 Genmoji、图像游乐场（Image Playground），以及 Siri 理解个人上下文和识别屏幕内容的能力。 这些指控的核心在于，苹果是否充分说明了哪些功能可用、其余功能何时推出。举例来说，FTC 的报告指出，Siri 的个人上下文能力曾被宣传为将于 2025 年 4 月"
+  },
+  {
+   "title": "横跨 L2、L3、L4：华为靳玉志重申乾崑智驾 HUAWEI ADS 5 为自动驾驶而来",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/057.htm",
+   "published": "2026-11-26T11:16:48+00:00",
+   "age_hours": 1.7,
+   "score": 6.5,
+   "summary": "IT之家 11 月 26 日现场消息，在今晚的 2026 华为乾崑生态大会上，华为智能汽车解决方案 BU CEO 靳玉志登台发表主题演讲。他重申， 华为乾崑智驾 HUAWEI ADS 5 为自动驾驶而来 。 据IT之家此前报道，去年 11 月，在华为乾崑生态大会上，靳玉志宣布：华为乾崑智驾 ADS 高速 L3 解决方案的商用之路即将启程， 并公开了华为乾崑智驾 ADS 的 L3 专属人机交互页面 。 今年 4 月 23 日晚，华为乾崑智驾 ADS 5 正式发布 。算法层面，华为发布了面向自动驾驶的 AI 智能体 WEWA 2.0 架构。该架构在云端引入 Multi-Agent 博弈技术与在线强"
+  },
+  {
+   "title": "国家数据局：建立人工智能企业输出的风险防控机制，支持和鼓励为数据付费",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/033/054.htm",
+   "published": "2026-11-26T11:13:50+00:00",
+   "age_hours": 1.8,
+   "score": 6.5,
+   "summary": "IT之家 11 月 26 日消息，国家数据局综合司研究形成了《关于完善数据 规则 赋能 人工智能创新发展的若干意见》（公开征求意见稿），今日起向社会公开征求意见。 IT之家附主要内容如下： 一、支持合法获取的数据用于人工智能训练和推理 （一） 推动数据产权制度在人工智能用数领域运用 。各类主体通过采集生成、衍生创造等方式，以及受让取得、授权许可等合同约定的渠道获得数据，取得相应数据持有权、使用权、经营权的，在不违反法律法规和合同约定、不侵犯他人合法权益的前提下，数据使用权人可将数据用于人工智能训练和推理，数据经营权人可将数据提供给他人用于人工智能训练和推理。 （二） 支持采集生成的数据用于人工"
+  },
+  {
+   "title": "X is finally getting its first parental controls",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/news/1043078/x-parental-controls-features",
+   "published": "2026-11-26T10:45:50+00:00",
+   "age_hours": 2.3,
+   "score": 6.5,
+   "summary": "X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform. While teens will retain ownership of their own account, parents and guardians will be able to see how much time their child has spent on X, set daily limits, require approval for ne"
+  },
+  {
+   "title": "90 秒自动换装补能，具微科技“潘多拉”支撑机器人无人化值守",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/512972.html",
+   "published": "2026-11-26T10:07:55+00:00",
+   "age_hours": 2.9,
+   "score": 6.5,
+   "summary": "全栈方案破解工业机器人连续作业难题"
+  },
+  {
+   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "source": "The Verge",
+   "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+   "published": "2026-11-26T09:54:40+00:00",
+   "age_hours": 3.1,
+   "score": 6.5,
+   "summary": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning to auction off \"the private chat histories of more "
+  },
+  {
+   "title": "消息称三星电子取消“内存开发负责人”岗位，减少管理层级、加速开发",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/973.htm",
+   "published": "2026-11-26T09:28:01+00:00",
+   "age_hours": 3.6,
+   "score": 6.5,
+   "summary": "IT之家 11 月 26 日消息，据韩媒 Digital Today 今日报道，三星电子已敲定半导体 DS 部门后续人事与组织调整方案。此次调整的重点包括： 内存事业部开发组织改由事业部长直接统筹 System LSI 事业部升级销售体系 更换美洲法人与美国生产法人的负责人。 报道称，业界普遍认为，此轮重组主要围绕 AI 内存需求增长、外部客户拓展以及美国生产布局展开。 报道提到，三星电子今日在面向员工的说明会上公布了这些调整。此次调整被视为 11 月 20 日高管人事变动后的延续动作，目的在于配合新管理层重整执行体系： Hwang Sang-jun 由副社长升任社长，出任内存事业部长； 原美"
+  },
+  {
+   "title": "沃尔沃把人形机器人送进工厂：先学干活，明年年中正式上岗",
+   "source": "IT之家",
+   "link": "https://www.ithome.com/1/032/939.htm",
+   "published": "2026-11-26T08:52:18+00:00",
+   "age_hours": 4.1,
+   "score": 6.5,
+   "summary": "IT之家 11 月 26 日消息，沃尔沃汽车希望用人形机器人取代部分工厂工人，这些机器人能够做那些重复性高、体力消耗大的活儿，而且它们不会抱怨腰疼。 为了实现这个目标，这家车企已经把首批 Aeon 机器人运进了位于比利时根特的工厂，目前由工作人员带着它们学习各种任务。沃尔沃表示，目标是让机器人为员工分担重复性和“在人体工学上具有挑战的工作”。 固定式机械臂在汽车工厂里已经用了几十年，但如今一些品牌开始投入大量时间和资金，研发由人工智能驱动、能处理零件位置并不总是完全固定的任务的机器人。业内所称的“取放”类工作，正逐步交给机器人。特斯拉、通用汽车、福特和 Rivian 都在慢慢把复杂的机器人部署"
+  },
+  {
+   "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
+   "source": "量子位",
+   "link": "https://www.qbitai.com/2026/11/512942.html",
+   "published": "2026-11-26T07:36:04+00:00",
+   "age_hours": 5.4,
+   "score": 6.5,
+   "summary": "12月6日，WAIC将携手第六届“海聚英才”全球创新创业峰会，把这场关于“人”的讨论带回现场。"
+  },
+  {
+   "title": "FCC approves SpaceX plan to put AI data centers in space",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+   "published": "2026-11-25T20:56:44+00:00",
+   "age_hours": 16.1,
+   "score": 6.5,
+   "summary": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority."
+  },
+  {
+   "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+   "published": "2026-11-25T19:54:32+00:00",
+   "age_hours": 17.1,
+   "score": 6.5,
+   "summary": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall."
+  },
+  {
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "published": "2026-11-25T19:44:24+00:00",
+   "age_hours": 17.3,
+   "score": 6.5,
+   "summary": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development."
+  },
+  {
+   "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+   "published": "2026-11-25T18:49:52+00:00",
+   "age_hours": 18.2,
+   "score": 6.5,
+   "summary": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers."
+  },
+  {
+   "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "published": "2026-11-25T18:11:46+00:00",
+   "age_hours": 18.8,
+   "score": 6.5,
+   "summary": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development."
+  },
+  {
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "source": "TechCrunch",
+   "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "published": "2026-11-25T17:35:58+00:00",
+   "age_hours": 19.4,
+   "score": 6.5,
+   "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said."
+  },
+  {
+   "title": "How data centers are driving a US natural-gas boom",
+   "source": "MIT Technology Review",
+   "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+   "published": "2026-11-25T17:00:00+00:00",
+   "age_hours": 20.0,
+   "score": 6.5,
+   "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other powe"
+  }
+ ]
+}

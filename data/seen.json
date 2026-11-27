@@ -18017,7 +18017,793 @@
    "source": "Hacker News (frontpage)",
    "published": "2026-11-25T19:11:27+00:00",
    "first_seen": "2026-11-26T13:01:05.306267+00:00"
+  },
+  "48c14e23af3cbb11debb88f70880235fcf8e5001": {
+   "title": "How cutting-edge prosthetics can help probe the human mind",
+   "source": "MIT Technology Review",
+   "published": "2026-11-27T10:00:00+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "f73cc8fe942df54f13ca03ce11bc5955cba37f6d": {
+   "title": "钛动科技 × 腾讯云达成战略合作，用AI打开企业全球增长新空间",
+   "source": "量子位",
+   "published": "2026-11-27T04:05:56+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "065c22e52284bb4afc21f648e2d4b6812327043e": {
+   "title": "蚂蚁灵波发布LingBot-Map 2.0，模型自己修正“空间记忆”，把地图画更准",
+   "source": "量子位",
+   "published": "2026-11-27T04:05:18+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "4d59f99813458e84f764e1332574593b9c633519": {
+   "title": "Grand Theft Auto VI is a different kind of GTA — so it needed a different kind of ending",
+   "source": "The Verge",
+   "published": "2026-11-27T13:00:00+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "a448b1cb7e9ccf344598e2abdc3bfbc4d998a073": {
+   "title": "微信公布 2026 年 11 月朋友圈热度谣言，含“监管要求基金公司上报全部产品 AI 敞口”等",
+   "source": "IT之家",
+   "published": "2026-11-27T12:44:09+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "bb36ec8101137ebb0b5452f96266f8ff8ad3fdeb": {
+   "title": "智元：精灵 G2 机器人在龙旗科技产线正式承担喇叭 BOX 安装任务并实现并线生产",
+   "source": "IT之家",
+   "published": "2026-11-27T12:43:43+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "e7f9f3db19bdbb852ede20c62bf3851fe3bbcb98": {
+   "title": "小米智能门锁 5 单摄版 / 大屏猫眼版预售，到手价 1199 / 1399 元",
+   "source": "IT之家",
+   "published": "2026-11-27T12:25:51+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "78b81e9f27f0fee146f42f87314a1b1f4b0cbb12": {
+   "title": "网信办：我国超 64% 成年公民具备初级及以上数字素养与技能，近半数具备人工智能素养",
+   "source": "IT之家",
+   "published": "2026-11-27T11:25:43+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "381be0059a98fb1ebdb107b08a784832bc84ac00": {
+   "title": "小鹏 MONA 全系累计交付汽车突破 40 万台，平均月交付近 1.5 万台",
+   "source": "IT之家",
+   "published": "2026-11-27T11:12:31+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "04abc0e2bd4a6b641a123a8d780093a5322107ec": {
+   "title": "字节火山引擎：豆包大模型已服务八成国内头部电视厂商，创维、长虹、海信、TCL 等推出量产电视",
+   "source": "IT之家",
+   "published": "2026-11-27T10:36:56+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "15efd9dd30162f2aef6126943e279e46969ba63e": {
+   "title": "Our favorite headphones and earbuds are cheaper than ever for Black Friday",
+   "source": "The Verge",
+   "published": "2026-11-27T10:30:00+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "622f838e690da75c09a4e6cadc0d9fed33b869e3": {
+   "title": "已深度服务微信电商数百个业务流程，微信开源 WeMM-Ecom 多模态基础模型家族",
+   "source": "IT之家",
+   "published": "2026-11-27T10:05:40+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "cc743346f918f4a92e25be4113b2038338a7c56b": {
+   "title": "支付宝车载助手 3.0 与 80 多家车企达成定点合作，含比亚迪、理想、奇瑞等",
+   "source": "IT之家",
+   "published": "2026-11-27T09:56:11+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "c9014eec66848a60abb8b0e36cebcc921c697168": {
+   "title": "曝谷歌第 10 代 TPU 芯片将配备 512GB 定制 HBM5 内存",
+   "source": "IT之家",
+   "published": "2026-11-27T09:54:37+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "a691c9064d24aeff75465675deda9693f2e6cab2": {
+   "title": "李健：荣耀 700 系列手机销量已打破 2026 年安卓新品首销日纪录",
+   "source": "IT之家",
+   "published": "2026-11-27T09:43:19+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "741f7fe4d1e5d795a671af3e88cd0b0f35a63d79": {
+   "title": "消息称韩国政府要求三星电子开发 Jetson Thor 竞品，企业方反应谨慎",
+   "source": "IT之家",
+   "published": "2026-11-27T09:30:54+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "3a74ca1486a689021d95d532a991bebdb66bdc5d": {
+   "title": "苹果官网上架 mophie Frost 支架保护壳：适用于 iPhone 17 / 18 Pro / Air 系列机型，398 元",
+   "source": "IT之家",
+   "published": "2026-11-27T09:28:55+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "b503d114d0db5aad4ba73ad43515a83c71ea3869": {
+   "title": "小米汽车世界模型 2.0 发布，已在实际业务场景中落地",
+   "source": "IT之家",
+   "published": "2026-11-27T09:13:11+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "de00da8bb1b941e56af7dcdce721f96d55190bd6": {
+   "title": "美团 2026 财年第三财季归母净利润 20.7 亿元，同比扭亏为盈",
+   "source": "IT之家",
+   "published": "2026-11-27T08:33:24+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "f903b1944386173cdfcfaa23ebf73aaa62cd34c6": {
+   "title": "小米推出 REDMI 电视 A55 2027 一级能效版：4K 165Hz、内置小爱同学 AI 助手，1599 元",
+   "source": "IT之家",
+   "published": "2026-11-27T08:23:06+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "126ba626c2c322b4fefadd13bc1213fae71682fa": {
+   "title": "支付宝车载助手 3.0 发布：一句话在车上点外卖、付充电费，联合北汽打造 A.I. Car 新车型",
+   "source": "IT之家",
+   "published": "2026-11-27T08:22:14+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "f95654bc846cdf6cbdc3ff3601119d8cd1c51994": {
+   "title": "支付宝新任总裁吴敏芝任后首次公开亮相：AI 已从能对话走向会办事，所有产品和场景都值得重做一遍",
+   "source": "IT之家",
+   "published": "2026-11-27T08:19:44+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "8fc9a7afe21ebb632f2e895fdf35bc1408f5e836": {
+   "title": "DeepSeek APP突然更新账单，网友：要收费了？",
+   "source": "量子位",
+   "published": "2026-11-27T07:29:10+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "7c71a8e51ac5f004db803232d8a9c9d7e7df18bb": {
+   "title": "刚刚，首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+   "source": "量子位",
+   "published": "2026-11-27T07:01:20+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "bf84d6f90d84b4e3a6be8c60f034e2c6d3bcec17": {
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "source": "TechCrunch",
+   "published": "2026-11-26T20:03:54+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "d577470a2566921dfdebaef0854cdb6a2634db07": {
+   "title": "Is Alice Huang a spy or not?",
+   "source": "TechCrunch",
+   "published": "2026-11-26T20:00:00+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "bb4b516ae270640f6ce9ffe76559a452ae91ff86": {
+   "title": "A month with the iPhone Duo has changed how I use my phone",
+   "source": "TechCrunch",
+   "published": "2026-11-26T17:00:00+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "4dd7b9c29ad795207df01f67a5e8b3a11a008d66": {
+   "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+   "source": "TechCrunch",
+   "published": "2026-11-26T16:00:00+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "29e48434ba94c8e977cbdb14c9d6b664d0458e0d": {
+   "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+   "source": "量子位",
+   "published": "2026-11-27T03:53:49+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "8f4dd41f0126f0370c3210dd563ec8ded00ba0c5": {
+   "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+   "source": "量子位",
+   "published": "2026-11-27T03:33:11+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "3d3f2086cd1916a443809f7a813ebcd7fcb0c41e": {
+   "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+   "source": "Hugging Face Blog",
+   "published": "2026-11-27T00:00:00+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "d93a41da27fedf11f3ff6e609d08e9bebc1adbb3": {
+   "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+   "source": "The Verge",
+   "published": "2026-11-26T17:07:00+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "83a2a1063cabb2e7c053f9a5964528cf249418b2": {
+   "title": "Pizza history: AI agent's cardless purchase is a first for UK",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-27T11:41:11+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "e8323983dd4f0fbcc307f6a709a1191a83b63dcc": {
+   "title": "探索用 AI 在大银幕“复活”李小龙，其女儿李香凝称像是在走钢丝",
+   "source": "IT之家",
+   "published": "2026-11-27T09:12:50+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "8f0442ca0496c59ab8ac05a3415ca9d8037f3a20": {
+   "title": "卡巴斯基 CEO 警告：AI 短期内未必毁灭人类，但正成为黑客新武器",
+   "source": "IT之家",
+   "published": "2026-11-27T08:05:55+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "bdb00a5f99ba8752319992bb453d5c48a963a448": {
+   "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+   "source": "MIT Technology Review",
+   "published": "2026-11-26T13:10:00+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "6d75abcaa09c9715d62a4eb95117fe10b11f74b1": {
+   "title": "Our 2027 Innovators Under 35 competition is now open",
+   "source": "MIT Technology Review",
+   "published": "2026-11-27T10:48:47+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "dc5eda32ed1ff530df75844d016e90eb995e7840": {
+   "title": "Agent 上车元年，支付宝造了一个行动座舱",
+   "source": "爱范儿",
+   "published": "2026-11-27T10:01:35+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "d739527ee81bff0a63f43bee666631cfc02e6806": {
+   "title": "Claude Opus 5.6 做出了史上最牛的 PPT，直接杀死比赛？",
+   "source": "爱范儿",
+   "published": "2026-11-27T09:06:19+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "57046aeaf4542e9f60c8150e10201ea9d64a5778": {
+   "title": "The group chat where your AI talks behind your back",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-27T06:44:34+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "8ee26e992ab69013355690b2d177386a15a0ff3d": {
+   "title": "The need for a formally verifiable mainstream programming language",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-27T05:22:06+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "385f42285d459e0735caa73af402cd5bb1ce0e7b": {
+   "title": "腾讯混元发布 Hy3D 3.6：高模表面更整洁、结构更清晰、刻画更细腻",
+   "source": "量子位",
+   "published": "2026-11-27T03:45:19+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "0b2bf663b3d698a52b952d05a917c9e468aeeeaa": {
+   "title": "The Cutthroat Business of Shipwrecks",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-27T01:21:49+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "7b9204f703b914d819a83f2ab51ec7d39d79aa03": {
+   "title": "AI made self-hosting fun again",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-26T21:47:45+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "289554c5ff7acd72b02f1ecfa21ed43feba86d03": {
+   "title": "An introduction to uncertainty in machine learning",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-26T19:04:50+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "773df736f97c35fc0779e07dd6434782cb7b044a": {
+   "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+   "source": "Ars Technica",
+   "published": "2026-11-26T18:00:29+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "eb94ec253fa900056e118cfb7e95880ecb46dac1": {
+   "title": "AMD-specific fork of llama.cpp",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-26T17:11:29+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "7b80ccebbc55927d67da4a2a61461478a96cb27e": {
+   "title": "上汽大通 2027 款大家 7 MPV 上市：CLTC 续航至高 570km，售价 16.98 万元起",
+   "source": "IT之家",
+   "published": "2026-11-27T12:37:00+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "4a47c16bd15a7c9515505975adb002c1e3ccb82a": {
+   "title": "Some of our favorite Sony, LG, and TCL TVs are over 50 percent off for Black Friday",
+   "source": "The Verge",
+   "published": "2026-11-27T12:30:00+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "474b642f1fb07214c9082b1db7e234b4fca5d2e0": {
+   "title": "消息称徕卡 Q3 43 Monochrom 黑白相机 12 月 3 日发布，定价 7490 欧元",
+   "source": "IT之家",
+   "published": "2026-11-27T12:14:38+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "148cf3ba05c3e75b2827caee76a74e24fc953b7d": {
+   "title": "Intel faced a choice: Give Trump 10% or face the consequences",
+   "source": "Ars Technica",
+   "published": "2026-11-27T12:05:01+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "a5df18398782c6a4755c4aa70db7d2afd9e61b58": {
+   "title": "消息称三星开发出全球首款 500 层以上 NAND 闪存：单芯片容量提升 50%，理论单位成本降三成",
+   "source": "IT之家",
+   "published": "2026-11-27T12:07:03+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "d26bef63e2d74466e86361e53161a1f2cfd0bff7": {
+   "title": "福布斯中国辟谣网传“8 万元包上榜”：并非品牌方授权发布、“青年领袖”证书签名系伪造",
+   "source": "IT之家",
+   "published": "2026-11-27T12:03:01+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "accbff884df0ca5f30c8ebf2eb9706ad045f613d": {
+   "title": "The absolute best Black Friday deals we’ve found (so far)",
+   "source": "The Verge",
+   "published": "2026-11-27T11:52:34+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "eef91c49a8f3f03a478bc5cb89960ee65f76f102": {
+   "title": "Books, bikes, and The Burbs: These are Ars staff’s holiday gift picks for 2026",
+   "source": "Ars Technica",
+   "published": "2026-11-27T11:30:04+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "31115086fa29ab62b000a83eca6dd14a50ebd8b4": {
+   "title": "The SE 3 is the Apple Watch most people should buy on Black Friday",
+   "source": "The Verge",
+   "published": "2026-11-27T11:30:00+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "8870343ccbd5344ace26d31cae3d14c2eefdfb5b": {
+   "title": "全国首批首家！商汤大装置获Token工厂智算能力最高评级",
+   "source": "量子位",
+   "published": "2026-11-27T11:18:24+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "d77e6ca5584e808ac1886548bdb44dce8ca17eae": {
+   "title": "零跑汽车徐军：车市消费窗口将关闭或收窄，未来主要比拼产品和体系能力",
+   "source": "IT之家",
+   "published": "2026-11-27T10:59:05+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "fcac38a22f450eeff2b7ba65b7efd1dd90c4f16c": {
+   "title": "奇瑞捷途环游者 EV 上市 48 小时订单突破 2 万台，8.99 万元起",
+   "source": "IT之家",
+   "published": "2026-11-27T10:49:48+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "111f6e5ba83f7442c35dd323f1a1d7cda2e4d560": {
+   "title": "摩米士推出 1-Power X+ 自带线 45W 移动电源：3C+1A，10000mAh 电芯售 233 元",
+   "source": "IT之家",
+   "published": "2026-11-27T10:29:15+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "47f0e096ed9f2f9aa2157ac93cd694ad9dbf388e": {
+   "title": "铭瑄 MS-Terminator Z890-C WIFI 主板发售：4 个 M.2，1249 元",
+   "source": "IT之家",
+   "published": "2026-11-27T10:14:14+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "0866782ac79a8a0c84c05c8f8103f4730c1076fb": {
+   "title": "雷神推出“JQ27F240P”显示器：2K 240Hz，798.5 元",
+   "source": "IT之家",
+   "published": "2026-11-27T10:10:43+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "2fd24744128126b1b833b7801ca6014901573c20": {
+   "title": "长城发布全球首个量产大电量真智能 HEV 架构“Hi-HEV”：电池容量翻 2-3 倍，首搭魏牌高山 8",
+   "source": "IT之家",
+   "published": "2026-11-27T09:49:05+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "b30d18b996b3a9039a97fe0c2ed25c2eff8fd848": {
+   "title": "不只能卖网约车，广汽杨龙称埃安今年 C 端销量占比已达 81%",
+   "source": "IT之家",
+   "published": "2026-11-27T09:37:48+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "1ba6c19239798aa39ce9a8beb55949f294815d17": {
+   "title": "市场监管总局修订发布信息无障碍国家标准，覆盖网页与移动应用全场景",
+   "source": "IT之家",
+   "published": "2026-11-27T09:28:23+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "dfddeb74ad9508fcb57ee42685b8b45d7e8b7f8d": {
+   "title": "滴滴 2026 年第三季度订单量同比增长 11.5%，总交易额同比增长 21.5%",
+   "source": "IT之家",
+   "published": "2026-11-27T09:26:10+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "7b0fdc1f89487b78c0ac3d416dc27ed586a3d23b": {
+   "title": "韩国运营商 KT 推出“三丽鸥角色主题儿童手机”：基于三星 Galaxy A18 LTE 打造，提供多款联名配件",
+   "source": "IT之家",
+   "published": "2026-11-27T09:13:09+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "5e5f3988914a81b5d36709808591855ff02a4fbf": {
+   "title": "消息称 vivo X500 Ultra 已定版，或成安卓阵营的超大杯独苗",
+   "source": "IT之家",
+   "published": "2026-11-27T09:12:25+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "9c2455f2fb5c0b893a363cdbf4a9f0e3a624f4be": {
+   "title": "宝马计划推出新一轮员工自愿离职补偿方案，首轮有部分员工获 65 万欧元补偿金",
+   "source": "IT之家",
+   "published": "2026-11-27T09:00:57+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "7b4d7169e4f94e162d711f283ba669d4ea89e680": {
+   "title": "曹操出行与阿联酋拉斯海马交通管理局达成合作，将在当地开展 Robotaxi 试点",
+   "source": "IT之家",
+   "published": "2026-11-27T08:57:35+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "98592739cad84939665af5e0882fe34db5917ecd": {
+   "title": "TrendForce：DRAM 需求面临更大不确定性，一般型内存合约价 2028 年转跌风险升温",
+   "source": "IT之家",
+   "published": "2026-11-27T08:42:06+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "8817fe2b15ce3e3e0c39d2d7fd26a169a475a8e6": {
+   "title": "消息称某厂子系 2027 年新机有 7 英寸超大屏、阔直板等多形态，预计小米 REDMI 旗下",
+   "source": "IT之家",
+   "published": "2026-11-27T08:41:22+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "7a9f388cf35c0370016716f139d86723ea8c865d": {
+   "title": "日本“三井购物公园”App 遭黑客非法访问，311.9 万名会员个人信息外泄",
+   "source": "IT之家",
+   "published": "2026-11-27T08:40:40+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "d22f03da3eeb21b0e4ae3ecb654a3e35498d3ff7": {
+   "title": "雅迪、台铃、爱玛等 15 家电动自行车企业被点名，市场监管总局集中约谈",
+   "source": "IT之家",
+   "published": "2026-11-27T08:33:45+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "2ff2d36d3b31340e91c1882cf9f01bcab31a2f0c": {
+   "title": "小米推出米家净水器 3C 1000：通过母婴级净水认证、1200G 通量，999 元",
+   "source": "IT之家",
+   "published": "2026-11-27T08:29:04+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "a71ebd26b4b5eabc594457512839080454df0fd4": {
+   "title": "量子精密测量新突破：清华大学等联合团队刷新两项纪录，成果登《自然》",
+   "source": "IT之家",
+   "published": "2026-11-27T08:18:57+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "b209bdb9372c4779fcd5c728f876e30465765566": {
+   "title": "中国战队 LVG 以 3-2 晋级《CS2》PGL Major 新加坡 2026 第二阶段",
+   "source": "IT之家",
+   "published": "2026-11-27T08:09:57+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "a0ab49993c828581f42b49313bce24a62b0b8b91": {
+   "title": "北京现代与宁德时代战略合作，涵盖换电生态共建、技术联合研发等领域",
+   "source": "IT之家",
+   "published": "2026-11-27T08:07:33+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "2b41fe1301d173334822c84def00bca0bad9ced8": {
+   "title": "安全公司警告近期有黑客持续伪造知名企业邀请函邮件进行钓鱼攻击，冒充英伟达、可口可乐等公司",
+   "source": "IT之家",
+   "published": "2026-11-27T08:04:21+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "a6acade3885f75fe345210895a02bf9dde415782": {
+   "title": "韦东奕再获大奖！攻克近140年数学难题，获两位院士共同提名",
+   "source": "量子位",
+   "published": "2026-11-27T07:39:18+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "d7604e5fddd641a08bcf58ad2f78977ddf98a257": {
+   "title": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
+   "source": "爱范儿",
+   "published": "2026-11-27T03:49:58+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "b9c34954c242fec44114ea3d7d8307b11e91084e": {
+   "title": "X finally gets parental controls after 20 years",
+   "source": "TechCrunch",
+   "published": "2026-11-26T19:31:50+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "290749aa07812a4cded5879841ae5e5d425fb88c": {
+   "title": "启源 Q06 迎来大升级！长安发布天枢领航 Ultra 2.0，明年 1 月推车位到车位｜广州车展",
+   "source": "爱范儿",
+   "published": "2026-11-27T12:16:32+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "e8d40f0b7eaebe51fd7d8ed43acdd0a5f544f1fa": {
+   "title": "捷途纵横 R700 发布：华为乾崑智驾配大梁，家用硬派两手抓｜广州车展",
+   "source": "爱范儿",
+   "published": "2026-11-27T12:13:40+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "f424245d951b2cae56bb94e4f9be8e8ae6ae042e": {
+   "title": "蔚来三大品牌首次同台亮相广州车展，ES8、乐道 L60 推出全新特别版车型丨广州车展",
+   "source": "爱范儿",
+   "published": "2026-11-27T08:55:27+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "84982be8b05d73df29dd4e69dc628fb8b5b78e28": {
+   "title": "10.28 万元起，800V、后驱、原厂改装，零跑 Lafa5 想做一辆有趣的电动车丨广州车展",
+   "source": "爱范儿",
+   "published": "2026-11-27T08:21:35+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "be33e72cad4b0bc4e6ac6b8a690b37011bebfd79": {
+   "title": "华为全新一代巨鲸电池平台：电池安全，不能只看新车出厂的那一天",
+   "source": "爱范儿",
+   "published": "2026-11-27T07:06:54+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "051a6008b714714c6ac95b75f3355b25ca92cfe7": {
+   "title": "百亿具身独角兽破壁，玩家集体涌向它的牌桌",
+   "source": "量子位",
+   "published": "2026-11-27T03:23:25+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "8316f88bd093d43e5b0d41cc5126e85e79c3154b": {
+   "title": "Netflix’s coziest show has made a very quiet return",
+   "source": "The Verge",
+   "published": "2026-11-26T21:00:00+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "efaba00f8b8551a07a777007e17ace862f4b9447": {
+   "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+   "source": "The Verge",
+   "published": "2026-11-26T19:00:00+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "cf4a9ac917e7a4f4efec88ee9c40e0835498beb7": {
+   "title": "Android app developers will soon have to share their address publicly",
+   "source": "The Verge",
+   "published": "2026-11-26T17:06:24+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "48a4826e544e4cea9861d726be4bc1068ea11dae": {
+   "title": "The best Black Friday deals we’ve already found",
+   "source": "The Verge",
+   "published": "2026-11-26T16:55:00+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "d68b86b2580fe9e6cd6b79c0bf52cc999c345253": {
+   "title": "上海地铁计次票 12 月 1 日启用：激活日及之后 30 个自然日内有效，折合单次最低 4.33 元",
+   "source": "IT之家",
+   "published": "2026-11-27T12:27:38+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "780a8c3a73a9dfbc5c4f4c6fd780004e7a9b3ee8": {
+   "title": "京东物流今年购入超百台新能源重卡，将加速推进公路运输零碳转型",
+   "source": "IT之家",
+   "published": "2026-11-27T12:08:22+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "9a45434d47000cf86d072d0ee0e006198c54f772": {
+   "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-27T12:08:51+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "8f10a1143cef16f6d213534870cfd2c4f9782ff7": {
+   "title": "国家网信办等十一部门联合公布《分布式数字身份互通互认应用规定》，2027 年 3 月 1 日起施行",
+   "source": "IT之家",
+   "published": "2026-11-27T11:43:48+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "195f15906929fef8506c0d036b345b142bcf4168": {
+   "title": "华硕 QD-OLED 显示器 XG32UQDS 发售：31.5\" UHD 180Hz，4999 元",
+   "source": "IT之家",
+   "published": "2026-11-27T10:29:14+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "c12967d37de2e0cce29f2d0acf2842a29a8c43bc": {
+   "title": "安克太阳能板外观设计专利国内获批：折叠设计、自带支架",
+   "source": "IT之家",
+   "published": "2026-11-27T10:17:15+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "a5a9e64bda1fcba23dacf8bcfa0cfa3f97608a56": {
+   "title": "华硕 XG27ACMSR 显示器开售：QHD 360Hz / FHD 420Hz / HD 640Hz，2199 元",
+   "source": "IT之家",
+   "published": "2026-11-27T09:59:13+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "6be28beb4886553381e8b0b3f2df8840f38de5eb": {
+   "title": "乘联分会崔东树：2026 年 10 月中国汽车进口 2.3 万辆，同比下降 48%",
+   "source": "IT之家",
+   "published": "2026-11-27T09:56:58+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "f114382bb4123b3fed90f1620b0dcc9cbf23948e": {
+   "title": "徐兰高铁郑徐段完成动态检测拉通试验，为按时速 350 公里高标运营做好准备",
+   "source": "IT之家",
+   "published": "2026-11-27T09:33:45+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "e724dd3defd0e3012f9ea56bd387a733b7a2b0e6": {
+   "title": "横跨六省区、全长 2370 公里，“西电东送”大动脉启动送受双端联合调试",
+   "source": "IT之家",
+   "published": "2026-11-27T09:22:19+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "dc998124c99529707b2b17864d5ac5f0eab00290": {
+   "title": "电商 Temu 承诺遵守欧盟消费者保护规则：彻底移除强制客户玩游戏要求",
+   "source": "IT之家",
+   "published": "2026-11-27T09:07:09+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "617096d383dd0305951e0675ad473f8a3e5c54e6": {
+   "title": "长三角高铁里程突破 8500 公里，安徽巢马、淮蚌、淮阜高铁今日开通运营",
+   "source": "IT之家",
+   "published": "2026-11-27T08:47:05+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "9f4c6332026b92af3e769e6e2cb31dcb0f20ea5a": {
+   "title": "京东家电家居超级品类日开启：石头 A30 Pro 2.0 洗地机 1297 元近期好价，部分商品低至 5 折起",
+   "source": "IT之家",
+   "published": "2026-11-27T08:34:28+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "73364c777b9f60ce838f0ad5b907daf6242cbf55": {
+   "title": "北京现代艾尼氪水星概念车全球首秀，中国设计师团队原创设计",
+   "source": "IT之家",
+   "published": "2026-11-27T08:29:36+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "02add864b237cc9db71c2738cb552cc1cfe187ba": {
+   "title": "Steam 喜加一：像素风塔防游戏《I Missed the Apocalypse》转付费前免费领",
+   "source": "IT之家",
+   "published": "2026-11-27T08:12:43+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "2b5c5461553855a382e4af1ced6bc3ec00bd755a": {
+   "title": "European Commission Declares Browser Competition a Digital Markets Act Priority",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-27T08:11:46+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "2323a7ca396fe079d0712106980489ee0b2c086b": {
+   "title": "Volvo's big batteries: We drive its updated 2028 plug-in hybrids",
+   "source": "Ars Technica",
+   "published": "2026-11-27T08:00:53+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "98eca79b24a59a9d4ce4f52d62dcad731e91a18e": {
+   "title": "韩国高考已查处涉智能设备作弊达 112 起，增至去年 3.6 倍",
+   "source": "IT之家",
+   "published": "2026-11-27T08:03:53+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "9fc1c3f3ed7cb3fb68bde032959048a9cdc64471": {
+   "title": "Indie web browser Ladybird enters alpha testing",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-27T07:58:37+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "b2fae38f62036636e41eff11fdaacc75632dd49b": {
+   "title": "华为 Mate X8 评测：终局之战",
+   "source": "爱范儿",
+   "published": "2026-11-27T03:06:45+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "0b3d288147226f25bea8fc05ba1f6da57130ff81": {
+   "title": "早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记",
+   "source": "爱范儿",
+   "published": "2026-11-27T00:08:31+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "4778e09eea4c7bebce53c3612b3aadafd54e8898": {
+   "title": "从「中国特供」变全球旗舰，搭载 Momenta 智驾的本田冠道来了｜广州车展",
+   "source": "爱范儿",
+   "published": "2026-11-27T12:20:17+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "9dba6b76440b29fa54caa72593d61916191f7b8d": {
+   "title": "43.99 万元，只有一个配置，岚图泰山纯电版带来了三腔空悬｜广州车展",
+   "source": "爱范儿",
+   "published": "2026-11-27T12:11:19+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "fe420980c5ecfa5c050bb799792cd2bd2e639f1c": {
+   "title": "限时 11.99 万元起，日产 NX7 标配宁德时代电池，还有Momenta 智驾｜广州车展",
+   "source": "爱范儿",
+   "published": "2026-11-27T12:09:14+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "5ae021b69ecdb0de6c8e820a3af7a68454415cc2": {
+   "title": "阿维塔 T09 中国首秀，这是一辆可以在四座和六座之间切换的旗舰 SUV丨广州车展",
+   "source": "爱范儿",
+   "published": "2026-11-27T09:17:03+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "478fd061dce9834ce76562e46b9ed566baee43e6": {
+   "title": "限时 25.49 万元起！奔驰纯电 GLC「大件夹抵食」",
+   "source": "爱范儿",
+   "published": "2026-11-27T08:49:16+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "5741fbdfe157fbc5aa804acb964913e7a28f2fdc": {
+   "title": "广汽丰田升级「厂家三担责」，不卡每年 3 万公里，磕碰起火也由厂家兜底｜广州车展",
+   "source": "爱范儿",
+   "published": "2026-11-27T08:31:22+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "b856aebef8e20beba86a49c1fcfc0df59ce10aca": {
+   "title": "30.98 万元起！换装 800V 和三联屏的问界新 M7 亮相｜广州车展",
+   "source": "爱范儿",
+   "published": "2026-11-27T08:01:41+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "ecfdd0cf835853fd7f2600949773290ef6033f12": {
+   "title": "30.98 万元起，领克 900L 想让大七座 SUV 重新成为主流丨广州车展",
+   "source": "爱范儿",
+   "published": "2026-11-27T07:29:45+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "16d23777195326a5aad5e956b108b8215cad7329": {
+   "title": "Buy Nothing Day – Friday November 27th 2026",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-27T05:52:42+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "4de1da32b1581587eed1057ddb05fed8eb0d3d6b": {
+   "title": "Hard Drive pricing has gotten bad",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-27T01:13:49+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "77fb514f684b7f627b095404071e297104d887bc": {
+   "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-26T21:59:19+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "584a22fac6ec2e0db6cf67b6ecd58b7e989be2ce": {
+   "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-26T21:08:05+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "630f7e84a7e043a1c9746b4e9a72079aa0d700b6": {
+   "title": "Company Culture = Slack Emoji ÷ √Headcount",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-26T20:49:49+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "635318a86b23b104ea42917b677d9c9096b638fa": {
+   "title": "Rvoip: VoIP stack in Rust",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-26T19:18:09+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "d8fd6f772ec9db461ed3d8070143d6215707ed1f": {
+   "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-26T18:37:24+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "0c6a5f4a73c63450c082b2a66dfac6aa43542588": {
+   "title": "George Whitesides, 1939-2026",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-26T18:13:07+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "8416303551001226216bbae1f0dc43b5f8ce4e9d": {
+   "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-26T17:47:45+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
+  },
+  "23c73e41c2d83b858fe9a4758c46275ad55f28a8": {
+   "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+   "source": "Hacker News (frontpage)",
+   "published": "2026-11-26T17:36:47+00:00",
+   "first_seen": "2026-11-27T13:01:08.987769+00:00"
   }
  },
- "updated": "2026-11-26T13:01:05.306267+00:00"
+ "updated": "2026-11-27T13:01:08.987769+00:00"
 }

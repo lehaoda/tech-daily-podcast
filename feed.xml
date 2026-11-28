@@ -5,7 +5,7 @@
     <description>每天 5 分钟的科技与 AI 新闻节目「乐见未来」:主播 Adam 和你聊大模型发布、芯片硬件、大厂动态、融资监管与科学突破。新闻选自 OpenAI 官方博客、量子位、IT之家、TechCrunch、The Verge 等正规媒体,每集描述附原始来源链接。每天早上 7 点更新。</description>
     <link>https://lehaoda.github.io/tech-daily-podcast</link>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 27 Nov 2026 07:15:00 -0600</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 07:10:34 -0600</lastBuildDate>
     <image>
       <url>https://lehaoda.github.io/tech-daily-podcast/cover.png</url>
       <title>乐见未来</title>
@@ -22,6 +22,16 @@
     </itunes:owner>
     <itunes:category text="Technology"/><itunes:category text="IT &amp; Software"/>
     <itunes:image href="https://lehaoda.github.io/tech-daily-podcast/cover.png"/>
+  <item>
+    <title>乐见未来 2026-11-28 · 第25期</title>
+    <description><![CDATA[<p>本期报道的原始来源:</p><ul><li>《黑神话：悟空》制作人冯骥发 8000 字长文谈"后 AI 时代"：如果有一天没有任何工作需要人了，人该怎么办？ | IT之家 <a href="https://www.ithome.com/1/033/927.htm">《黑神话：悟空》制作人冯骥发 8000 字长文谈"后 AI 时代"：如果有一天没有任何工作需要人了，人该怎么办？ | I</a></li><li>《黑神话：悟空》制作人冯骥：从四年前开始，AI 可能已经逐渐控制了世界 | IT之家 <a href="https://www.ithome.com/1/033/945.htm">《黑神话：悟空》制作人冯骥：从四年前开始，AI 可能已经逐渐控制了世界 | IT之家</a></li><li>马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力 | IT之家 <a href="https://www.ithome.com/1/033/898.htm">马斯克：谷歌已表示有兴趣从 SpaceX 租用更多算力 | IT之家</a></li><li>我国太空数据中心在轨技术试验平台上线 | IT之家 <a href="https://www.ithome.com/1/033/983.htm">我国太空数据中心在轨技术试验平台上线 | IT之家</a></li><li>美国多个学区禁用谷歌 AI 功能，并考虑彻底弃用谷歌产品 | IT之家 <a href="https://www.ithome.com/1/033/977.htm">美国多个学区禁用谷歌 AI 功能，并考虑彻底弃用谷歌产品 | IT之家</a></li><li>全新实景视图特斯拉 FSD v15 不再独有，小米汽车世界模型 2.0 实时渲染能力公开 | IT之家 <a href="https://www.ithome.com/1/033/919.htm">全新实景视图特斯拉 FSD v15 不再独有，小米汽车世界模型 2.0 实时渲染能力公开 | IT之家</a></li><li>首个开源鸿蒙社区打造的具身智能操作系统 RoboOH 2.0 正式发布 | IT之家 <a href="https://www.ithome.com/1/033/980.htm">首个开源鸿蒙社区打造的具身智能操作系统 RoboOH 2.0 正式发布 | IT之家</a></li><li>南京发布鸿蒙智能体三年行动计划：2028 年营收破千亿，集聚企业超 100 家 | IT之家 <a href="https://www.ithome.com/1/033/920.htm">南京发布鸿蒙智能体三年行动计划：2028 年营收破千亿，集聚企业超 100 家 | IT之家</a></li><li>消息称华为 Mate 90 系列手机实时激活销量已破 100 万 | IT之家 <a href="https://www.ithome.com/1/033/849.htm">消息称华为 Mate 90 系列手机实时激活销量已破 100 万 | IT之家</a></li><li>亏贼！卡帕西用Claude搓出"美国版《文明》"，网友直接玩成全球接力赛 | 量子位 <a href="https://www.qbitai.com/2026/11/513428.html">亏贼！卡帕西用Claude搓出"美国版《文明》"，网友直接玩成全球接力赛 | 量子位</a></li></ul>]]></description>
+    <link>https://lehaoda.github.io/tech-daily-podcast/#2026-11-28</link>
+    <guid isPermaLink="true">https://lehaoda.github.io/tech-daily-podcast/#2026-11-28</guid>
+    <pubDate>Sat, 28 Nov 2026 07:10:34 -0600</pubDate>
+    <enclosure url="https://podcast.lehaoda.com/episodes/2026-11-28.m4a" type="audio/mp4" length="2658789"/>
+    <itunes:duration>304</itunes:duration>
+    <itunes:image href="https://lehaoda.github.io/tech-daily-podcast/cover.png"/>
+  </item>
   <item>
     <title>乐见未来 2026-11-27 · 第24期</title>
     <description><![CDATA[<p>本期报道的原始来源:</p><ul><li>字节火山引擎：豆包大模型已服务八成国内头部电视厂商，创维、长虹、海信、TCL 等推出量产电视 | IT之家 <a href="https://www.ithome.com/1/033/718.htm">字节火山引擎：豆包大模型已服务八成国内头部电视厂商，创维、长虹、海信、TCL 等推出量产电视 | IT之家</a></li><li>Nvidia hits pause on chip shipments to Southeast Asia | TechCrunch <a href="https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/">Nvidia hits pause on chip shipments to Southeast Asia | Tech</a></li><li>支付宝车载助手 3.0 发布：一句话在车上点外卖、付充电费，联合北汽打造 A.I. Car 新车型 | IT之家 <a href="https://www.ithome.com/1/033/541.htm">支付宝车载助手 3.0 发布：一句话在车上点外卖、付充电费，联合北汽打造 A.I. Car 新车型 | IT之家</a></li><li>小鹏 MONA 全系累计交付汽车突破 40 万台，平均月交付近 1.5 万台 | IT之家 <a href="https://www.ithome.com/1/033/721.htm">小鹏 MONA 全系累计交付汽车突破 40 万台，平均月交付近 1.5 万台 | IT之家</a></li><li>曝谷歌第 10 代 TPU 芯片将配备 512GB 定制 HBM5 内存 | IT之家 <a href="https://www.ithome.com/1/033/624.htm">曝谷歌第 10 代 TPU 芯片将配备 512GB 定制 HBM5 内存 | IT之家</a></li><li>已深度服务微信电商数百个业务流程，微信开源 WeMM-Ecom 多模态基础模型家族 | IT之家 <a href="https://www.ithome.com/1/033/649.htm">已深度服务微信电商数百个业务流程，微信开源 WeMM-Ecom 多模态基础模型家族 | IT之家</a></li><li>智元：精灵 G2 机器人在龙旗科技产线正式承担喇叭 BOX 安装任务并实现并线生产 | IT之家 <a href="https://www.ithome.com/1/033/744.htm">智元：精灵 G2 机器人在龙旗科技产线正式承担喇叭 BOX 安装任务并实现并线生产 | IT之家</a></li><li>美团 2026 财年第三财季归母净利润 20.7 亿元，同比扭亏为盈 | IT之家 <a href="https://www.ithome.com/1/033/545.htm">美团 2026 财年第三财季归母净利润 20.7 亿元，同比扭亏为盈 | IT之家</a></li><li>DeepSeek APP突然更新账单，网友：要收费了？ | 量子位 <a href="https://www.qbitai.com/2026/11/513305.html">DeepSeek APP突然更新账单，网友：要收费了？ | 量子位</a></li><li>网信办：我国超 64% 成年公民具备初级及以上数字素养与技能，近半数具备人工智能素养 | IT之家 <a href="https://www.ithome.com/1/033/732.htm">网信办：我国超 64% 成年公民具备初级及以上数字素养与技能，近半数具备人工智能素养 | IT之家</a></li></ul>]]></description>
@@ -210,16 +220,6 @@
     <pubDate>Mon, 09 Nov 2026 07:06:44 -0600</pubDate>
     <enclosure url="https://podcast.lehaoda.com/episodes/2026-11-09.m4a" type="audio/mp4" length="2386657"/>
     <itunes:duration>276</itunes:duration>
-    <itunes:image href="https://lehaoda.github.io/tech-daily-podcast/cover.png"/>
-  </item>
-  <item>
-    <title>乐见未来 2026-11-08 · 第5期</title>
-    <description><![CDATA[<p>本期报道的原始来源:</p><ul><li>AI 公司迄今最大发电设备采购订单:曝 Anthropic 砸 34 亿美元买燃气发电机 | IT之家 <a href="https://www.ithome.com/1/023/989.htm">AI 公司迄今最大发电设备采购订单:曝 Anthropic 砸 34 亿美元买燃气发电机 | IT之家</a></li><li>伯恩斯坦:OpenAI 至 2030 年算力基础设施支出或达 6140 亿美元,低于此前 7500 亿美元传闻 | IT之家 <a href="https://www.ithome.com/1/023/905.htm">伯恩斯坦:OpenAI 至 2030 年算力基础设施支出或达 6140 亿美元,低于此前 7500 亿美元传闻 | IT</a></li><li>国家能源局:在算力等新兴产业带动下,我国用电需求仍将刚性增长、预计相当于每年新增 3 个上海市的用电量 | IT之家 <a href="https://www.ithome.com/1/023/911.htm">国家能源局:在算力等新兴产业带动下,我国用电需求仍将刚性增长、预计相当于每年新增 3 个上海市的用电量 | IT之家</a></li><li>数据中心反对声浪席卷欧洲各地,抗议活动接连不断 | IT之家 <a href="https://www.ithome.com/1/023/977.htm">数据中心反对声浪席卷欧洲各地,抗议活动接连不断 | IT之家</a></li><li>腾讯姚顺雨谈"AI 模型公司护城河":更多存在于产品层,而不是模型层 | IT之家 <a href="https://www.ithome.com/1/023/991.htm">腾讯姚顺雨谈"AI 模型公司护城河":更多存在于产品层,而不是模型层 | IT之家</a></li><li>三名男子涉嫌利用 AI 冒充企业高管和律师行骗,涉案金额超 1 亿美元 | IT之家 <a href="https://www.ithome.com/1/023/925.htm">三名男子涉嫌利用 AI 冒充企业高管和律师行骗,涉案金额超 1 亿美元 | IT之家</a></li><li>日本富士电视台将在所有真人剧集制作中使用 AI,可省七至八成特效制作工序 | IT之家 <a href="https://www.ithome.com/1/023/992.htm">日本富士电视台将在所有真人剧集制作中使用 AI,可省七至八成特效制作工序 | IT之家</a></li><li>物理智能开源平台 Hitch Open 在进博会发布,142 拍刷新 AI 机器人乒乓对打世界纪录 | IT之家 <a href="https://www.ithome.com/1/023/920.htm">物理智能开源平台 Hitch Open 在进博会发布,142 拍刷新 AI 机器人乒乓对打世界纪录 | IT之家</a></li></ul>]]></description>
-    <link>https://lehaoda.github.io/tech-daily-podcast/#2026-11-08</link>
-    <guid isPermaLink="true">https://lehaoda.github.io/tech-daily-podcast/#2026-11-08</guid>
-    <pubDate>Sun, 08 Nov 2026 07:06:42 -0600</pubDate>
-    <enclosure url="https://podcast.lehaoda.com/episodes/2026-11-08.m4a" type="audio/mp4" length="2396705"/>
-    <itunes:duration>278</itunes:duration>
     <itunes:image href="https://lehaoda.github.io/tech-daily-podcast/cover.png"/>
   </item>
   </channel>
